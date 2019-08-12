@@ -1,6 +1,8 @@
+MANIFEST.in
 README.md
 setup.py
 corpus_toolkit/__init__.py
+corpus_toolkit/antbnc_lemmas_ver_003.txt
 corpus_toolkit/nlp.py
 corpus_toolkit/simple.py
 corpus_toolkit.egg-info/PKG-INFO
