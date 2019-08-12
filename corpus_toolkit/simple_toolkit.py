@@ -5,6 +5,8 @@ Created on Wed Aug  7 08:00:19 2019
 
 @author: kkyle2
 """
+#version .09 - common error handling include load corpus issues
+#version .05-.08 minor bug fixes
 #version .04 2019-8-12 adds code for reading lemma file while part of package
 #version .03 2019-8-11 includes more minor bug fixes 
 #version .02 2019-8-9
@@ -68,6 +70,11 @@ lemma_dict = load_lemma(data_filename)
 def load_corpus(dir_name, ending = '.txt', lower = True): #this function takes a directory/folder name as an argument, and returns a list of strings (each string is a document)
 	master_corpus = [] #empty list for storing the corpus documents
 	filenames = glob.glob(dir_name + "/*" + ending) #make a list of all ".txt" files in the directory
+	
+	if len(filenames) == 0:
+		doc_check(filenames,dir_name,ending)
+		return(None)
+
 	for filename in filenames: #iterate through the list of filenames
 		if lower == True:
 			master_corpus.append(open(filename, errors = "ignore").read().lower()) #open each file, lower it and add strings to list

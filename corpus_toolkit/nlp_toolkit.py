@@ -5,14 +5,28 @@ Created on Fri Aug  9 06:22:09 2019
 
 @author: kkyle2
 """
+#version .09 - common error handling include load corpus issues
+#version .05-.08 minor bug fixes
 #version .04 2019-8-12; adds bug fixes
 #version .03 2019-08-11; adds dependency bigram functions (including strenght of association and concordancing)
 #version .02 2019-8-9; includes a number of minor bug fixes
 
 import glob
 import math
-import spacy #import spacy
-nlp = spacy.load("en_core_web_sm") #load the English model. This can be changed - just make sure that you download the appropriate model first
+try:
+	import spacy #import spacy
+except ModuleNotFoundError:
+	print("It appears that you do not have spacy installed on your computer. Without installing Spacy, this package won't work properly.")
+try:	
+	nlp = spacy.load("en_core_web_sm") #load the English model. This can be changed - just make sure that you download the appropriate model first
+except ImportError:
+	print("It appears that you haven't downloaded the default language model for Spacy 'en_core_web_sm'. Please make sure you have a model downloaded. If you wish to use a model other than the default one, then load it before proceeding: 'nlp = spacy.load('model_name')'")
+
+def doc_check(f_list,dirname,ending):
+	if len(f_list) == 0:
+		print("\nNo files with the ending '" + ending + "' were found in a directory/folder entitled '" + dirname + "'.\n\n" + "Please check to make sure that:\n1. You have set your working directory\n2. Your directory/folder name is spelled correctly\n3. '" + ending +"' matches the ending of your filenames")
+	else:
+		print(len(f_list) + " files ending in " + ending + " found in the " + dirname + " folder.")
 
 def tag(text,tp = "upos", lemma = True, lower = True, connect = "_",ignore = ["PUNCT","SPACE","SYM"]):
 	
@@ -55,6 +69,11 @@ def tag(text,tp = "upos", lemma = True, lower = True, connect = "_",ignore = ["P
 		
 def tag_corpus(dirname, ending = ".txt", tp = "upos", lemma = True, lower = True, connect = "_",ignore = ["PUNCT","SPACE"]):
 	filenames = glob.glob(dirname + "/*" + ending) #gather all text names
+	
+	if len(filenames) == 0:
+		doc_check(filenames,dirname,ending)
+		return(None)
+		
 	master_corpus = [] #holder for total corpus
 	
 	file_count  = 1 #this is to give the user updates about the pogram's progress
@@ -88,6 +107,10 @@ def dep_bg_simple(text,dep): #for teaching purposes
 def dep_bigram_corpus(dirname,dep,ending = ".txt", lemma = True, lower = True, dep_upos = None, head_upos = None, dep_text = None, head_text = None):
 	filenames = glob.glob(dirname + "/*" + ending) #gather all text names
 	
+	if len(filenames) == 0:
+		doc_check(filenames,dirname,ending)
+		return(None)
+
 	bi_freq = {} #holder for dependency bigram frequency
 	dep_freq = {} #holder for depenent frequency
 	head_freq = {} #holder for head frequency
