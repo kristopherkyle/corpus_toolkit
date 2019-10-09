@@ -1,0 +1,86 @@
+Two metabolites ( 1 , and 2 ) ) of p-aminobenzoic acid ( PABA ) which act as cofactors for the hydroxylation of aniline by acid-fast bacteria are biosynthesized from A[fj] . 
+The 7 carbons of PABA are incorporated directly into metabolite 2 ( ( as shown with both ring-labeled and carboxy-labeled A[fj] ) . 
+Thirty-five of the 36 carbon atoms arise from A[fj] . 
+All 28 carbons of metabolite 1 ( ( a product of mild acid hydrolysis of 2 ) arise from A[fj] . 
+Metabolite 1 , isolated from the medium , however , showed a lower specific activity , which indicates endogenous synthesis of this metabolite . 
+Vigorous acid hydrolysis of metabolite 1 , destroyed the biological activity of the compound and liberated two aryl amines . 
+Fragment A has been obtained in crystalline form as a dioxalate salt and free base . 
+Preliminary evidence tentatively indicates that the molecule ( metabolite 1 ) ) is cleaved at a secondary amide bond . 
+( N.H. Sloane ; ; chemical studies are being pursued with the cooperation of K.G. Untch . 
+) studies on esterases -- Research on esterases in mammalian sera was continued . 
+One of the most interesting findings was the extreme sensitivity of plasma arylesterases to rare earth ions . 
+The inhibition of the enzyme by very low concentrations of lanthanum ion is probably the strongest known biological effect of rare earth salts . 
+Various metal ions have been found to protect plasma arylesterase against inactivation by urea and guanidine . 
+The effects can be related to the structure of this enzyme . 
+The non-identity of serum and red blood cell arylesterase was also established . 
+Furthermore , the hydrolysis of paraoxon was studied in mammalian sera , and it was found that it is hydrolyzed by albumin ( or a factor attached to it ) in addition to arylesterase . 
+Selective inhibitors can distinguish the two activities . 
+Investigations on the acceleration of human plasma cholinesterase were carried further . 
+( E.G. Erdos , L.E. Boggs , C.D. Mackey ) biophysical studies on modified fibrous proteins -- Electron-microscopical and physical-chemical methods were used to demonstrate the renaturation of heat-denatured collagen and ribonucleic acid . 
+( R.V. Rice ) A method was devised for extracting and purifying soluble earthworm collagen ( EWC ) . 
+It was observed that EWC macromolecules are the same diameter ( 15 a. ) but much longer ( up to several microns ) than vertebrate tropocollagen . 
+This unusual collagen also was shown to undergo a reversible thermal phase transformation . 
+( R.V. Rice , M.D. Maser ) studies on peptides and peptidases -- This investigation involved several aspects . 
+Substance Z , an active urinary peptide , was purified by extraction in organic solvents and repeated column chromatography ; ; high-voltage electrophoresis and paper chromatography were used in preliminary structural studies ; ; pharmacological effects in vitro on isolated surviving organs and in vivo on blood pressure were assayed ; ; special equipment required for registering respiration and for recording the contraction of smooth muscles under various conditions was developed by the Instruments Section ( Victor Jackman , W.C. Barnes , J.F. Reiss ) ; ; and enzymes which terminate the action of peptides such as bradykinin and perhaps Substance Z were studied . 
+Experiments are in progress to develop ultraviolet spectrophotometric techniques for assaying these enzymes and for studying their sensitivity to metal ions . 
+( E.G. Erdos , C.D. Mackey , A.G. Renfrew , W.B. Severs , E.M. Sloane ) seed proteins -- In a physiochemical study of seed proteins , the globulins of the Brazil nut have been investigated . 
+In addition to the known principal globulin , excelsin , three other ultracentrifugally distinct components have been observed . 
+A water-soluble protein of quite low molecular weight ( ca. 10,000 ) has also been found in this system and partly characterized . 
+( E.F. Casassa , H.J. Notarius ) continuum mechanics and viscoelasticity theory of non-newtonian fluids -- On the basis of a differentiability assumption in function space , it is possible to prove that , for materials having the property that the stress is given by a functional of the history of the deformation gradients , the classical theory of infinitesimal viscoelasticity is valid when the deformation has been infinitesimal for all times in the past . 
+By strengthening the differentiability assumption , it has been possible to derive second and higher order theories of viscoelasticity . 
+In the second-order theory , one of the normal stress differences can be calculated from the first-order stress relaxation function . 
+( B.D. Coleman with Walter Noll , Department of Mathematics , Carnegie Institute of Technology ) viscoelastic measurements -- An extensive series of measurements was made on a high-density polyethylene in a torsion pendulum instrument using forced sinusoidal oscillation , free vibration , and creep measurements over the temperature range of A[fj] to 80-degrees-C . 
+As many as seven decades of the time scale were thus covered isothermally . 
+The simple time-temperature equivalence valid for many amorphous systems did not hold here . 
+It was possible , however , to decompose the compliance into a sum of a frequency-independent component and two viscoelastic mechanisms , each compatible with the Boltzmann superposition principle and with a consistent set of time-temperature equivalence factors . 
+( Hershel Markovitz , D.J. Plazek , Haruo Nakayasu ) geochemistry trace elements in tektites , meteorites , and related materials -- The results of microanalysis of tektites ( natural glasses of unknown origin ) for gallium and germanium have shown that these glasses are probably produced from terrestrial ( or less likely from lunar ) matter by impact of a celestial body . 
+The gallium germanium ratio is higher than that for ordinary igneous , metamorphic , or sedimentary matter as a result of selective volatilization of the components of the tektite . 
+Gallium oxide is less volatile than silica ( the main constituent of tektites ) and germanium oxide is more volatile . 
+Australites ( tektites from Australia ) give the appearance of a second melting . 
+In conformity with this conclusion a higher trace gallium content was found in the portion ( flange ) that has undergone a second melting . 
+The silicate fractions of stony meteorites show gallium germanium ratios similar to those of tektites because they too have undergone melting at some point in their histories . 
+Libyan Desert silica-glass , another natural glass , is composed of nearly pure silica and has the same trace germanium content as sands in the area . 
+The gallium content , however , has been enhanced five-fold . 
+This glass is probably formed from Libyan Desert sands by comet or stony-meteorite impact . 
+Nickel-iron meteorites with sufficient kinetic energy to produce large terrestrial explosion craters may nevertheless melt only small quantities of material . 
+Most of the impact energy is spent in crushing and fragmentation . 
+When rapid quenching follows melting , impact glasses may result . 
+These always contain metallic inclusions . 
+Impact glasses not containing elemental nickel-iron may have been produced by stony meteorites or comets . 
+No meteorites have ever been recovered from paleoexplosion craters , and recent craters containing impact glass have all been produced by metallic meteorites with the exception of Aouelloul crater , Adrar , Western Sahara Desert . 
+This crater contains impact glass with no metallic inclusions and no meteoritic material has been recovered . 
+( A.J. Cohen , John Anania ) inorganic chemistry Preparation of a coordination compound is often accomplished by the simple method of reacting a metal salt with a ligand in a suitable solvent such as an alcohol . 
+By applying this general principle , a great number of complex compounds of osmium , ruthenium , iridium , and rhenium , with triphenylphosphine , triphenylarsine , and triphenylstibine have been obtained in this laboratory during the past few years . 
+( Lauri Vaska , E.M. Sloane , J.W. DiLuzio ) In the absence of direct evidence to the contrary , decomposition of solvent alcohol and coordination of its fragments to the metal were not considered , following the above heretofore-accepted assumption in preparative coordination chemistry . 
+Recent work with radiocarbon and deuterated alcohols as solvents , however , has given evidence that metal-hydrido and carbonyl complexes may be readily formed by reaction with alcohol in some of these systems . 
+Some of the previously reported compounds have thus been reformulated and a series of new hydrido and carbonyl compounds discovered , the more representative examples being A[fj] , A[fj] , A[fj] , A[fj] and A[fj] ( A[fj] ) . 
+The coordination complexes formed by transition metals with primary and secondary phosphines and arsines are being investigated ( R.G. Hayter ) . 
+Particular interest is directed towards the condensation of these ligands with metal halides to form substituted phosphide or arside complexes . 
+During the past year , these ligands have yielded some unusual five-coordinate complexes of nickel ( 2 ) and some interesting binuclear phosphorus-bridged complexes of palladium ( 2 ) ( see figure ) , as well as new compounds of the well-known type A[fj] . 
+The structures , properties , and reactions of these compounds are being studied . 
+In another study chromium-substituted aluminum oxyhydroxides and related species , prepared homogeneously by high-temperature hydrolysis , are being characterized and investigated spectrally in the ultraviolet region with a view to identification and semiquantitative estimation of the phases formed under varying preparative conditions . 
+( J.A. Laswick , N.L. Heatwole ) structure and properties of macromolecules elasticity of macromolecular networks -- The theory of elasticity of Gaussian networks has been developed on a more general basis and the equations of state relating variables of pressure , volume , temperature , stress and strain have been precisely formulated . 
+Simple elongation has been treated in detail . 
+The various stress-temperature coefficients for constancy of volume and strain , constancy of pressure and strain , and constancy of pressure and length have been interrelated . 
+The dilation accompanying elongation and the simultaneously developed anisotropy of compressibility have been related to the elongation . 
+In continuation of these theoretical studies , a more precise elucidation of the effects of imperfections in network structure is sought . 
+( P.J. Flory , C.A.J. Hoeve ) chain conformations of polymeric chains -- Recent theoretical work to calculate the dimensions of polymeric chains by Volkenstein and Lifson has been extended to include more general types of chains . 
+The mean-square end-to-end distance of the polyisobutylene chain has been calculated in reasonable agreement with values deduced from viscosity data . 
+These studies are being extended to different polymers to increase our knowledge about the hindrances to rotation around chain bonds . 
+( C.A.J. Hoeve , A.A. Blumberg ) crystallization in polymers and copolymers -- The crystallization of copolymers comprising A[fj] units interspersed with a minor percentage of A[fj] is limited by the inability of the crystal lattice characteristic of the former to accommodate the bulky side group of the latter . 
+Only uninterrupted sequences of the former are eligible for formation of crystallites . 
+Limitations on the lengths of these sequences diminish the stability of the comparatively short crystallites which can be formed , and this is reflected in a broadening of the melting range . 
+( Robert Chiang , J.B. Jackson , P.J. Flory ) Carefully executed melting studies on this system ( M.J. Richardson ) permit quantitative estimation of the instability engendered by reduced crystallite length . 
+The complex morphology of polycrystalline homopolymers is necessarily dependent on the same factor . 
+Hence , the present studies offer a possible basis for interpretations in the latter field . 
+Contraction of muscle -- Glycerinated muscle , in the presence of the physiological agent ( ATP ) responsible for delivering energy to the mechanochemically active proteins of muscle , has been shown to undergo a contraction which is highly sensitive both to temperature and to solvent composition in mixtures of alcohols and water . 
+Experiments carried out over long periods of time in order to allow establishment of a steady state have shown that the onset of contraction and its completion are confined to an interval of several degrees Centigrade and to a concentration range of only several per cent . 
+The contraction therefore partakes of the character of a phase transition . 
+While ATP appears to be necessary for the occurrence of contraction , its presence and enzymatic hydrolysis of it by the muscle protein myosin are not the only criteria for contraction . 
+( C.A.J. Hoeve , P.J. Flory ) anionic Polymerization -- One of the principal aims of anionic polymerization techniques is the synthesis of polymers of extremely narrow molecular weight distribution . 
+A simple process for the preparation of nearly monodisperse polystyrene of predictable molecular weight has been developed . 
+The preparation of such products is not new , but the systems heretofore employed in polymerizations have commanded considerable experimental skill and starting materials of a high purity . 
+In the new process impurities present in the solvent ( benzene ) , the monomer , and in the reaction system which would cause deactivation of propagation centers , are rendered inactive prior to polymerization by gradual addition of initiator , a mixture of butyl-lithium and telomeric styryl-lithium , at a temperature low enough to suppress chain growth . 
+Upon completion of the purging step , additional initiator appropriate for the molecular weight of the sample desired is added , and the system is then warmed to the polymerization temperature , at which the reaction is allowed to go to completion . 
+The predictability of the molecular weights was found to be within 10 % for the polymers prepared , with A[fj] ratios less than 1.1 . 
+Contrary to observations with ethers , no apparent change of the reactivity of the chain ends takes place over considerable periods of time in benzene as solvent . 

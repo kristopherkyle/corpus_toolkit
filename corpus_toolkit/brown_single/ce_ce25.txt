@@ -1,0 +1,86 @@
+Every taxpayer is well aware of the vast size of our annual defense budget and most of our readers also realize that a large portion of these expenditures go for military electronics . 
+We have noted how some electronic techniques , developed for the defense effort , have evenutally been used in commerce and industry . 
+The host of novel applications of electronics to medical problems is far more thrilling because of their implication in matters concerning our health and vitality . 
+When we consider the electronic industry potential for human betterment , the prospect is staggering . 
+The author has recently studied the field of medical electronics and has been convinced that , in this area alone , the application of electronic equipment has enormous possibilities . 
+The benefits electronics can bring to bio-medicine may be greater by far than any previous medical discovery . 
+We use the term " bio-medicine " because of the close interrelation between biology and medical research . 
+Electronics has been applied to medicine for many years in the form of such familiar equipment as the x-ray machine , the electrocardiograph , and the diathermy machine . 
+Recently many doctors have installed ultrasonic vibration machines for deep massage of bruises , contusions , and simple bursitis . 
+Commonly used electronic devices which are found in practically every hospital are closed-circuit TV and audio systems for internal paging and instruction , along with radiation counters , timers , and similar devices . 
+In this article we will concentrate on the advances in the application of electronics in bio-medical research laboratories because this is where tomorrow 's commonplace equipment originates . 
+From the wealth of material and the wide variety of different electronic techniques perfected in the past few years we have selected a few examples which appear to be headed for use in the immediate future and which offer completely new tools in medical research . 
+Ultraviolet microscopy Many cells , bacteria , and other microorganisms are transparent to visible light and must be stained for microscopic investigation . 
+This stain often disrupts the normal cell activity or else colors only the outside . 
+A completely new insight into living cells and their structure will be possible by use of a new technique which replaces visible light with ultraviolet radiation and combines a microscope with a color-TV system to view the results . 
+Fig. 1 is a simplified block diagram of the ultraviolet microscopy system developed at the Medical Electronics Center of Rockefeller Institute . 
+By combining the talents of a medical man , Dr. Aterman , a biophysicist , Mr. Berkely , and an electronics expert , Dr. Zworykin , this novel technique has been developed which promises to open broad avenues to understanding life processes . 
+Three different wavelengths of ultraviolet radiation are selected by the variable filters placed in front of the three mercury xenon lights which serve as the ultraviolet sources . 
+These wavelengths are reflected in sequence through the specimen by the rotating mirror ; ; the specimen is magnified by the microscope . 
+Instead of the observer 's eye the image orthicon in the TV camera does the " looking " . 
+The microscope and orthicon are both selected to operate well into the ultraviolet spectrum , which means that all lenses must be quartz . 
+The video signal is amplified and then switched , in synchronism with the three ultraviolet light sources which are sequenced by the rotating mirror so that during one-twentieth of a second only one wavelength , corresponding to red , green , or blue , is seen . 
+( Note : Because of light leakage from one ultraviolet source to another , the lights are switched by a commutator-like assembly rotated by a synchronous motor . 
+This assembly also supplies a 20-cps switching gate for the electronics circuitry . 
+) This is the same system as was used in the field-sequential color-TV system which preceded the present simultaneous system . 
+Three separate amplifiers then drive a 21-inch tricolor tube . 
+The result is a color picture of the specimen where the primary colors correspond to the three different ultraviolet wavelengths . 
+Many of the cells and microorganisms which are transparent to visible light , absorb or reflect the much shorter wavelengths of the ultraviolet spectrum . 
+Different parts of these cells sometimes absorb or reflect different wavelengths so that it is often possible to see internal portions of cells in a different color . 
+Where the microscope under visible light may show only vague shadows or nothing at all , ultraviolet illumination and subsequent translation into a color TV picture reveal a wealth of detail . 
+At the present time the research team which pioneered this new technique is primarily interested in advancing and perfecting it . 
+Breathing -- electronically analyzed The medical title of " Lobar Ventilation In Man " by Drs. C.J. Martin and A.C. Young , covers a brief paper which is one part of a much larger effort to apply electronics to the study of the respiratory process . 
+At the University of Washington Medical School , the electronics group has developed the " Respiratory Gas Analyzer " shown in Fig. 3 . 
+This unit , affectionately dubbed " The Monster " , can be wheeled to any convenient location and provides a wealth of information about the patient 's breathing . 
+In the lower center rack an 8-channel recorder indicates the percentage of carbon dioxide and nitrogen from the upper and lower lobes of one lung , the total volume of inhalation per breath , the flow of air from both lobes , and the pressure of the two lobes with respect to each other . 
+Usually the patient breathes into a mouthpiece while walking a treadmill , standing still , or in some other medically significant position . 
+From the resulting data the doctor can determine lung defects with hitherto unknown accuracy and detail . 
+Heart-measuring techniques The original electrocardiograph primarily indicates irregularities in the heartbeat , but today 's techniques allow exact measurements of the flow of blood through the aorta , dimensioning of the heart and its chambers , and a much more detailed study of each heartbeat . 
+For many of these measurements the chest must be opened , but the blood vessels and the heart itself remain undisturbed . 
+A group of researchers at the University of Washington have given a paper which briefly outlines some of these techniques . 
+One simple method of measuring the expansion of the heart is to tie a thin rubber tube , filled with mercury , around the heart and record the change in resistance as the tube is stretched . 
+A balanced resistance bridge and a pen recorder are all the electronic instrumentation needed . 
+Sonar can be used to measure the thickness of the heart by placing small crystal transducers at opposite sides of the heart or blood vessel and exciting one with some pulsed ultrasonic energy . 
+The travel time of sound in tissue is about 1500 meters per second ; ; thus it takes about 16 Msec. to traverse 25 mm. of tissue . 
+A sonar or radar-type of pulse generator and time-delay measuring system is required for body-tissue evaluation . 
+In addition to the heart and aorta , successful measurements of liver and spleen have also been made by this technique . 
+The Doppler effect , using ultrasonic signals , can be employed to measure the flow of blood without cutting into the blood vessel . 
+A still more sophisticated system has been devised for determining the effective power of the heart itself . 
+It uses both an ultrasonic dimensioning arrangement of the heart and a catheter carrying a thermistor inserted into the bloodstream . 
+The latter measures the heat carried away by the bloodstream as an indication of the velocity of the blood flow . 
+It is also possible to utilize a pressure transducer , mounted at the end of a catheter which is inserted into the heart 's left ventricle , to indicate the blood pressure in the heart itself . 
+This pressure measurement may be made at the same time that the ultrasonic dimensioning measurement is made . 
+A simplified version of the instrumentation for this procedure is shown in Fig. 2 . 
+Outputs of the two systems are measured by a pulse-timing circuit and a resistance bridge , followed by a simple analogue computer which feeds a multichannel recorder . 
+From this doctors can read heart rate , change in diameter , pressure , and effective heart power . 
+Radio-transmitter pills Several years ago headlines were made by a small radio transmitter capsule which could be swallowed by the patient and which would then radio internal pressure data to external receivers . 
+This original capsule contained a battery and a transistor oscillator and was about 1 cm. in diameter . 
+Battery life limited the use of this " pill " to about 8 to 30 hours maximum . 
+A refinement of this technique has been described by Drs. Zworykin and Farrar and Mr. Berkely of the Medical Electronics Center of the Rockefeller Institute . 
+In this novel arrangement the " pill " is much smaller and contains only a resonant circuit in which the capacitor is formed by a pressure-sensing transducer . 
+As shown in Fig. 4 , an external antenna is placed over or around the patient and excited 3000 times a second with short 400-kc. bursts . 
+The energy received by the " pill " causes the resonant circuit to " ring " on after the burst and this " ringing " takes place at the resonant frequency of the " pill " . 
+These frequencies are amplified and detected by the FM receiver after each burst of transmitted energy and , after the " pill " has been calibrated , precise internal pressure indications can be obtained . 
+One of the advantages of this method is that the " pill " can remain in the patient for several days , permitting observation under natural conditions . 
+Applications to organs other than the gastrointestinal tract are planned for future experiments . 
+Sonar in medical research One of the most gratifying applications of an important technique of submarine detection is in the exploration of the human body . 
+Our readers are familiar with the principles of sonar where sound waves are sent out in water and the echoes then indicate submerged objects . 
+Various methods of pulsing , scanning , and displaying these sound waves are used to detect submarines , map ocean floors , and even communicate under water . 
+In medicine the frequencies are much higher , transducers and the sonar beams themselves are much smaller , and different scanning techniques may be used , but the principles involved are the same as in sonar . 
+Because the body contains so much liquid , transmission of ultrasonic signals proceeds fairly well in muscles and blood vessels . 
+Bones and cartilage transmit poorly and tend to reflect the ultrasonic signals . 
+Based on this phenomenon , a number of investigators have used this method to " look through " human organs . 
+A good example of the results obtainable with ultrasonic radiation is contained in papers presented by Dr. G. Baum who has explored the human eye . 
+He can diagnose detachment of the retina where conventional methods indicate blindness due to glaucoma . 
+The method used to scan the eye ultrasonically is illustrated in Fig. 6 . 
+The transducer is coupled to the body through a water bath , not shown . 
+For display , Dr. Baum uses a portion of an A[fj] , an airborne radar indicator , and then photographs the screen to obtain a permanent record . 
+A typical " sonogram " of a human eye , together with a description of the anatomical parts , is shown in Fig. 5 . 
+The frequency used for these experiments is 15 mc. and the transducer is a specially cut crystal with an epoxy lens capable of providing beam diameters smaller than one millimeter . 
+The transducer itself moves the beam in a sector scan , just like a radar antenna , while the entire transducer structure is moved over a 90-degree arc in front of the eye to " look into " all corners . 
+The total picture is only seen by the camera which integrates the many sector scans over the entire 90-degree rotation period . 
+Drs. Howry and Holmes at the University of Colorado Medical School have applied the same sonar technique to other areas of soft tissue and have obtained extremely good results . 
+By submerging the patient in a tub and rotating the transducer while the scanning goes on , they have been able to get cross-section views of the neck , as shown in Fig. 7 , as well as many other hitherto impossible insights . 
+As mentioned before , bone reflects the sound energy and in Fig. 7 the portion of the spine shows as the black area in the center . 
+Arteries and veins are apparent by their black , blood-filled centers and the surrounding white walls . 
+A cross-section of a normal lower human leg is shown in Fig. 8 with the various parts labeled . 

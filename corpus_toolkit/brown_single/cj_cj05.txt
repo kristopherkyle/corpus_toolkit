@@ -1,0 +1,88 @@
+Polyphosphates gave renewed life to soap products at a time when surfactants were a threat though expensive , and these same polyphosphates spelled the decline of soap usage when the synergism between polyphosphates and synthetic detergent actives was recognized and exploited . 
+The market today for detergent builders is quite diverse . 
+The best known field of application for builders is in heavy-duty , spray-dried detergent formulations for household use . 
+These widely advertised products , which are used primarily for washing clothes , are based on high-sudsing , synthetic organic actives ( sodium alkylbenzenesulfonates ) and contain up to 50 % by weight of sodium tripolyphosphate or a mixture of sodium tripolyphosphate and tetrasodium pyrophosphate . 
+In the household market , there are also low-sudsing detergent formulations based on nonionic actives with about the same amount of phosphate builder ; ; light-duty synthetic detergents with much less builder ; ; and the dwindling built-soap powders as well as soap flakes and granules , none of which are now nationally advertised . 
+A well-publicized entrant which has achieved success only recently is the built liquid detergent , with which the major problem today is incorporation of builder and active into a small volume using a sufficiently high builder ratio . 
+Hard-surface cleaning in household application is represented by two classes of alkaline products : ( 1 ) the formulations made expressly for machine dishwashers , and ( 2 ) the general-purpose cleaners used for walls and woodwork . 
+The better quality products in both of these lines contain phosphate builders . 
+In addition , many of the hard-surface cleaners used for walls and woodwork had their genesis in trisodium orthophosphate , which is still the major ingredient of a number of such products . 
+Many scouring powders now also contain phosphates . 
+These hard-surface cleaners are discussed in Chapter 28 . 
+The cleaning process Cleaning or detergent action is entirely a matter of surfaces . 
+Wet cleaning involves an aqueous medium , a solid substrate , soil to be removed , and the detergent or surface-active material . 
+An oversimplified differentiation between soft - and hard-surface cleaning lies in the magnitude and kind of surface involved . 
+One gram of cotton has been found to have a specific surface area of A[fj] . 
+In contrast , a metal coupon A[fj] in size would have a magnitude from 100,000 to a million less . 
+Even here there is room for some variation , for metal surfaces vary in smoothness , absorptive capacity , and chemical reactivity . 
+Spring used a Brush surface-analyzer in a metal-cleaning study and showed considerable differences in soil removal , depending upon surface roughness . 
+There are considerable differences between the requirements for textile and hard-surface cleaning . 
+Exclusive of esthetic values , such as high - or low-foam level , perfume content , etc. , the requirements for the organic active used in washing textiles are high . 
+No matter how they are formulated , a large number of organic actives are simply not suitable for this application , since they do not give adequate soil removal . 
+This is best demonstrated by practical washing tests in which cloth articles are repeatedly washed with the same detergent formulation . 
+A good formulation will keep the clothes clean and white after many washings ; ; whereas , with a poor formulation , the clothes exhibit a build-up of " tattle-tale grey " and dirty spots -- sometimes with bad results even after the first wash . 
+Since practical washing procedures are both lengthy and expensive , a number of laboratory tests have been developed for the numerical evaluation of detergents . 
+Harris has indicated that two devices , the Launder-Ometer and Terg-O-Tometer are most widely used for rapid detergent testing , and he has listed the commercially available standard soiled fabrics . 
+Also given are several laboratory wash procedures in general use . 
+The soiled fabrics used for rapid testing of detergent formulations are made in such a way that only part of the soil is removed by even the best detergent formulation in a single wash . 
+In this way , numerical values for the relative efficacy of various detergent formulations can be obtained by measuring the reflectance ( whiteness ) of the cloth swatches before and after washing . 
+Soil redeposition is evaluated by washing clean swatches with the dirty ones . 
+As is the case with the surface-active agent , the requirements for builders to be used in detergent compositions for washing textiles are also high . 
+Large numbers of potential builders have been investigated , but none have been found to be as effective as the polyphosphates over the relatively wide range of conditions met in practice . 
+The problems of hard-surface cleaning are not nearly as complex . 
+In hard-surface cleaning , the inorganic salts are more important than the organic active . 
+Indeed , when the proper inorganic constituents are employed , practically any wetting or surface-active agent will do a reasonably good job when present in sufficient amount in a hard-surface cleaning formulation . 
+Hydroxides , orthophosphates , borates , carbonates , and silicates are important inorganic ingredients of hard-surface cleaners . 
+In addition , the polyphosphates are also used , probably acting more as peptizing agents than anything else . 
+The importance of the inorganic constituents in hard-surface cleaning has been emphasized in a number of papers . 
+Physical chemistry of washing Although there is no question but that the process of washing fabrics involves a number of phenomena which are related together in an extremely complicated way and that these phenomena and their interrelations are not well understood at the present , this section attempts to present briefly an up-to-date picture of the physical chemistry of washing either fabrics or hard surfaces . 
+The purpose of washing is , obviously , to remove soils which are arbitrarily classed in the four major categories given below : 1 . 
+Dirt , which is here defined as particulate material which is usually inorganic and is very often extremely finely divided so as to exhibit colloidal properties . 
+2 . 
+Greasy soils , which are typified by hydrocarbons and fats ( esters of glycerol with long-chain organic acids ) . 
+3 . 
+Stains , which include the wide variety of nonparticulate materials which give color even when present in very low concentration on the soiled object . 
+4 . 
+Miscellaneous soils , which primarily include sticky substances and colorless liquids which evaporate to leave a residue . 
+The dirt on the soiled objects is mechanically held by surface irregularities to some extent . 
+However , a major factor in binding dirt is the attraction between surfaces that goes under the name of Van der Waal 's forces . 
+This is a theoretically complicated dipole interaction which causes any extremely small uncharged particle to agglomerate with other small uncharged particles , or to stick to an uncharged surface . 
+Obviously , if colloidal particles bear charges of opposite sign or , if one kind is charged and the other kind is not , the attraction will be intensified and the tendency to agglomerate will be greatly reinforced . 
+Likewise , a charged particle will tend to stick to an uncharged surface and vice versa , and a charged particle will be very strongly attracted to a surface exhibiting an opposite charge . 
+In addition , dirt particles can be held onto a soiled surface by sticky substances or by the surface tension of liquids , including liquid greases . 
+Greases , stains , and miscellaneous soils are usually sorbed onto the soiled surface . 
+In most cases , these soils are taken up as liquids through capillary action . 
+In an essentially static system , an oil can not be replaced by water on a surface unless the interfacial tensions of the water phase are reduced by a surface-active agent . 
+The washing process whereby soils are removed consists basically of applying mechanical action to loosen the dirt particles and dried matter in the presence of water which helps to float off the debris and acts , to some extent , as a dissolving and solvating agent . 
+Greasy soils are hardly removed by washing in plain water ; ; and natural waters , in addition , often contain impurities such as calcium salts which can react with soils to make them more difficult to remove . 
+Therefore , detergents are used . 
+The detergent active is that substance which primarily acts to remove greasy soils . 
+The other constituents in a built detergent assist in this and in the removal of dirty stains and the hydrophilic sticky or dried soils . 
+As is well known , detergent actives belong to the chemical class consisting of moderately high molecular weight and highly polar molecules which exhibit the property of forming micelles in solution . 
+Physicochemical investigations of anionic surfactants , including the soaps , have shown that there is little polymerization or agglomeration of the chain anions below a certain region of concentration called the critical micelle concentration . 
+( 1 ) Below the critical micelle concentration , monomers and some dimers are present . 
+( 2 ) In the critical micelle region , there is a rapid agglomeration or polymerization to give the micelles , which have a degree of polymerization averaging around 60 - 80 . 
+( 3 ) For anionics , these micelles appear to be roughly spherical assemblages in which the hydrocarbon tails come together so that the polar groups ( the ionized ends ) face outward towards the aqueous continuous phase . 
+Obviously hydrophobic ( oleophilic ) substances such as greases , oils , or particles having a greasy or oily surface are more at home in the center of a micelle than in the aqueous phase . 
+Micelles can imbibe and hold a considerable amount of oleophilic substances so that the micelle volume may be increased as much as approximately two-fold . 
+Although the matter has not been unequivocally demonstrated , the available data show that micelles in themselves do not contribute significantly to the detergency process . 
+Related to micelle formation is the technologically important ability of detergent actives to congregate at oil - water interfaces in such a manner that the polar ( or ionized ) end of the molecule is directed towards the aqueous phase and the hydrocarbon chain towards the oily phase . 
+In the cleaning process , sorbed greasy soils become coated in this manner with an oriented film of surfactant . 
+Then during washing , the greasy soil rolls back at the edges so that emulsified droplets can disengage themselves from the sorbed oil mass , with the aid of mechanical action , and enter the aqueous phase . 
+Obviously , a substance which is permanently or temporarily sorbed on the surface in place of the soil will tend to accelerate this process and effectively push off the greasy soil . 
+Substances other than detergent actives also tend to be strongly sorbed from aqueous media onto surfaces of other contiguous condensed phases . 
+This is particularly true of highly charged ions , especially those ions which fall into the class of polyelectrolytes . 
+Whereas the usual organic surface-active agent is strongly sorbed at oil - water interfaces , the highly charged ions are most strongly sorbed at interfaces between water and insoluble materials exhibiting an ionic structure ( see Table 26-2 on p. 1678 ) . 
+Thus , for aqueous media , we can think of the idealized organic active as an oleophilic or hydrophobic surface-active agent , and of an idealized builder as a oleophobic or hydrophilic surface-active agent . 
+From the equilibrium sorption data which are available , it seems logical to expect that polyphosphate ions would be strongly sorbed on the surface of the dirt ( especially clay soils ) so as to give it a greatly increased negative charge . 
+The charged particles then repel each other and are also repelled from the charged surface , which almost invariably bears a negative charge under washing conditions . 
+The negatively charged dirt particles then leave the surface and go into the aqueous phase . 
+This hypothesis is evolved in analogy to the demonstrated action of organic actives in detergency . 
+It does not consider the kinetic effects of the phosphate builders on sorption-desorption phenomena which will be discussed later ( see pp. 1746 - 1748 ) . 
+The crude picture of the detergency process thus far developed can be represented as : A[fj] . 
+The influence of mechanical action on the particles of free soil may be compared to that of kinetic energy on a molecular scale . 
+Freed soil must be dispersed and protected against flocculation . 
+Cleaned cloth must be protected against the redeposition of dispersed soil . 
+It is evident that the requirements imposed by these effects upon any one detergent constituent acting alone are severe . 
+Upon consideration of the variety of soils and fabrics normally encountered in the washing process , it is little wonder that the use of a number of detergent constituents having " synergistic " properties has gained widespread acceptance . 
+In the over-all process , it is difficult to assign a " pure " role to each constituent of a built-detergent formulation ; ; and , indeed , there is no more reason to separate the interrelated roles of the active , builder , antiredeposition agent , etc. than there is to assign individual actions to each of the numerous isomers making up a given commercial organic active . 

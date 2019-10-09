@@ -1,0 +1,104 @@
+A proton magnetic resonance study of polycrystalline A[fj] as a function of magnetic field and temperature is presented . 
+A[fj] is paramagnetic , and electron paramagnetic dipole as well as nuclear dipole effects lead to line broadening . 
+The lines are asymmetric and over the range of field A[fj] gauss and temperature A[fj] the asymmetry increases with increasing A[fj] and decreasing T . 
+An isotropic resonance shift of A[fj] to lower applied fields indicates a weak isotropic hyperfine contact interaction . 
+The general theory of resonance shifts is used to derive a general expression for the second moment A[fj] of a polycrystalline paramagnetic sample and is specialized to A[fj] . 
+The theory predicts a linear dependence of A[fj] on A[fj] , where J is the experimentally determined Curie-Weiss constant . 
+The experimental second moment A[fj] conforms to the relation A[fj] in agreement with theory . 
+Hence , the electron paramagnetic effects ( slope ) can be separated from the nuclear effects ( intercept ) . 
+The paramagnetic dipole effects provide some information on the particle shapes . 
+The nuclear dipole effects provide some information on the motions of the hydrogen nuclei , but the symmetry of the A[fj] bond in A[fj] remains in doubt . 
+Introduction the magnetic moment of an unpaired electron associated nearby may have a tremendous influence on the magnetic resonance properties of nuclei . 
+It is important to consider and experimentally verify this influence since quantitative nuclear resonance is becoming increasingly used in investigations of structure . 
+A[fj] appeared to be well suited for the study of these matters , since it is a normal paramagnet , with three unpaired electrons on the chromium , its crystal structure is very simple , and the unknown position of the hydrogen in the strong A[fj] bond provides structural interest . 
+We first discuss the A[fj] bond in A[fj] . 
+We then outline the theory of the interaction of paramagnetic dipoles with nuclei and show that the theory is in excellent agreement with experiment . 
+Indeed it is possible to separate electron paramagnetic from nuclear effects . 
+The information provided by the electron paramagnetic effects is then discussed , and finally the nuclear effects are interpreted in terms of various motional-modified models of the A[fj] bond in Af . A[fj] bond in A[fj] Theoretical studies of the hydrogen bond generally agree that the A[fj] bond will be linear in the absence of peculiarities of packing in the solid . 
+Moreover , it will be asymmetric until a certain critical A[fj] distance is reached , below which it will become symmetric . 
+There is ample evidence from many sources that the A[fj] bond in A[fj] is symmetric . 
+The A[fj] distance in A[fj] is 2.26 A[fj] . 
+There is evidence , though less convincing than for A[fj] , that the A[fj] bond in nickel dimethylglyoxime is symmetric . 
+Here the A[fj] distance is 2.44 A[fj] . 
+A number of semiempirical estimates by various workers lead to the conclusion that the A[fj] bond becomes symmetric when the A[fj] bond length is about 2.4 to 2.5 A , but aside from the possible example of nickel dimethylglyoxime there have been no convincing reports of symmetric A[fj] bonds . 
+Douglass has studied the crystal structure of A[fj] by x-ray diffraction . 
+He finds the structure contains an A[fj] bond with the A[fj] distance of A[fj] . 
+There is , then , the possibility that this A[fj] bond is symmetric , although Douglass was unable to determine its symmetry from his x-ray data . 
+Douglass found A[fj] to be trigonal , Laue symmetry A[fj] , with A[fj] , A[fj] . 
+X-ray and experimental density showed one formula unit in the unit cell , corresponding to a paramagnetic ion density of A[fj] . 
+The x-ray data did not permit Douglass to determine uniquely the space group , but a negative test for piezoelectricity led him to assume a center of symmetry . 
+Under this assumption the space group must be A[fj] and the following are the positions of the atoms in the unit cell . 
+A[fj] . 
+This space group requires the hydrogen bond to be symmetric . 
+Douglass found powder intensity calculations and measurements to agree best for A[fj] . 
+These data lead to a structure in which sheets of Cr atoms lie between two sheets of O atoms . 
+The O atoms in each sheet are close packed and each Cr atom is surrounded by a distorted octahedron of O atoms . 
+The A[fj] layers are stacked normal to the ( 111 ) axis with the lower oxygens of one layer directly above the upper oxygens of the neighboring lower layer , in such a manner that the repeat is every three layers . 
+The separate layers are joined together by hydrogen bonds . 
+A drawing of the structure is to be found in reference 6 . 
+The gross details of the structure appear reasonable . 
+The structure appears to be unique among OOH compounds , but is the same as that assumed by A[fj] . 
+The bond angles and distances are all within the expected limits and the volume per oxygen is about normal . 
+However , the possible absence of a center of symmetry not only moves the hydrogen atom off A[fj] , but also allows the oxygen atoms to become nonequivalent , with A[fj] at A[fj] and A[fj] at A[fj] ( space group A[fj] ) , where A[fj] represents the oxygens on one side of the A[fj] layers and A[fj] those on the other side . 
+However , any oxygen nonequivalence would shorten either the already extremely short A[fj] interlayer distance of 2.55 A or the non-hydrogen-bonded A[fj] interlayer interactions which are already quite short at 2.58 A[fj] . 
+Hence it is difficult to conceive of a packing of the atoms in this material in which the oxygen atoms are far from geometrical equivalence . 
+The only effect of lack of a center would then be to release the hydrogen atoms to occupy general , rather than special , positions along the ( 111 ) axis . 
+If the A[fj] bond is linear then there are three reasonable positions for the hydrogen atoms : ( 1 ) The hydrogen atoms are centered and hence all lie on a sheet midway between the oxygen sheets ; ; ( 2 ) all hydrogen atoms lie on a sheet , but the sheet is closer to one oxygen sheet than to the other ; ; ( 3 ) hydrogen atoms are asymmetrically placed , either randomly or in an ordered way , so that some hydrogen atoms are closer to the upper oxygen atoms while others are closer to the lower oxygen atoms . 
+Position ( 2 ) appears to us to be unlikely in view of the absence of a piezoelectric effect and on general chemical structural grounds . 
+A randomization of " ups " and " downs " is more likely than ordered " ups " and " downs " in position ( 3 ) since the hydrogen atoms are well separated and so the position of one could hardly affect the position of another , and also since ordered " up " and " down " implies a larger unit cell , for which no evidence exists . 
+Therefore , the only unknown structural feature would appear to be whether the hydrogen atoms are located symmetrically ( 1 ) or asymmetrically ( 3 ) . 
+Experimental procedures samples Douglass prepared his sample of A[fj] by thermal decomposition of aqueous chromic acid at 300 - 325-degrees-C . 
+Dr. Douglass was kind enough to lend us about 5 grams of his material . 
+This material proved to be unsatisfactory , since we could not obtain reproducible results on various portions of the sample . 
+Subsequently , we learned from Douglass that his sample contained a few percent A[fj] impurity . 
+Since A[fj] is ferromagnetic , we felt that any results obtained from the magnetically contaminated A[fj] would be suspect . 
+Plane suggested another preparation of A[fj] which we used here . 
+500 ml of 1M aqueous A[fj] with 1 A[fj] added are heated in a bomb at 170-degrees-C for 48 hours . 
+A very fine , gray solid ( about 15 g ) is formed , water-washed by centrifugation , and dried at 110-degrees-C ) . 
+Differential thermal analysis showed a very small endothermic reaction at 340-degrees-C and a large endothermic reaction at 470-degrees-C . 
+This latter reaction is in accord with the reported decomposition of A[fj] . 
+Thermogravimetric analysis showed a weight loss of 1.8 % centered at 337-degrees-C and another weight loss of 10.8 % at 463-degrees-C . 
+The expected weight loss for A[fj] going to A[fj] and A[fj] is 10.6 % . 
+Mass spectrometric analysis of gases evolved upon heating to 410-degrees-C indicated nitrogen oxides and water vapor . 
+The small reaction occurring at 337-degrees-C is probably caused by decomposition of occluded nitrates , and perhaps by a small amount of some hydrous material other than A[fj] . 
+All subsequent measurements were made on material which had been heated to 375-degrees-C for one hour . 
+Emission spectra indicated A[fj] calcium and all other impurities much lower . 
+Chromium analysis gave 58.8 % Cr as compared with 61.2 % theory . 
+However , A[fj] adsorbs water from the atmosphere and this may account for the low chromium analysis and high total weight loss . 
+The x-ray diffraction pattern of the material , taken with CuK \*\* ya radiation , indicated the presence of no extra lines and was in good agreement with the pattern of Douglass . 
+Magnetic analyses by R.G. Meisenheimer of this laboratory indicated no ferromagnetic impurities . 
+A[fj] was found to be paramagnetic with three unpaired electrons per chromium atom and a molecular susceptibility of A[fj] , where A[fj] . 
+For exactly three unpaired electrons the coefficient would be 3.10 . 
+An infrared spectrum , obtained by H.A. Benesi and R.G. Snyder of this laboratory , showed bands in the positions found by Jones . 
+Electron microscopic examination of the A[fj] sample showed it to be composed of nearly isotropic particles about 0.3M in diameter . 
+The particles appeared rough and undoubtedly the single-crystal domains are smaller than this . 
+The x-ray data are consistent with particle sizes of 1000 A or greater . 
+We found no obvious effects due to preferred orientation of the crystallites in this sample nor would we expect to on the basis of the shape found from electron microscopic examination . 
+Nuclear magnetic resonance ( NMR ) measurements The magnetic resonance absorption was detected by employing a Varian model A[fj] broad line spectrometer and the associated 12-inch electromagnet system . 
+One measurement at 40 Mc was obtained with the Varian model A[fj] unit . 
+A bridged-T type of bridge was used in the 10 - 16 Mc range . 
+The rf power level was maintained small enough at all times to prevent obvious line shape distortions by saturation effects . 
+A modulation frequency of 40 cps with an amplitude as small as possible , commensurate with reasonably good signal-to-noise quality , was used . 
+Background spectra were obtained in all cases . 
+The spectrometer was adjusted to minimize the amount of dispersion mode mixed in with the absorption signal . 
+A single value of the thermal relaxation time A[fj] at room temperature was measured by the progressive saturation method . 
+The value of A[fj] estimated at 470 gauss was A[fj] microseconds . 
+A single measurement of the spin - spin relaxation time A[fj] was obtained at 10 Mc by pulse methods . 
+This measurement was obtained by W. Blumberg of the University of California , Berkeley , by observing the breadth of the free induction decay signal . 
+The value derived was 16 microseconds . 
+Field shifts were derived from the mean value of the resonance line , defined as the field about which the first moment is zero . 
+Second moments of the spectra were computed by numerical integration . 
+Corrections were applied for modulation broadening , apparatus background , and field shift . 
+Spectra were obtained over the temperature range of 77 - 294-degrees-K . 
+For the low-temperature measurements the sample was cooled by a cold nitrogen gas flow method similar to that of Andrew and Eades . 
+The temperature was maintained to within about A[fj] for the period of time required to make the measurement ( usually about one hour ) . 
+One sample , which had been exposed to the atmosphere after evacuation at 375-degrees-C , showed the presence of adsorbed water ( about 0.3 wt ) ) as evidenced by a weak resonance line which was very narrow at room temperature and which disappeared , due to broadening , at low temperature . 
+The data reported here are either from spectra from which the adsorbed water resonance could easily be eliminated or from spectra of samples evacuated and sealed off at 375-degrees-C which contain no adsorbed water . 
+The measured powder density of the A[fj] used here was about A[fj] , approximately one-third that of the crystal density ( A[fj] ) . 
+Such a density corresponds to a paramagnetic ion density of about A[fj] . 
+Spectra were obtained from a powdered sample having the shape of a right circular cylinder with a height-to-diameter ratio of 4 : : 1 . 
+The top of the sample was nearly flat and the bottom hemispherical . 
+Spectra were also obtained from a sample in a spherical container which was made by blowing a bubble on the end of a capillary glass tube . 
+The bubble was filled to the top and special precautions were taken to prevent any sample from remaining in the capillary . 
+Spectra were also obtained from a third sample of A[fj] which had been diluted to three times its original volume with powdered , anhydrous alundum ( A[fj] ) . 
+This sample was contained in a cylindrical container similar to that described above . 

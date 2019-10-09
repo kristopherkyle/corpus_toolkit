@@ -1,0 +1,117 @@
+Scientists say that the world and everything in it are based on mathematics . 
+Without math the men who are continually seeking the causes of and the reasons for the many things that make the world go 'round would not have any means of analyzing , standardizing , and communicating the things they discover and learn . 
+Math and the formulas that allow it to be applied to different problems are , therefore , essential to any scientific endeavor . 
+Hot rodding is a science . 
+It 's not a science as involved as determining what makes the earth rotate on its axis or building a rocket or putting a satellite into orbit but it is , nevertheless , a science . 
+But because science is based on mathematics does n't mean that a hot rodder must necessarily be a mathematician . 
+A guy can be an active and successful hot rodder for years without becoming even remotely involved with mathematical problems ; ; however , he will have a clearer understanding of what he is doing and the chances are he will be more successful if he understands the few formulas that apply to rodding . 
+A mathematical formula is nothing more than a pattern for solving a specific problem . 
+It places the various factors involved in the problem in their correct order in relation to each other so that the influence of factors on each other can be computed . 
+The first step in using a formula is to insert the numerical values of the factors involved in their correct positions in the formula . 
+This changes the formula to an " equation " . 
+The equation is used for the mathematical process of solving the problem . 
+Equations for rodding formulas are not complicated . 
+They involve only simple mathematics that are taught in grammar school arithmetic classes . 
+However , it is essential that the various mathematical symbols used in the equations be understood so that the mathematical processes can be done properly and in their correct order . 
+They indicate simple division , multiplication , subtraction , and addition . 
+The symbol for division is a straight line that separates two numbers placed one above the other . 
+The lower number is always divided into the upper number : A[fj] . 
+The symbol for multiplication is " \*\* b " . 
+It is used to separate two or more numbers in a row . 
+For example : A[fj] . 
+Numbers to be multiplied together may be multiplied in any order . 
+The result will be the same regardless of the order used . 
+The symbol for subtraction is the standard minus sign . 
+This is nothing more than a dash . 
+It separates two or more numbers . 
+The number on the right of the symbol is always subtracted from the number on the left of the symbol . 
+For example : A[fj] . 
+When more than two figures are separated by subtraction symbols the subtraction must be carried out from the left to right if the result is to be correct . 
+For example , for the problem A[fj] , 10 from 25 equals 15 , then 6 from 15 equals 9 . 
+Addition is indicated by the + symbol . 
+The symbol is used to separate two or more numbers . 
+For example : A[fj] . 
+Numbers separated by addition symbols may be placed in any order . 
+When solving an equation that involves division as well as other steps , do all the division steps first to reduce those parts of the equation to their numerical value . 
+Multiplication , subtraction , and addition can then be accomplished as they appear in the equation by starting at the left end of the equation and working toward the right . 
+Completing the division first also includes those division parts that require multiplication , subtraction , or addition steps : A[fj] . 
+This would be reduced by multiplying 8 times 6 and then dividing the product by 12 . 
+This part of the equation would then become 4 . 
+For use in formulas , fractions should be converted to their decimal equivalents . 
+The easiest way to do this is with a conversion chart . 
+Charts for this purpose are available from many sources . 
+They are included in all types of mathematical handbooks and they are stamped on some types of precision measuring instruments . 
+The various mathematical processes can be simplified by carrying the results to only two or three decimal places . 
+Shortening the results in this manner will not have any detrimental effect on the accuracy of the final result . 
+Some formulas contain " constants " . 
+A constant is a number that remains the same regardless of the other numbers used in the formula and the resultant equation . 
+It is a number without which the equation can not be solved correctly . 
+Rodding formulas apply to many phases of the sport . 
+The answers they give can often pave the way to performance increases and , quite often , are necessary for completing entry blanks for different events . 
+When it is needed , one formula is as important as another . 
+However , some formulas are used more than others . 
+We 'll take them in the general order of their popularity . 
+Engine displacement A rodder should be able to compute the displacement of his engine . 
+Displacement is sometimes referred to as " swept volume " . 
+Most entry blanks for competitive events require engine displacement information because of class restrictions . 
+It is good to be able to compute displacement so that changes in it resulting from boring and stroking can be computed . 
+Factors involved in the displacement formula are the bore diameter of the engine 's cylinders , the length of the piston stroke , the number of cylinders in the engine , and a constant . 
+The constant is , which is one-quarter of 3.1416 , another constant known as " pi " . 
+Pi is used in formulas concerned with the dimensions of circles . 
+Actually , the engine displacement formula is the standard formula for computing the volume of a cylinder of any type with an added factor that represents the number of cylinders in the engine . 
+The cross-sectional area of the cylinders is determined and then the volume of the individual cylinders is computed by multiplying the area by the stroke length , which is the equivalent of the length of the cylinders . 
+Multiplying the result by the number of cylinders in the engine gives the engine 's total displacement . 
+The formula is : A[fj] . 
+Dimensions in inches , and fractions of inches will give the displacement in cubic inches . 
+Dimensions in centimeters and fractions of centimeters will give the displacement in cubic centimeters ( cc . 
+) . 
+One inch equals 2.54 centimeters : one cubic inch equals 16.38 cubic centimeters . 
+For example , let 's consider a standard 283 cubic inch Chevy A[fj] . 
+These engines have a cylinder diameter of 3-78 inches and a stroke length of 3 inches . 
+The formula , with the fractions converted to decimals , becomes A[fj] . 
+To arrive at the answer , multiply the numbers together by starting at the left of the group and working to the right . 
+The different steps will look like this : A[fj] . 
+Compression ratio A cylinder 's compression ratio is computed by comparing the cylinder 's volume , or its displacement , with the total volume of the cylinder and its combustion chamber . 
+Cylinder volume can be determined mathematically but combustion chamber volume must be measured with a liquid . 
+Cylinder volume is determined in exactly the same manner as for the displacement formula : A[fj] . 
+To measure the volume of one of the combustion chambers in the cylinder head , install the valves and spark plug in the chamber and support the head so that its gasket surface is level . 
+Then pour water or light oil from a graduated beaker into the chamber to fill the chamber to its gasket surface . 
+Do not overfill the chamber . 
+This is possible with water and other liquids that have a high surface tension . 
+Such liquids will rise to a considerable height above the surface around the chamber before they will flow out of the chamber . 
+The amount of liquid poured into the chamber is determined by subtracting the quantity still in the beaker when the chamber is full from the original quantity . 
+Most beakers are graduated in cubic centimeters ( cc. ) , making it necessary to convert the result to cubic inches . 
+However , the displacement of the cylinder can be converted to cubic centimeters . 
+The compression ratio arrived at with the formula will be the same regardless of whether cubic inches or cubic centimeters are used . 
+The only precaution is that all volumes used in the formula be quoted in the same terms . 
+The volume of the cylinder opening in the head gasket must be computed by multiplying its area in square inches by the gasket 's thickness in thousandths of an inch . 
+Sometimes it is necessary to roughly calculate the square inch area of the opening but the calculation can usually be made with sufficient accuracy that it wo n't affect the final computation . 
+The volume of the opening is added to the combustion chamber volume . 
+Another thing that must be taken into consideration is the volume of the area between the top of the piston and the top of the cylinder block when the piston is in top dead center position . 
+Compute this volume by measuring the distance from the top of the block to the piston head as accurately as possible with a depth micrometer or some other precision measuring device and then multiply the area of the cylinder by the depth . 
+The formula for this step is : A[fj] . 
+This volume is added to the total volume of the combustion chamber and head gasket opening . 
+The total of these three volumes is the " final combustion chamber volume " . 
+After the factors just described have been computed , they are applied to the following formula : A[fj] . 
+For an example let 's dream up an engine that has a final combustion chamber volume of 5 cubic inches and a cylinder volume of 45 cubic inches . 
+Applying these figures to the formula we get the equation : A[fj] . 
+The compression ratio is 10 to 1 . 
+This method of computing compression ratio can not be used accurately for engines that have pistons with either domed or irregularly shaped heads . 
+Any irregularity on the piston heads will make it impossible , with normal means , to determine the final combustion chamber volume because the volume displaced by the piston heads can not be readily computed . 
+The only way to determine the final combustion chamber volume when such pistons are used is by measuring it with liquid while the cylinder head is bolted to the cylinder block and the piston is in top dead center position . 
+Gear ratio -- speed relationships There are four versions of the formula that involves the relationships of car speed , engine speed , rear axle gear ratio , and rear tire size . 
+By using the appropriate version any one of these factors can be determined for any combination of the other three . 
+To simplify the formulas a representative symbol is substituted for each of the factors . 
+These are MPH for Car speed , for Engine crankshaft speed , for Rear axle gear ratio , for Tire size . 
+Tire size can be determined in several ways but the one that is the easiest and as accurate as any is by measuring the effective radius of a wheel and tire assembly . 
+This is done by measuring the distance from the surface on which the tire is resting to the center of the rear axle shaft . 
+A tire must be inflated to its normal hot operating pressure and the car must be loaded to its operating weight when this measurement is made . 
+The measurement must be in inches . 
+Any fraction of an inch involved in the measurement must be converted to a decimal equivalent to simplify the mathematics . 
+When tire size is measured in this manner a constant of 168 is used in the formula . 
+To determine car speed for a given combination of engine speed , gear ratio , and tire size , the formula is : A[fj] . 
+For an engine speed of 5000 rpm , a gear ratio of 4.00 to 1 , and a tire radius of 13 inches , the equation would look like this : A[fj] . 
+To determine engine speed for a given combination of the other three factors the formula is : A[fj] . 
+Using the same figures as for the previous example , the equation becomes : A[fj] . 
+To determine the rear axle gear ratio for a combination of the other three factors , the formula is : A[fj] . 
+Using the figures from the previous examples , the equation becomes : A[fj] . 

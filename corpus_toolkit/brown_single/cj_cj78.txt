@@ -1,0 +1,98 @@
+High-gain , photoelectronic image intensification is applied under conditions of low incident light levels whenever the integration time required by a sensor or recording instrument exceeds the limits of practicability . 
+Examples of such situations are ( aerial ) night reconnaissance , the recording of radioactive tracers in live body tissues , special radiography in medical or industrial applications , track recording of high energy particles , etc. . High-gain photoelectronic image intensification may be achieved by several methods ; ; some of these are listed below : ( A ) Cascading single stages by coupling lens systems , ( B ) Channel-type , secondary emission image intensifier , ( C ) Image intensifier based upon the " multipactor " principle , ( D ) Transmission secondary electron multiplication image intensifiers ( TSEM tubes ) , ( E ) Cascading of single stages , enclosed in one common envelope . 
+Cascading single stages by coupling lens systems is rather inefficient as the lens systems limit the obtainable gain quite severely . 
+Channel-type image intensifiers are capable of achieving high-gain values ; ; they suffer , however , from an inherently low resolution . 
+Image intensifiers based upon the multipactor principle appear to hold promise as far as obtainable resolution is concerned . 
+However , the unavoidable low-duty cycle restricts the effective gain . 
+TSEM tubes have been constructed showing high gain and resolution . 
+However , electrostatic focus , important for many applications , has not been realized for these devices . 
+Resolution limitations with electrostatic focus might be anticipated due to chromatic aberrations . 
+Furthermore , the thin film dynodes appear to have a natural diameter limitation wherever a mesh support can not be tolerated . 
+Cascaded single stages enclosed by a common envelope have been constructed with high gain and high resolution . 
+These tubes may differ both in the choice of the electron optical system and in the design of the coupling members . 
+The electron optical system may be either a magnetic or electrostatic one . 
+The magnification may be smaller , equal , or larger than unity . 
+An electrostatic system suffers generally from image plane curvature leading to defocusing in the peripheral image region if a flat viewing screen ( or interstage coupler ) is utilized , while a magnetic system requires accurate adjustment of the solenoid , which is heavy and bulky . 
+As it will be discussed later , peripheral defocusing can be improved on by utilizing curved fiber couplers . 
+It should be noted , however , that the paraxial resolution is quite similar for both electron optical systems . 
+It is felt that fiber-coupled double - ( and multi - ) stage image intensifiers will gain considerable importance in the future . 
+Therefore , we shall consider in this paper the theoretical gain and resolution capabilities of such tubes . 
+The luminous efficiency and resolution of single stages , fiber couplers , and finally of the composite tube will be computed . 
+It will be shown theoretically that the high image intensification obtainable with such a tube and contact photography permits the utilization of extremely low incident light levels . 
+The effect of device and quantum noise , associated with such low input levels , will be described . 
+After these theoretical considerations , constructional details of a fiber-coupled , double-stage X-ray image intensifier will be discussed . 
+Measured performance characteristics for this experimental tube will be listed . 
+The conclusion shall be reached that fiber-coupled , double-stage tubes represent a sensible and practical approach to high-gain image intensification . 
+Basic design of a fiber-coupled , double-stage image intensifier The tube design which forms the basis of the theoretical discussion shall be described now . 
+The electron optical system ( see fig. 14-1 ) is based in principle on the focusing action of concentric spherical cathode and anode surfaces . 
+The inner ( anode ) sphere is pierced , elongated into a cup , and terminated by the phosphor screen . 
+The photoelectrons emitted from a circular segment of the cathode sphere are focused by the positive lens action of the two concentric spheres , pass through the ( negative ) lens formed by the anode aperture , and impinge upon the cathodoluminescent viewing screen . 
+The cylindrical focusing electrode permits adjustment of the positive lens part by varying the focusing potential . 
+The anode potential codetermines the gain , G , and magnification , M , of the stage . 
+Both the photocathode and the image plane of such an electrode configuration are curved concave as seen from the anode aperture . 
+The field-flattening property of the biconcave fiber coupler can be utilized to alleviate the peripheral resolution losses resulting with a flat phosphor-screen or coupling member . 
+For the same reason , the output fiber plate is planoconcave , its exposed flat side permitting contact photography if a permanent record is desired . 
+As it will be shown later , the field-flattening properties of the interstage and output fiber coupler comprise indeed the main advantage of such a design . 
+The second photocathode and both phosphor surfaces are deposited on the fiber plate substrates . 
+The photocathode sensitivities S , phosphor efficiencies P , and anode potentials V of the individual stages shall be distinguished by means of subscripts 1 , and 2 , in the text , where required . 
+Both stages are assumed to have unity magnification . 
+Theoretical discussion of flux gain flux gain of a single stage The luminous gain of a single stage with A[fj] ( flux gain ) is , to a first approximation , given by the product of the photocathode sensitivity S ( amp lumen ) , the anode potential V ( volts ) , and the phosphor conversion efficiency P ( lumen ) . 
+In general , P is a function of V and the current density , but it shall here be assumed as a constant . 
+The luminous efficiency A[fj] of a photocathode depends on the maximum radiant sensitivity A[fj] and on the spectral distribution of the incident light A[fj] by the relation : A[fj] where A[fj] is normalized radiant photocathode sensitivity . 
+A[fj] is standard visibility function . 
+The luminous flux gain of a single stage is given by : A[fj] . 
+If the input light distribution falls beyond the visible range , A[fj] as expected , since A[fj] . 
+Such cases are not considered here . 
+Efficiency of fiber couplers The efficiency of fiber optics plates depends on four factors : ( A ) numerical aperture ( N.A. ) ; ; ( B ) end ( Fresnel reflection ) losses ( R ) ; ; ( C ) internal losses ( I.L. ) ; ; ( D ) packing efficiency ( F.R . 
+) . 
+The numerical aperture of the fibers is given by : A[fj] where A[fj] . 
+The angle A[fj] is measured in the medium of index A[fj] . 
+Settled phosphors , as generally used in image intensifiers , have low optical contact with the substrate surface , hence A[fj] shall be assumed . 
+The numerical aperture should be in general close to unity . 
+This condition can be satisfied , e.g. , with A[fj] and A[fj] or equivalent glass combinations . 
+A sufficiently good approximation for determining the end reflection losses R can be obtained from the angle independent Fresnel formula : A[fj] . 
+For phosphor to fiber and fiber to air surfaces , and assuming A[fj] , we obtain A[fj] percent . 
+This value may be reduced to 4.6 percent by means of a ( very thin ) glass layer of index 1.5 . 
+Hence , the A[fj] factor for the output fiber coupler is A[fj] . 
+As the index of refraction of photosensitive surfaces of the SbCs-type lies around 2 , the Fresnel losses at the fiber-photocathode interface are about 0.5 percent and the A[fj] factor for the interstage coupler is 0.95 . 
+It might be anticipated that multiple coatings will reduce end reflection losses even further . 
+The internal losses are due to absorption and the small but finite losses suffered in the numerous internal reflections due to deviations from the prescribed , cylindrical fiber cross-section and minute imperfections of the core-jacket interface . 
+These losses depend on fiber diameter and length , absorption coefficient , the mean value of the loss per internal reflection and last , but not least , on the angular distribution of the incident light . 
+Explicit expressions ( integral averages ) are given in the literature . 
+Lacking reliable data for some of the variables , we are relying on experimental data of about 20 percent internal losses for 14-inch long , small ( 5 - 10 M ) diameter fibers . 
+This relatively high value is probably due to the small fiber diameters increasing the number of internal reflections . 
+Since we are considering here relatively small diameter ( 1 - 1.5 inches ) fiber plates , their average thickness can be kept below 14 inch and their internal losses may be assumed as 15 percent ( per plate ) . 
+The packing efficiency , F.R. , of fiber plates did not receive much attention in the literature , probably as it is high for the larger fibers generally used , until rather recently . 
+For circular fibers in a closely packed hexagonal array , the packing efficiency is given by : A[fj] where A[fj] , and 0.906 is the ratio of the area of a circle to that of the circumscribed hexagon . 
+For the small diameter fibers now technically feasible and required for about 100 A[fj] resolution , A[fj] . 
+The cladding thickness is about 0.5 M , hence , A[fj] and A[fj] . 
+Thus , the efficiency \*\* yt couplers is given by -- A[fj] or approximately 50 percent each . 
+It must be remembered that the fiber plates replace a glass window and a ( mica ) membrane , in addition to an optical output lens system . 
+The efficiency A[fj] of an A[fj] lens at the magnification A[fj] is : A[fj] . 
+Neglecting absorption , the end losses of the coupling membrane and the output window A[fj] would be 6 percent and 8 percent . 
+Thus , the combined efficiency of the elements replaced by the two fiber plates ( with a combined efficiency of 0.25 ) is 0.043 or about six times less than that of the two fiber plates . 
+Gain of fiber coupled image intensifiers Including the brightness gain A[fj] due to the A[fj] area demagnification , the overall gain of a fiber coupled double stage image intensifier is : A[fj] . 
+It is obvious that the careful choice of photocathode which maximizes A[fj] for a given input E ( in the case of the second stage , for the first phosphor screen emission ) is very important . 
+The same consideration should govern the choice of the second-stage phosphor screen for matching with the spectral sensitivity of the ultimate sensor ( e.g. , photographic emulsion ) . 
+We have evaluated the " matching integrals " for two types of photocathodes ( S-11 and S-20 ) and three types of light input . 
+The input light distributions considered are P-11 and P-20 phosphor emission and the so-called " night light " ( N.L. ) as given by H.W. Babcock and J.J. Johnson . 
+The integrals ( in units ) are listed in table 14-1 , below . 
+Theoretical discussion of paraxial device resolution resolution limitations in a single stage The resolution limitations for a single stage are given by the inherent resolution of the electron optical system as well as the resolution capabilities of the cathodoluminescent viewing screen . 
+The resolution capabilities of an electrostatic system depend on both the choice of magnification and chromatic aberrations . 
+It has been stated previously that a minifying electrostatic system yields a lower resolution than a magnifying system or a system with unity magnification . 
+Furthermore , the chromatic aberrations depend on the chosen high voltage . 
+In general , a high anode voltage reduces chromatic aberrations and thus increases the obtainable resolution . 
+The luminous gain of the discussed tube was calculated from Eq. ( 6 ) for the 16 possible combinations of S-11 and S-20 photocathodes and P-11 and P-20 phosphor screens , for night light and P-20 light input . 
+( The P-20 input is of interest because it corresponds roughly to the light emission of conventional X-ray fluorescent screens ) . 
+The following efficiencies obtained from JEDEC and RCA specifications were used : A[fj] . 
+The following table ( 14-2 ) lists the ( luminous ) gain values computed according to Eq. ( 6 ) with A[fj] . 
+The possibility of a space charge blowup of the screen crossover of the elementary electron bundles has been pointed out . 
+It is obvious that such an influence can only be expected in the final stage of an image intensifier at rather high output levels . 
+Space charge influences will also decrease at increased voltages . 
+Electrostatic systems of the pseudo-symmetric type have been tested for resolution capabilities by applying electronography . 
+A resolution of 70 - 80 line-pairs per millimeter appears to be feasible . 
+The inherent resolution of a cathodoluminescent phosphor screen decreases with increasingly aggregate thickness ( with increasing anode voltage ) , decreases with decreasing porosity ( thus the advantage of cathodophoretic phosphor deposition ) and might be impaired by the normally used aluminum mirror . 
+Thus , in general , elementary light optical effects , light scatter , and electron scatter determine the obtainable resolution limit . 
+It should be noted that photoluminescence , due to " Bremsstrahlung " generated within the viewing screen by electron impact , appears to be important only if anode voltages in excess of 30 KV are utilized . 
+It has been stated that settled cathodoluminescent phosphor screens may have a limiting resolution of 60 A[fj] at high voltage values of approximately 20 A[fj] . 
+For the further discussion , we shall thus assume an electron optical resolution of 80 A[fj] and phosphor screen resolution of 60 A[fj] . 

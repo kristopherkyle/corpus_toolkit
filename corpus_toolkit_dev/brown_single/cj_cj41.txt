@@ -1,0 +1,73 @@
+Wage-price policies of industry are the result of a complex of forces -- no single explanation has been found which applies to all cases . 
+The purpose of this paper is to analyze one possible force which has not been treated in the literature , but which we believe makes a significant contribution to explaining the wage-price behavior of a few very important industries . 
+While there may be several such industries to which the model of this paper is applicable , the authors make particular claim of relevance to the explanation of the course of wages and prices in the steel industry of the United States since World War 2 . 
+Indeed , the apparent stiffening of the industry 's attitude in the recent steel strike has a direct explanation in terms of the model here presented . 
+The model of this paper considers an industry which is not characterized by vigorous price competition , but which is so basic that its wage-price policies are held in check by continuous critical public scrutiny . 
+Where the industry 's product price has been kept below the " profit-maximizing " and " entry-limiting " prices due to fears of public reaction , the profit seeking producers have an interest in offering little real resistance to wage demands . 
+The contribution of this paper is a demonstration of this proposition , and an exploration of some of its implications . 
+In order to focus clearly upon the operation of this one force , which we may call the effect of " public-limit pricing " on " key " wage bargains , we deliberately simplify the model by abstracting from other forces , such as union power , which may be relevant in an actual situation . 
+For expository purposes , this is best treated as a model which spells out the conditions under which an important industry affected with the public interest would find it profitable to raise wages even in the absence of union pressures for higher wages . 
+Part 1 , below describes this abstract model by spelling out its assumptions . 
+Part 2 , discusses the operation of the model and derives some significant conclusions . 
+Part 3 , discusses the empirical relevance and policy implications of the conclusions . 
+Part 4 , is a brief summary . 
+The Mathematical Appendix presents the rigorous argument , but is best read after Part 1 , in order that the assumptions underlying the equations may be explicit . 1 , the assumptions of the model A . 
+The industry The industry with which this model is concerned is a basic industry , producing a substantial share of gross national product . 
+Price competition is lacking . 
+For the purposes of setting the product price , the industry behaves as a single entity . 
+In wage negotiations , the industry bargains as a unit with a single union . 
+B . 
+The demand for the industry 's product We are concerned with aggregate demand for the industry 's product . 
+The manner in which this is shared among firms is taken as given . 
+In any given time period , the aggregate demand for the industry 's product is determined by two things : the price charged by the industry , and the level of A[fj] . 
+For the purposes of this discussion , the problem of relative prices is encompassed in these two variables , since GNP includes other prices . 
+( We abstract here from technological progress and assume that prices of all other products change proportionately . 
+) The form of the industry demand function is one which makes quantity demanded vary inversely with the product price , and vary directly with the level of A[fj] . 
+C . 
+Industry product price policy The industry of this model is so important that its wage and price policies are affected with a public interest . 
+Because of its importance , and because the lack of price competition is well recognized , the industry is under considerable public pressure not to raise its price any more than could be justified by cost increases . 
+The threat of effective anti-trust action , provoked by " gouging the public " through price increases not justified by cost increases , and fears of endangering relations with customers , Congress , the general public and the press , all operate to keep price increases in some relation to cost increases . 
+For the industry of this model , the effect of such public pressures in the past has been to hold the price well below the short-run profit-maximizing price ( given the wage rate and the level of GNP ) , and even below the entry-limited price ( but not below average cost ) . 
+For such an industry , it is only " safe " to raise its price if such an increase is manifestly " justified " by rising costs ( due to rising wages , etc . 
+) . 
+Thus , if public pressure sets the effective limit to the price that the industry may charge , this pressure is itself a function of the wage rate . 
+In this model , we abstract from all non-wage sources of cost changes , so that the " public-limit price " only rises as the wage rate rises . 
+In such circumstances , it may well be to the advantage of the industry to allow an increase in the basic wage rate . 
+Since marginal costs rise when the wage rate rises , the profit-maximizing price also rises when the public-limit price is elevated , and is likely to remain well above the latter . 
+The entry-limiting price will also be raised for potential domestic competition , but unless general inflation permits profit margins to increase proportionately throughout the economy , we might expect the public-limit price to approach the entry-limit price . 
+The foreign-entry-limit price would be approached more rapidly , since domestic wage-rates do not enter foreign costs directly . 
+Where this approach becomes critical , the industry can be expected to put much emphasis on this as evidence of its sincerity in " resisting " the wage pressures of a powerful union , requesting tariff relief after it has " reluctantly " acceded to the union pressure . 
+Whether or not it is in the industry 's interest to allow the basic wage rate to rise obviously depends upon the extent to which the public-limit price rises in response to a basic wage increase , and the relation of this response to the increase in costs accompanying the wage increase . 
+The extent to which the public-limit price is raised by a given increase in the basic wage rate is itself a function of three things : the passage of time , the level of GNP , and the size of the wage increase . 
+We are abstracting from the fact of strikes here , but it should be obvious that the extent to which the public-limit price is raised by a given increase in the basic wage rate is also a function of the show of resistance put up by the industry . 
+The industry may deliberately take a strike , not to put pressure on the union , but in order to " educate " the government and the customers of the industry . 
+As a strike continues , these parties increase their pressure on the industry to reach an agreement . 
+They become increasingly willing to accept the price increase that the industry claims the wage bargain would entail . 
+Public indignation and resistance to wage-price increases is obviously much less when the increases are on the order of 3 % per annum than when the increases are on the order of 3 % per month . 
+The simple passage of an additional eleven months ' time makes the second 3 % boost more acceptable . 
+Thus , the public-limit price is raised further by a given wage increase the longer it has been since the previous price increase . 
+Notice , however , that the passage of time does not permit the raising of prices per se , without an accompanying wage increase . 
+Similarly , higher levels of GNP do not , in themselves , provide grounds for raising prices , but they do relax some of the pressure on the industry so that it can raise prices higher for a given wage increase . 
+This is not extended to anticipated levels of GNP , however -- only the current level of GNP affects the public pressure against wage-price increases . 
+Finally , since the public requires some restraint on the part of the companies , larger wage increases call for less than proportionately larger price increases ( e.g. , if a wage increase of 5 % allows a price increase of 7 % , a wage increase of 10 % allows a price increase of something less than 14 % ) . 
+D . 
+Industry costs We assume that average total unit cost in the relevant region of operation is constant with respect to quantity produced ( the average cost curve is horizontal , and therefore is identical with the marginal cost curve ) , and is the same for every firm ( and therefore for the industry ) . 
+The level of this average cost is determined by factor prices , technology , and so forth . 
+As we have noted , however , we are abstracting from changes in all determinants of this level except for changes in the wage rate . 
+The level of average cost ( equal to marginal cost ) is thus strictly a function of the wage rate . 
+E. Union policies and collective bargaining issues The single union which faces the industry does not restrict its membership , and there is an adequate supply of labor available to the firms of the industry at the going wage rate . 
+The union does not regard unemployment of its own members as a matter of concern when setting its own wage policy -- its concern with employment makes itself felt in pressure upon the government to maintain full employment . 
+The union vigorously demands wage increases from productivity increases , and wage increases to offset cost-of-living increases , but we abstract from these forces here . 
+For our present purposes we assume that the sole subject of bargaining is the basic wage rate ( not including productivity improvement factors or cost-of-living adjustments ) , and it is this basic wage rate which determines the level of costs . 
+Productivity is something of an amorphous concept and the amount of productivity increase in a given time period is not even well known to the industry , much less to the union or to the public . 
+Disagreement on the amount of productivity increase exacerbates the problem of agreeing how an increase in profit margins related to a productivity increase should be shared . 
+The existence of conflict and of vigorous union demand for an increase in money wages does not contradict the assumption that the union is willing to settle for cost-of-living and productivity-share increases as distinct from a cost-raising increase in the basic wage rate . 
+We assume further that the union recognizes the possibility that price-level increases may offset wage-rate increases , and it does not entirely disregard the effect of price increases arising from its own wage increases upon the " real " wage rate . 
+For internal political reasons , the union asks for ( and accepts ) increases in the basic wage rate , and would vigorously oppose a reduction in this rate , but the adjustment of the basic wage rate upwards is essentially up to the discretion of the companies of the industry . 
+Changes in the basic wage rate are cost-raising , and they constitute an argument for raising prices . 
+However , it is not known to either the union or the public precisely how much of a cost increase is caused by a given change in the basic wage rate , although the companies are presumed to have reliable estimates of this magnitude . 
+In this model , then , the industry is presumed to realize that they could successfully resist a change in the basic wage rate , but since such a change is the only effective means to raising prices they may , in circumstances to be spelled out in Part 2 , below , find it to their advantage to allow the wage rise . 
+Thus , for non-negative changes in the basic wage rate , the industry becomes the active wage-setter , since any increase in the basic wage rate can occur only by reason of industry acquiescence . 
+The presumption in the literature would appear to be that the basic wage rate would be unchanged in this case , on the grounds that it is " clearly " not in the interest of the industry to raise wages gratuitously . 
+From this presumption it is an easy step to the conclusion that any observed increases in the basic wage rate must be due to union behavior different and more aggressive than assumed in our model . 
+It is this conclusion that we challenge ; ; we do so by disproving the presumption on which it is based . 2 , the operation of the model It is convenient to assume that the union-industry contract is of one year 's duration . 

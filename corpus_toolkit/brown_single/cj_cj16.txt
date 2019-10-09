@@ -1,0 +1,82 @@
+Purification of the conjugates In attempting to improve specificity of staining , the fluorescein-labeled antisera used in both direct and indirect methods were treated in one of several ways : ( 1 ) They were passed through Dowex-2-chloride twice and treated with acetone insoluble powders ( Coons , 1958 ) prepared from mouse liver or from healthy sweet clover stems or crown gall tissue produced by Agrobacterium tumefaciens ( E.F. Smith & Townsend ) on sweet clover stems . 
+( 2 ) The conjugates as well as the intermediate sera were absorbed for 30 minutes with 20 - 50 mg of proteins extracted from healthy sweet clover stems . 
+The proteins were extracted with 3 volumes of A[fj] in A[fj] to give a nearly neutral extract and precipitated by 80 % saturation with A[fj] . 
+The precipitate was washed twice with an 80 % saturated solution of A[fj] , dissolved in a small quantity of 0.1 M neutral phosphate buffer , dialyzed against cold distilled water till free from ammonium ions , and lyophilized using liquid nitrogen . 
+( 3 ) In other experiments the indirect conjugate was treated with 3 volumes of ethyl acetate as recommended by Dineen and Ade ( 1957 ) . 
+( 4 ) The conjugates were passed through a diethylaminoethyl ( DEAE ) cellulose column equilibrated with neutral phosphate buffer ( PBS ) containing A[fj] potassium phosphate and A[fj] . 
+Preparation of frozen sections The technique of cutting sections was essentially the same as that described by Coons et al ( 1951 ) . 
+Root and stem tumors from sweet clover plants infected with WTV were quick-frozen in liquid nitrogen , embedded in ice , and cut at 3 - 6 \*\* ym in a cryostat maintained at -16-degrees to -20-degrees . 
+The sections were mounted on cold slides smeared with Haupts ' adhesive ( Johansen , 1940 ) in earlier experiments , and in later experiments with a different mixture of the same components reported by Schramm and Rottger ( 1959 ) . 
+The latter adhesive was found to be much more satisfactory . 
+The sections were then thawed by placing a finger under the slide and dried under a fan for 30 minutes ; ; until used they were stored for as long as 2 weeks . 
+Staining technique indirect method . 
+The sections were fixed in acetone for 15 minutes and dried at 37-degrees for 30 minutes . 
+Some of them were then covered with a drop of A[fj] in a moist chamber at 24-degrees for 30 - 40 minutes . 
+As controls other sections were similarly covered with A[fj] . 
+Sections were then washed with PBS for 15 - 30 minutes . 
+After blotting out most of the saline around the sections , a drop of A[fj] was layered over each of the sections , allowed to react for 30 minutes , and then washed with PBS for 15 - 30 minutes . 
+After blotting out most of the liquid around the sections , the latter were mounted in buffered glycerine ( 7 parts glycerine to 3 parts of PBS ) . 
+Direct method . 
+After drying the sections under the fan , fixing in acetone , and drying at 37-degrees as in the indirect method , the sections were treated with conjugated A[fj] or A[fj] ( undiluted unless mentioned otherwise ) for 5 - 30 minutes . 
+As controls , other sections were similarly treated with A[fj] or conjugated antiserum to the New York strain of potato yellow-dwarf virus ( Wolcyrz and Black , 1956 ) . 
+The sections were then washed with PBS for 15 - 30 minutes and mounted in buffered glycerine . 
+Fluorescence microscopy Stained or unstained sections were examined under dark field illumination in a Zeiss fluorescence microscope equipped with a mercury vapor lamp ( Osram HBO 200 ) . 
+The light beam from the lamp was filtered through a half-standard thickness Corning 1840 filter . 
+In the eyepiece a Wratten 2 B filter was used to filter off residual ultra-violet light . 
+A red filter , Zeiss barrier filter with the code ( Schott ) designation BG 23 , was also used in the ocular lens assembly as it improved the contrast between specific and nonspecific fluorescence . 
+Results specificity of staining indirect method . 
+In the first few experiments A[fj] was passed through Dowex-2-chloride twice and absorbed twice with 50 - 100 mg sweet clover tissue powder . 
+The intermediate sera were also similarly absorbed with tissue powder . 
+Sections of sweet clover stem and root tumors were treated with 1 : 10 solution of A[fj] for 30 minutes , washed in buffered saline for 15 minutes , stained with A[fj] for 30 minutes , and washed for 15 minutes in A[fj] . 
+Such sections showed bright yellow-green specific fluorescence in the cells of the pseudophloem tissue ( Lee and Black , 1955 ) . 
+This specific fluorescence was readily distinguished from the light green nonspecific fluorescence in consecutive sections stained with 1 : 10 dilution of NS and A[fj] or with A[fj] alone . 
+Unstained sections mounted in buffered glycerine or sections treated only with NS or A[fj] did not show such green fluorescence . 
+Sections of crown gall tissue similarly stained with either A[fj] and A[fj] or NS and A[fj] also showed only the light green nonspecific fluorescence . 
+However , the nonspecific staining by the A[fj] in tumor sections was considered bright enough to be confused with the staining of small amounts of WTV antigen . 
+Two absorptions of A[fj] with ethyl acetate or two absorptions of A[fj] ( which had been passed through Dowex-2-chloride ) , NS and A[fj] with crown gall tissue powder , or mouse liver powder did not further improve the specificity of staining . 
+Treatment of all the sera with sweet clover proteins greatly reduced nonspecific fluorescence , especially when the treated conjugate was diluted to 1 : 2 with 0.85 % saline . 
+In all the above procedures , when the intermediate sera were diluted to 1 : 10 or 1 : 100 with 0.85 % saline , the specific and nonspecific fluorescence were not appreciably reduced , whereas , a dilution of the intermediate sera to 1 : 500 or diluting the A[fj] to 1 : 5 greatly reduced specific fluorescence . 
+Rinsing the sections with PBS before layering the intermediate sera did not improve the staining reaction . 
+In addition to other treatments , treating the sections with normal sheep serum for half an hour before layering A[fj] did not reduce nonspecific staining . 
+The only treatment by which nonspecific staining could be satisfactorily removed was by passing the conjugate through a DEAE-cellulose column . 
+When 1 ml of conjugate was passed through a column ( A[fj] ) , the first and second milliliter fractions collected were the most specific and gave no nonspecific staining in some experiments , and very little in others . 
+In the latter cases an additional treatment of the DEAE-cellulose-treated A[fj] with 50 mg of sweet clover stem tissue powder further improved the specificity . 
+After these treatments the conjugate did not stain healthy or crown gall sweet clover tissues or stained them a very faint green which was easily distinguishable from the bright yellow-green specific staining . 
+With this purified conjugate the best staining procedure consisted of treating the sections with 1 : 10 dilution of A[fj] for 30 minutes , washing with PBS for 15 minutes , staining with A[fj] for 30 minutes , and washing with PBS for 15 minutes . 
+The specificity of staining in WTV tumors with A[fj] and A[fj] but not with NS and A[fj] or with antiserum to potato yellow-dwarf virus and A[fj] , and the absence of such staining in crown gall tumor tissue from sweet-clover , indicate that an antigen of WTV was being stained . 
+Direct method . 
+A[fj] was first conjugated with 50 mg of FITC per gram of globulin . 
+This conjugate was passed twice through Dowex-2-chloride and treated with various tissue powders in the same manner as described for the indirect method . 
+In all cases a disturbing amount of nonspecific staining was still present although it was still distinguishable from specific fluorescence . 
+In later experiments , A[fj] and A[fj] were prepared by conjugating 8 mg of FITC per gram of globulin . 
+These conjugates A[fj] had much less nonspecific staining than the previous conjugate ( with 50 mg FITC per gram of globulin ) while the specific staining was similar in both cases . 
+Nonspecific staining could be satisfactorily eliminated by passing these conjugates through a DEAE-cellulose column as described for A[fj] . 
+The best staining procedure with this purified A[fj] consisted of staining with the conjugate for 30 minutes and washing in PBS for 15 minutes . 
+The specificity of staining with A[fj] was established as follows : A[fj] specifically stained tumor sections but not sections of healthy sweet clover stems or of crown gall tumor tissue from sweet clover . 
+Sections of tumors incited by WTV were not similarly stained with conjugated normal serum or conjugated antiserum to potato yellow-dwarf virus . 
+After passing A[fj] through DEAE-cellulose , the titer of antibodies to WTV in the specific fraction was 1 : 4 of the titer before such passage ( precipitin ring tests by R.F. Whitcomb ) ; ; but mere dilution of the conjugate to 1 : 4 did not satisfactorily remove nonspecific staining . 
+This indicates that increase in specificity of A[fj] after passing it through DEAE-cellulose was not merely due to dilution . 
+Specific staining by DEAE-cellulose treated A[fj] and A[fj] , although clearly distinguishable under the microscope from either nonspecific staining or autofluorescence of cells , was not satisfactorily photographed to show such differences in spite of many attempts with black and white and color photography . 
+This was chiefly because of the bluish white autofluorescence from the cells . 
+The autofluorescence from the walls of the xylem cells was particularly brilliant . 
+Distribution of virus antigen Results of specific staining by the direct and the indirect methods were similar and showed the localization of WTV antigen in certain tissues of tumors . 
+The virus antigen was concentrated in the pseudophloem tissue . 
+Frequently a few isolated thick-walled cells or , rarely , groups of such cells in the xylem region , were also specifically stained , but there was no such staining in epidermis , cortex , most xylem cells , ray cells , or pith . 
+Within the pseudophloem cells the distribution of WTV antigen was irregular in the cytoplasm . 
+No antigen was detectable in certain dark spherical areas in most cells . 
+These areas are thought to represent the nuclei . 
+In some tumor sections small spherical bodies , possibly inclusion bodies ( Littau and Black , 1952 ) stained more intensely than the rest of cytoplasm and probably contained more antigen . 
+In all cases studied tissues of the stem on which the tumor had developed did not contain detectable amounts of WTV antigen . 
+Discussion In both the direct and indirect methods of staining , the conjugates had nonspecifically staining fractions . 
+In the indirect method , this was evident from the fact that tumor sections were stained light green even when stained with NS and A[fj] or with A[fj] only . 
+In the direct method , A[fj] , not further treated , stained certain tissues of healthy sweet clover stems nonspecifically and WTV tumor sections were similarly stained by comparable A[fj] . 
+After A[fj] and A[fj] were passed through Dowex-2-chloride twice and treated twice with healthy sweet clover tissue powder , nonspecific staining was greatly reduced but a disturbing amount of such staining was still present . 
+Treatment of the conjugates with ethyl acetate , and the conjugates ( which had been passed through Dowex-2-chloride ) with mouse liver powder , sweet clover crown gall tissue powder , or healthy sweet clover proteins did not satisfactorily remove nonspecifically staining substances in the conjugates . 
+Such treatments of the conjugates have usually been successful in eliminating nonspecific staining in several other systems ( Coons , 1958 ) . 
+Schramm and Rottger ( 1959 ) did not report any such nonspecific staining of plant tissues with fluorescein isocyanate-labeled antiserum to tobacco mosaic virus . 
+The reason for the failure of these treatments to eliminate nonspecific staining in the conjugates in our system is not known . 
+In our work the best procedure for removing substances causing nonspecific staining in order to obtain specific conjugates was to pass the conjugates through a DEAE-cellulose column and in some cases to absorb the first and second milliliter fractions with sweet clover tissue powder . 
+The specific staining by both direct and indirect methods showed that WTV antigen was concentrated in the pseudophloem tissue and in a few thick-walled cells in the xylem region , but was not detectable in any other tissues of the root and stem tumors . 
+A study of the distribution of WTV antigen within the pseudophloem cells indicates that it is irregularly distributed in the cytoplasm . 
+Wound-tumor virus is a leafhopper transmitted virus not easily transmissible by mechanical inoculation ( Black , 1944 ; ; Brakke et al , 1954 ) . 
+The concentration and apparent localization of the WTV antigen in pseudophloem tissue of the tumor may indicate that the virus preferentially multiplies in the phloem and may need to be directly placed in this tissue in order to infect plants . 

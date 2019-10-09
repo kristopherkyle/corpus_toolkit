@@ -1,0 +1,127 @@
+Organization : In this publication measurements of interfacial angles of crystals are used to classify and identify chemical substances . 
+T.V. Barker , who developed the classification-angle system , was about to begin the systematic compilation of the index when he died in 1931 . 
+The compilation work was undertaken by a number of interested crystallographers in the Department of Mineralogy of the University Museum at Oxford . 
+Since 1948 the working headquarters has been the Department of Geology and Mineralogy . 
+Numerous cooperating individuals in Great Britain , Holland , the United States , and Belgium have contributed editorially or by making calculations . 
+Great interest and practical help have been given by the Barker Index Committee . 
+Financial and material help have come from academic , governmental , and industrial organizations in England and Holland . 
+Editors for Volumes 1 , and 2 , were M.W. Porter and the late R.C. Spiller , both of Oxford University . 
+A third volume remains to be published . 
+Substances : Volume 1 , deals with 2991 compounds belonging to the tetragonal , hexagonal and trigonal , and orthorhombic systems ; ; and Volume 2 , , with about 3500 monoclinic substances . 
+Volume 3 , , in preparation , will treat the anorthic compounds described in Groth 's Chemische Krystallographie . 
+Properties : The Barker system is based on the use of the smallest number of interfacial angles necessary for indexing purposes . 
+Other morphological , physical , and optical property values are also given . 
+Sources of data : The index is essentially a new treatment of previously compiled morphological data . 
+Most of the data used are from Groth 's Chemische Krystallographie . 
+Criticality : Every calculation has been made independently by two workers and checked by one of the editors . 
+Use of nomenclature , symbols , units , physical constants : Accepted crystallographic symbolism has been used ; ; other symbols related to the index necessarily have been introduced . 
+Currency : This publication covers the old literature ( Groth ) ; ; there is no mechanism for keeping the volumes up to date . 
+Format : The publication form is that of clothbound books . 
+The data are presented in lists and tables . 
+Part 1 in both volumes is labeled " Introduction And Tables " . 
+The tables include those for the classification angles , refractive indices , and melting points of the various types of crystals . 
+Part 2 of Volume 1 , and Parts 2 and 3 of Volume 2 , contain the crystal descriptions . 
+These are grouped into sections according to the crystal system , and within each section compounds are arranged in the same order as in Groth 's Chemische Krystallographie . 
+An alphabetical list of chemical and mineralogical names with reference numbers enables one to find a particular crystal description . 
+References to the data sources are given in the crystal descriptions . 
+Publication and distribution : The Barker index is published for the Barker Index Committee by W. Heffer & Sons , Ltd. , 4 Petty Cury , Cambridge , England . 
+Volume 1 , containing Parts 1 and 2 was published in 1951 ; ; Volume 2 , , in three parts , in 1956 . 
+The two volumes are available from the publisher for $ 16.80 and $ 28.00 , respectively . 
+2-2 . 
+Crystal data organization : The present edition of crystal data was written by J.D.H. Donnay , the Johns Hopkins University , Baltimore , Md . 
+( Part 2 ) ) and Werner Nowacki , University of Berne , Switzerland ( Part 1 ) ) with the collaboration of Gabrielle Donnay , U.S. Geological Survey , Washington , D. C. . Many collaborators in the United States and Switzerland helped in collecting and assembling data , in making calculations , and in editing . 
+Support came from academic and industrial groups in these two countries . 
+The Geological Society of America gave a grant-in-aid to complete the work and bore the expenses of publication . 
+Preparation of a second edition is in progress under the sponsorship of the Crystal Data Committee of the American Crystallographic Association . 
+Coeditors are J.D.H. Donnay , G.E. Cox of Leeds University , and Olga Kennard of the National Council for Medical Research , London . 
+Financial grants have been received from the National Science Foundation and the ( British ) Institute of Physics for the compilation work and the publication costs . 
+The continuity of the project is suggested by plans for an eventual third edition . 
+Substances : Elements , alloys , inorganic and organic compounds . 
+( Metal data will not be included in the second edition , since these have been collected independently by W.B. Pearson , National Research Council , Ottawa , and published as A handbook of lattice spacings and structures of metals and alloys by Pergamon Press . 
+) properties : Crystallographic data resulting mainly from X-ray and electron diffraction measurements are presented . 
+Cell dimensions , number of formula units per cell , space group , and specific gravity are given for all substances . 
+For some substances , auxiliary properties such as the melting point are given . 
+Sources of data : Part 1 , of the present edition covers the literature to mid-1948 ; ; Part 2 , , up to the end of 1951 . 
+Much of the material comes directly from secondary sources such as Strukturbericht . 
+Criticality : The vast number of compounds to be covered , the limited resources to do the job , and the immediate need for this type of compilation precluded a thorough evaluation of all available data in the present edition . 
+Future editions may be more critical . 
+Use of nomenclature , symbols , units , physical constants : Since Parts 1 , and 2 , were prepared independently , the abbreviation schemes and the chemical symbols used differ in the two parts . 
+The second edition should have greater uniformity . 
+Currency : A second edition is in preparation , and there are long range plans for a third . 
+Format : Data in the present edition are presented in tables and lists . 
+Part 1 , deals with the classification of crystalline substances by space groups and is not a numerical data compilation . 
+The compounds are divided according to composition into seven categories . 
+Part 2 , contains determinative tables for the identification of crystalline substances . 
+These are arranged according to crystal system . 
+There are formula and name indexes covering both parts . 
+References for Part 1 , are given at the end and for Part 2 , in the tables . 
+Publication and distribution : The present edition of crystal data ( A[fj] ) , published in 1954 as Memoir 60 of the Geological Society of America , is now out of print . 
+The manuscript of the second edition will probably be ready by the end of 1960 . 
+2-3 . 
+Crystal Structures organization : The author of Crystal Structures is Ralph W.G. Wyckoff , University of Arizona , Tucson , Arizona . 
+The first section of this publication appeared in 1948 and the last supplement in 1960 . 
+Though now complete , the publication is included in this directory because of its importance and because of the long-term nature of its preparation . 
+Substances : Elements , inorganic and organic compounds ( no alloys ) . 
+Properties : The data presented are derived almost entirely from X-ray diffraction measurements and include atomic coordinates , cell dimensions , and atomic and ionic radii . 
+Sources of data : Published literature . 
+Criticality : The aim was to state the results of all available determinations of atomic positions in crystals . 
+Presumably the tabulated data are best available values . 
+The critical comments in the textual sections of this publication are invaluable . 
+Use of nomenclature , symbols , units , physical constants : The terminology used conforms to that of Internationale Tabellen Zur Bestimmung Von Kristallstrukturen . 
+Currency : During the years of publication , supplement and replacement sheets were issued periodically . 
+Coverage of the literature extends through 1954 and includes some 1955 references . 
+It is to be hoped that some way will be found to keep this important work current . 
+Format : The publication form is that of loose-leaf sheets ( A[fj] ) contained in binders . 
+The book is divided into chapters and in each chapter the material is grouped into Text , Tables , Illustrations , and Bibliography . 
+Each group is paginated separately ; ; numbers sometimes followed by letters are used so that insertions can be made . 
+Inorganic structures are found in Chapters 2 - 12 , organic structures in Chapters 13 - 15 . 
+Within each chapter an effort has been made to group together those crystals with similar structures . 
+There are three indexes , i.e. , an inorganic formula index , a mineralogical name index , and a name index to organic compounds . 
+Publication and distribution : Publisher of Crystal Structures is Interscience Publishers , 250 Fifth Avenue , New York 1 , N. Y. . The work consists of four sections and 5 supplements . 
+Price of the complete work including all necessary binders is $ 148.50 . 
+2-4 . 
+Dana 's System Of Mineralogy organization : Six editions of James Dwight Dana 's System appeared between 1837 and 1892 . 
+In 1915 Edward S. Dana , editor of the sixth edition , asked W.E. Ford of Yale University to prepare a seventh edition of his father 's work . 
+A number of people became involved in the preparation but work was slow until 1937 . 
+In that year a grant was obtained from the Penrose Fund of the Geological Society of America to finance additional full-time workers . 
+Money was also advanced by the publishers , John Wiley & Sons , Inc. . Volume 1 , was completed in 1941 and published in 1944 . 
+The editors of this volume and Volume 2 , were the late Charles Palache , Clifford Frondel , and the late Harry Berman , all of Harvard University . 
+Work on Volume 2 , was begun in 1941 , interrupted by the war in 1942 , and resumed in 1945 . 
+The volume was completed in 1950 and published in 1951 . 
+A supplementary grant from the Geological Society of America helped finance its publication . 
+Besides the editors there were many contributors in the United States and Great Britain to Volumes 1 , and 2 . 
+W.E. Ford , for example , continued to supply data on the occurrence of minerals until his death in 1939 . 
+Volume 3 , is nearing completion and there are plans to revise Volume 1 . 
+The project is currently supported by Harvard University . 
+Substances : minerals . 
+Properties : Crystallographic , physical , optical , and chemical properties . 
+The crystallographic data given include interaxial angles and unit cell dimensions ; ; the physical property values include hardness , melting point , and specific gravity . 
+Sources of data : Almost entirely original articles in journals ; ; abstracts and other compilations on rare occasions when original papers are not available . 
+Criticality : All information is carefully appraised and uncertain facts are designated by ( ' ? 
+' . 
+) An authentic diffraction pattern is always obtained and optical properties are frequently checked . 
+Use of nomenclature , symbols , units , physical constants : Recommendations of international authorities , such as the International Union of Crystallography , are followed . 
+There is a complete synonymy at the beginning of each species description . 
+Currency : Currency in the usual sense can not be maintained in an undertaking of this sort . 
+Format : The data are presented in text and tables in bound volumes . 
+Volume 1 , of the seventh edition contains an introduction and data for eight classes of minerals ; ; Volume 2 , contains data for forty-two classes . 
+References are given at the end of each mineral description and a general index is given at the end of each volume . 
+There will be a comprehensive index in Volume 3 , covering all three volumes . 
+Publication and distribution : Volume 1 ( ( A[fj] ) of the seventh edition of Dana 's System Of Mineralogy was published in 1944 and Volume 2 ( ( A[fj] ) in 1951 by John Wiley & Sons , Inc. , New York , N. Y. . ( The association of Wiley & Sons with the Dana Mineralogies dates back to 1844 when they published the second edition of the system . 
+) The two volumes are available from the publisher for $ 14.00 and $ 16.00 , respectively . 
+2-5 . 
+The Groth Institute organization : " The Groth Institute " , which was established in 1958 , is a group activity affiliated with the Physics Department of The Pennsylvania State University , University Park , Pa. . Ray Pepinsky is the Director . 
+The Institute derives its name from Paul Von Groth 's Chemische Krystallographie , a five-volume work which appeared between 1906 and 1919 . 
+The resident staff is large and consists of professional assistants , graduate students , abstractors , librarian , technical editor , machine operators , secretarial help , and others . 
+There are also corresponding members and outside advisory groups . 
+The Air Force Office of Scientific Research has provided financial assistance in the early stages of the Institute 's program . 
+Substances : All crystalline substances and other solid-state materials . 
+Properties : The aim is to collect a very broad range of physical , chemical , morphological , and structural data for crystals on an encyclopedic scale and to seek all possible useful and revealing correlations of properties with internal structure . 
+Sources of data : The first stage of operation has centered on the literature imaging of critical or summarizing tabulations such as the Barker Index . 
+Coverage of primary literature will follow . 
+Unpublished data will be available to the Groth institute from cooperating groups and individuals . 
+Criticality : Critical evaluation of all data compiled is not a primary aim of this project . 
+However , the proposed correlation of the many interrelated properties of crystals will reveal discrepancies in the recorded data and suggest areas for reinvestigation . 
+In addition , the availability of computers will permit recalculation and refinement of much structural information . 
+Use of nomenclature , symbols , units , physical constants : For punched-card or tape storage of information all literature values must be conformed to a common language . 
+In this way a degree of unification of nomenclature , symbols , and units will be realized . 

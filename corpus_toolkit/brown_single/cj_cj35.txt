@@ -1,0 +1,77 @@
+There are more stems per item in Athabascan , which expresses the fact that the Athabascan languages have undergone somewhat more change in diverging from proto-Athabascan than the Yokuts languages from proto-Yokuts . 
+This may be because the Athabascan divergence began earlier ; ; or again because the Athabascan languages spread over a very much larger territory ( including three wholly separated areas ) ; ; or both . 
+The differentiation , however , is not very much greater , as shown by the fact that Athabascan shows 3.46 stems per meaning slot as against 2.75 for Yokuts , with a slightly greater number of languages represented in our sample : 24 as against 21 . 
+( On deduction of one-eighth from 3.46 , the stem item rate becomes 3.03 against 2.75 in equivalent number of languages . 
+) These general facts are mentioned to make clear that the total situation in the two families is similar enough to warrant comparison . 
+The greatest difference in the two sets of figures is due to differences in the two sets of lists used . 
+These differences in turn result from the fact that my Yokuts vocabularies were built up of terms selected mainly to insure unambiguity of English meaning between illiterate informants and myself , within a compact and uniform territorial area , but that Hoijer 's vocabulary is based on Swadesh 's second glottochronological list which aims at eliminating all items which might be culturally or geographically determined . 
+Swadesh in short was trying to develop a basic list that was universal ; ; I , one that was specifically adapted to the San Joaquin Valley . 
+The result is that I included 70 animal names , but Swadesh only 4 ; ; and somewhat similarly for plants , 16 as against 4 . 
+Swadesh , and therefore Hoijer , felt compelled to omit all terms denoting species or even genera ( ox , vulture , salmon , yellow pine , manzanita ) ; ; their classes of animal and plant terms are restricted to generalizations or recurrent parts ( fish , bird , tree , grass , horn , tail , bark , root ) . 
+The groups are therefore really non-comparable in content as well as in size . 
+Other classes are included only by myself ( interrogatives , adverbs ) or only by Swadesh and Hoijer ( pronouns , demonstratives ) . 
+What we have left as reasonably comparable are four classes : ( 1 ) body parts and products , which with a proportionally nearly even representation ( 51 terms out of 253 , 25 out of 100 ) come out with nearly even ratios ; ; 2.6 and 2.7 ; ; ( 2 ) Nature ( 29 terms against 17 ) , ratios 3.3 versus 4.1 ; ; ( 3 ) adjectives ( 16 , 15 terms ) , ratios 3.9 versus 4.7 ; ; ( 4 ) verbs ( 9 , 22 terms ) , ratios 4.0 versus 3.4 . 
+It will be seen that where the scope is similar , the Athabascan ratios come out somewhat higher ( as indeed they ought to with a total ratio of 2.8 as against 3.5 or 4 : 5 ) except for verbs , where alone the Athabascan ratio is lower . 
+This exception may be connected with Hoijer 's use of a much higher percentage of verbs : 22 % of his total list as against 3.5 % in mine . 
+Or the exception may be due to a particular durability peculiar to the Athabascan verb . 
+More word class ratios determined in more languages will no doubt ultimately answer the question . 
+5 . 
+If word classes differ in their resistance or liability to stem replacement within meaning slot , it is conceivable that individual meanings also differ with fair consistence trans-lingually . 
+Hoijer 's Athabascan and my Yokuts share 71 identical meanings ( with allowance for several near-synonyms like stomach-belly , big-large , long-far , many-much , die-dead , say-speak ) . 
+For Yokuts , I tabulated these 71 items in five columns , according as they were expressed by 1 , 2 , 3 , 4 , and more than 4 stems . 
+The totals for these five categories are not too uneven , namely 20 , 15 , 11 , 16 , 9 respectively . 
+For Athabascan , with a greater range of stems , the first two of five corresponding columns were identical , 1 and 2 stems ; ; the three others had to be spread somewhat , and are headed respectively A[fj] ; ; A[fj] ; ; and A[fj] stems . 
+While the particular limits of these groupings may seem artificially arbitrary , they do fairly express a corresponding grouping of more variable material , and they eventuate also in five classes , along a similar scale , containing approximately equal numbers of cases , namely 19 , 14 , 15 , 11 , 12 in Athabascan . 
+When now we count the frequency of the 71 items in the two language families appearing in the same column or grade , or one column or grade apart , or two or three or four , we find these differences : A[fj] . 
+This distribution can be summarized by averaging the distance in grades apart : A[fj] ; ; which , divided by A[fj] gives a mean of 1.07 grades apart . 
+If the distribution of the 71 items were wholly concordant in the two families , the distance would of course be 0 . 
+If it were wholly random and unrelated , it would be 2.0 , assuming the five classes were equal in n , which approximately they are . 
+The actual mean of 1.07 being about halfway between 0 of complete correlation and 2.0 of no correlation , it is evident that there is a pretty fair degree of similarity in the behavior even of particular individual items of meaning as regards long-term stem displacement . 
+6 . 
+In 1960 , David D. Thomas published Basic Vocabulary In some Mon-Khmer Languages ( AL 2 , No. 3 , pp. 7 - 11 ) , which compares 8 Mon-Khmer languages with the I-E language data on which Swadesh based the revised retention rate ( A[fj] ) in place of original ( A[fj] ) , and his revised 100 word basic glottochronological list in Towards Greater Accuracy ( IJAL 21 : : 121 - 137 ) . 
+Thomas ' findings are , first , " that the individual items vary greatly and unpredictably in their persistence " ; ; but , second , " that the semantic groups are surprisingly unvarying in their average persistence " ( as between M-K and I-E ) . 
+His first conclusion , on behavior of individual items , is negative , whereas mine ( on Ath. and Yok. ) was partially positive . 
+His second conclusion , on semantic word classes , agrees with mine . 
+This second conclusion , independently arrived at by independent study of material from two pairs of language families as different and remote from one another as these four are , can not be ignored . 
+Thomas also presents a simple equation for deriving an index of persistence , which weights not only the number of stems ( ' roots ' ) per meaning , but their relative frequency . 
+Thus his persistence values for some stem frequencies per meaning are : stem identical in 8 languages , 100 % ; ; stem frequencies 7 and 1 , 86 % ; ; stem frequencies 4 and 4 , 64 % ; ; stem frequencies 4 , 3 , and 1 , 57 % . 
+His formula will have to be weighed , may be altered or improved , and it should be tested on additional bodies of material . 
+But consideration of the frequency of stems per constant meaning seems to be established as having significance in comparative situations with diachronic and classificatory relevance ; ; and Gleason presumably is on the way with a further contribution in this area . 
+As to relative frequencies of competing roots ( 7 - 1 vs. 4 - 4 , etc. ) , Thomas with his ' weighting ' seems to be the first to have considered the significance this might have . 
+The problem needs further exploration . 
+I was at least conscious of the distinction in my full Yokuts presentation that awaits publication , in which , in listing ' Two-Stem Meanings ' , I set off by asterisks those forms in which N of stem B was A[fj] of stem A3 , the unasterisked ones standing for A[fj] ; ; or under ' Four Stems ' , I set off by asterisks cases where the combined N of stems A[fj] was Af. 7 . 
+These findings , and others which will in time be developed , will affect the method of glottochronological inquiry . 
+If adjectival meanings show relatively low retentiveness of stems , as I am confident will prove to be the case in most languages of the world , why should our basic lists include 15 per cent of these unstable forms , but only 8 per cent of animals and plants which replace much more slowly ? ? 
+Had Hoijer substituted for his 15 adjectival slots 15 good animal and plant items , his rate of stem replacement would have been lower and the age of Athabascan language separation smaller . 
+And irrespective of the outcome in centuries elapsed since splitting , calculations obviously carry more concordant and comparable meaning if they deal with the most stable units than with variously unstable ones . 
+It is evident that Swadesh has not only had much experience with basic vocabulary in many languages but has acquired great tact and feeling for the expectable behavior of lexical items . 
+Why then this urge to include unstable items in his basic list ? ? 
+It is the urge to obtain a list as free of geographical and cultural conditioning as possible . 
+And why that insistence ? ? 
+It is the hope of attaining a list of items of universal occurrence . 
+But it is becoming increasingly evident that such a hope is a snare . 
+Not that such a list can not be constructed ; ; but the nearer it comes to attaining universality , the less significant will it be linguistically . 
+Its terms will tend to be labile or vague , and they will fit actual languages more and more badly . 
+The practical operational problem of lexicostatistics is the establishment of a basic list of items of meaning against which the particular forms or terms of languages can be matched as the medium of comparison . 
+The most important quality of the meanings is that they should be as definable as possible . 
+In proportion as meanings are concrete , we can better rely on their being insulated and distinctive . 
+An elephant or a fox or a swan or a cocopalm or a banana possess in unusually high degree this quality of obvious , common-sense , indubitable identity , as do an eye or tooth or nail . 
+They isolate out easily , naturally , and unambiguously from the continuum of nature and existence ; ; and they should be given priority in the basic list as long as they continue to show these qualities . 
+With the universal list as his weapon , Swadesh has extended his march of conquest farther and farther into the past , eight , ten , twelve millennia back . 
+And he has proclaimed greater or less affiliation between all Western hemisphere languages . 
+Some of this may prove to be true , or even considerable of it , whether by genetic ramification or by diffusion and coalescence . 
+But the farther out he moves , the thinner will be his hold on conclusive evidence , and the larger the speculative component in his inferences . 
+He has traversed provinces and kingdoms , but he has not consolidated them behind him , nor does he control them . 
+He has announced results on Hokan , Penutian , Uto-Aztecan , and almost all other American families and phyla , and has diagrammed their degree of interrelation ; ; but he has not worked out by lexicostatistics one comprehensively complete classification of even a single family other than Salish . 
+That is his privilege . 
+The remote , cloudy , possible has values of its own -- values of scope , stimulus , potential , and imagination . 
+But there is also a firm aspect to lexicostatistics : the aspect of learning the internal organization of obvious natural genetic groups of languages as well as their more remote and elusive external links ; ; of classification first , with elapsed age merely a by-product ; ; of acquiring evidential knowledge of what happened in Athabascan , in Yokuts , in Uto-Aztecan in the last few thousand years as well as forecasting what more anciently may have happened between them . 
+This involves step-by-step progress , and such will have to be the day-by-day work of lexicostatistics as a growing body of scientific inquiry . 
+If of the founders of glottochronology Swadesh has escaped our steady plodding , and Lees has repudiated his own share in the founding , that is no reason why we should swerve . 
+8 . 
+There is no apparent reason why we should feel bound by Swadesh 's rules and procedure since his predilections and aims have grown so vast . 
+It seems time to consider a revision of operational procedures for lexicostatistic studies on a more humble , solid , and limited basis . 
+I would propose , first , an abandonment of attempts at a universal lexical list , as intrinsically unachievable , and operationally inadequate in proportion as it is achieved . 
+I would propose , next , as the prime requirement for constitution of new basic lists , items whose forms show as high an empirical retention rate as possible . 
+There would be no conceivable sense in going to the opposite extreme of selecting items whose forms are the most unstable . 
+An attempted middle course might lead to devices like a 5000-word alphabetized dictionary from which every fiftieth word was selected . 

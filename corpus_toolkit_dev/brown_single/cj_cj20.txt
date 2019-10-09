@@ -1,0 +1,102 @@
+Consider a simple , closed , plane curve C which is a real-analytic image of the unit circle , and which is given by A[fj] . 
+These are real analytic periodic functions with period T . 
+In the following paper it is shown that in a certain definite sense , exactly an odd number of squares can be inscribed in every such curve which does not contain an infinite number of inscribed squares . 
+This theorem is similar to the theorem of Kakutani that there exists a circumscribing cube around any closed , bounded convex set in A[fj] . 
+The latter theorem has been generalized by Yamabe and Yujobo , and Cairns to show that in A[fj] there are families of such cubes . 
+Here , for the case of squares inscribed in plane curves , we remove the restriction to convexity and give certain other results . 
+A square inscribed in a curve C means a square with its four corner points on the curve , though it may not lie entirely in the interior of C . 
+Indeed , the spiral A[fj] , with the two endpoints connected by a straight line possesses only one inscribed square . 
+The square has one corner point on the straight line segment , and does not lie entirely in the interior . 
+On C , from the point P at A[fj] to the point Q at A[fj] , we construct the chord , and upon the chord as a side erect a square in such a way that as S approaches zero the square is inside C . 
+As S increases we consider the two free corner points of the square , A[fj] and A[fj] , adjacent to P and Q respectively . 
+As S approaches T the square will be outside C and therefore both A[fj] and A[fj] must cross C an odd number of times as S varies from zero to T . 
+The points may also touch C without crossing . 
+Suppose A[fj] crosses C when A[fj] . 
+We now have certain squares with three corners on C . 
+For any such square the middle corner of these will be called the vertex of the square and the corner not on the curve will be called the diagonal point of the square . 
+Each point on C , as a vertex , may possess a finite number of corresponding diagonal points by the above construction . 
+To each paired vertex and diagonal point there corresponds a unique forward corner point , i.e. , the corner on C reached first by proceeding along C from the vertex in the direction of increasing T . 
+If the vertex is at A[fj] , and if the interior of C is on the left as one moves in the direction of increasing t , then every such corner can be found from the curve obtained by rotating C clockwise through 90-degrees about the vertex . 
+The set of intersections of A[fj] , the rotated curve , with the original curve C consists of just the set of forward corner points on C corresponding to the vertex at A[fj] , plus the vertex itself . 
+We note that two such curves C and A[fj] , can not coincide at more than a finite number of points ; ; otherwise , being analytic , they would coincide at all points , which is impossible since they do not coincide near A[fj] . 
+With each vertex we associate certain numerical values , namely the set of positive differences in the parameter T between the vertex and its corresponding forward corner points . 
+For the vertex at A[fj] , these values will be denoted by A[fj] . 
+The function f { t } defined in this way is multi-valued . 
+We consider now the graph of the function f { t } on A[fj] . 
+We will refer to the plane of C and A[fj] as the C-plane and to the plane of the graph as the A[fj] . 
+The graph , as a set , may have a finite number of components . 
+We will denote the values of f { t } on different components by A[fj] . 
+Each point with abscissa T on the graph represents an intersection between C and A[fj] . 
+There are two types of such intersections , depending essentially on whether the curves cross at the point of intersection . 
+An ordinary point will be any point of intersection A such that in every neighborhood of A in the C-plane , A[fj] meets both the interior and the exterior of C . 
+Any other point of intersection between C and A[fj] will be called a tangent point . 
+This terminology will also be applied to the corresponding points in the A[fj] . 
+We can now prove several lemmas . 
+Lemma 1 . 
+In some neighborhood in the f-plane of any ordinary point of the graph , the function f is a single-valued , continuous function . 
+Proof . 
+We first show that the function is single-valued in some neighborhood . 
+With the vertex at A[fj] in the C-plane we assume that A[fj] is the parametric location on C of an ordinary intersection Q between C and A[fj] . 
+In the f-plane the coordinates of the corresponding point are A[fj] . 
+We know that in the C-plane both C and A[fj] are analytic . 
+In the C-plane we construct a set of rectangular Cartesian coordinates u , V with the origin at Q and such that both C and A[fj] have finite slope at Q . 
+Near Q , both curves can be represented by analytic functions of U . 
+In a neighborhood of Q the difference between these functions is also a single-valued , analytic function of U . 
+Furthermore , one can find a neighborhood of Q in which the difference function is monotone , for since it is analytic it can have only a finite number of extrema in any interval . 
+Now , to find A[fj] , one needs the intersection of C and A[fj] near Q . 
+But A[fj] is just the curve A[fj] translated without rotation through a small arc , for A[fj] is always obtained by rotating C through exactly 90-degrees . 
+The arc is itself a segment of an analytic curve . 
+Thus if E is sufficiently small , there can be only one intersection of C and A[fj] near Q , for if there were more than one intersection for every E then the difference between C and A[fj] near Q would not be a monotone function . 
+Therefore , A[fj] is single-valued near Q . 
+It is also seen that A[fj] , since the change from A[fj] to A[fj] is accomplished by a continuous translation . 
+Thus A[fj] is also continuous at A[fj] , and in a neighborhood of A[fj] which does not contain a tangent point . 
+We turn now to the set of tangent points on the graph . 
+This set must consist of isolated points and closed intervals . 
+The fact that there can not be any limit points of the set except in closed intervals follows from the argument used in Lemma 1 , namely , that near any tangent point in the C-plane the curves C and A[fj] are analytic , and therefore the difference between them must be a monotone function in some neighborhood on either side of the tangent point . 
+This prevents the occurrence of an infinite sequence of isolated tangent points . 
+Lemma 2 . 
+In some neighborhood of an isolated tangent point in the f-plane , say A[fj] , the function A[fj] is either double-valued or has no values defined , except at the tangent point itself , where it is single-valued . 
+Proof . 
+A tangent point Q in the C-plane occurs when C and A[fj] are tangent to one another . 
+A continuous change in T through an amount E results in a translation along an analytic arc of the curve A[fj] . 
+There are three possibilities : ( A ) A[fj] remains tangent to C as it is translated ; ; ( B ) A[fj] moves away from C and does not intersect it at all for A[fj] ; ; ( C ) A[fj] cuts across C and there are two ordinary intersections for every T in A[fj] . 
+The first possibility results in a closed interval of tangent points in the f-plane , the end points of which fall into category ( B ) or ( C ) . 
+In the second category the function A[fj] has no values defined in a neighborhood A[fj] . 
+In the third category the function is double-valued in this interval . 
+The same remarks apply to an interval on the other side of A[fj] . 
+Again , the analyticity of the two curves guarantees that such intervals exist . 
+In the neighborhood of an end point of an interval of tangent points in the f-plane the function is two-valued or no-valued on one side , and is a single-valued function consisting entirely of tangent points on the other side . 
+With the above results we can make the following remarks about the graph of F . 
+First , for any value of T for which all values of f { t } are ordinary points the number of values of f { t } must be odd . 
+For it is clear that the total number of ordinary intersections of C and A[fj] must be even ( otherwise , starting in the interior of C , A[fj] could not finally return to the interior ) , and the center of rotation at T is the argument of the function , not a value . 
+Therefore , for any value of T the number of values of f { t } is equal to the ( finite ) number of tangent points corresponding to the argument T plus an odd number . 
+Definition . 
+The number of ordinary values of the function f { t } at T will be called its multiplicity at T. Lemma 3 . 
+The graph of f has at least one component whose support is the entire interval A[fj] . 
+Proof . 
+We suppose not . 
+Then every component of the graph of F must be defined over a bounded sub-interval . 
+Suppose A[fj] is defined in the sub-interval A[fj] . 
+Now A[fj] and A[fj] must both be tangent points on the T component in the f-plane ; ; otherwise by Lemma 1 the component would extend beyond these points . 
+Further , we see by Lemma 2 that the multiplicity of F can only change at a tangent point , and at such a point can only change by an even integer . 
+Thus the multiplicity of A[fj] for a given T must be an even number . 
+This is true of all components which have such a bounded support . 
+But this is a contradiction , for we know that the multiplicity of f { t } is odd for every T . 
+We have shown that the graph of F contains at least one component whose inverse is the entire interval { 0,T } , and whose multiplicity is odd . 
+There must be an odd number of such components , which will be called complete components . 
+The remaining ( incomplete ) components all have an even number of ordinary points at any argument , and are defined only on a proper sub-interval of A[fj] . 
+We must now show that on some component of the graph there exist two points for which the corresponding diagonal points in the C-plane are on opposite sides of C . 
+We again consider a fixed point P at A[fj] and a variable point Q at A[fj] on C . 
+We erect a square with PQ as a side and with free corners A[fj] and A[fj] adjacent to P and Q respectively . 
+As S varies from zero to T , the values of S for which A[fj] and A[fj] cross C will be denoted by A[fj] and A[fj] respectively . 
+We have A[fj] , plus tangent points . 
+These s-values are just the ordinary values of A[fj] . 
+Lemma 4 . 
+The values A[fj] are the ordinary values at A[fj] of a multi-valued function g { t } which has components corresponding to those of f { t } . 
+Proof . 
+We first define a function b { t } as follows : given the set of squares such that each has three corners on C and vertex at t , b { t } is the corresponding set of positive parametric differences between T and the backward corner points . 
+The functions F and B have exactly the same multiplicity at every argument T . 
+Now with P fixed at A[fj] , Af-values occur when the corner A[fj] crosses C , and are among the values of S such that A[fj] . 
+The roots of this equation are just the ordinates of the intersections of the graph of B with a straight line of unit slope through A[fj] in the b-plane ( the plane of the graph of b ) . 
+We define these values as A[fj] , and define g { t } in the same way for each T . 
+Thus we obtain g { t } by introducing an oblique g { t } -axis in the A[fj] . 

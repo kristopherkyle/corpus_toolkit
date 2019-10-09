@@ -1,0 +1,91 @@
+The Poynting-Robertson effect ( Robertson , 1937 ; ; Wyatt and Whipple , 1950 ) , which is a retardation of the orbital motion of particles by the relativistic aberration of the repulsive force of the impinging solar radiation , causes the dust to spiral into the sun in times much shorter than the age of the Earth . 
+The radial velocity varies inversely as the particle size -- a 1000-m-diameter particle near the orbit of Mars would reach the sun in about 60 million years . 
+Whipple ( 1955 ) extends the effects to include the solar-corpuscular-radiation pressure , which increases both the minimum particle size and the drag . 
+Further , the corpuscular radiation , i.e. , the solar-wind protons , must sputter away the surface atoms of the dust and cause a slow diminution in size , with a resultant increase in both the Poynting-Robertson effect and the ratio of the repulsive force to the gravitational force . 
+The Poynting-Robertson effect causes the semi-major axis of orbits to diminish more rapidly than the semi-minor axis , with a consequent tendency toward circular orbits as the particles move toward the sun . 
+Also , planetary gravitational attraction increases the dust concentration near the plane of the ecliptic as the sun is approached . 
+At one astronomical unit from the sun ( the Earth 's distance ) the dust orbits are probably nearly circular . 
+If such is the case , the particles within a distance of about A[fj] of the Earth will have , relative to the Earth , a kinetic energy less than their potential energy and they will be captured into orbits about the Earth . 
+De Jager ( 1955 ) has calculated the times required for these particles to reach the atmosphere under the influence of the Poynting-Robertson effect , which in this case causes the orbits to become more and more eccentric without changing the semi-major axis . 
+This effect can give rise to a blanket of micrometeorites around the Earth . 
+Since there is a continual loss of micrometeoritic material in space because of the radiation effects , there must be a continual replenishment : otherwise , micrometeorites would have disappeared from interplanetary space . 
+There are several possible sources . 
+According to Whipple ( 1955 ) , cometary debris is sufficient to replenish the material spiraling into the sun , maintaining a fairly steady state . 
+Asteroidal collisions are also thought to contribute material . 
+It is also possible that some of the dust in the vicinity of the Earth originated from meteoritic impacts upon the moon . 
+5.3 direct measurements of micrometeorite flux One can not make a very satisfactory guess about the micrometeorite flux in space . 
+Even in the neighborhood of the Earth , where information has been obtained both directly and indirectly , the derived flux values vary by at least four orders of magnitude . 
+This large discrepancy demonstrates the inadequacies of the experimental methods and the lack of understanding of the various phenomena involved . 
+Beyond a few million kilometers from the Earth , but still in the region of the Earth 's orbit , a prediction of the flux of dust is even more unreliable . 
+At greater distances from the sun , the situation is still less certain . 
+There are several sources of evidence on the micrometeorite environment . 
+Direct information has been obtained from rockets and satellites equipped with impact sensors . 
+In addition , the size distribution obtained from visual and radar observations of meteors may be extrapolated to the micrometeorite domain . 
+From the brightness of the F component of the solar corona and the brightness of the zodiacal light , an estimate of the particle sizes , concentrations , and spatial distribution can be derived for regions of space near the ecliptic plane . 
+Another important source of evidence only recently receiving much attention is the analysis of atmospheric dust for a meteoritic component . 
+The cores of deep-sea sediments and content of collectors in remote regions are valuable in this category . 
+The data provide a measure of the total mass of cosmic material incident upon the Earth . 
+The direct evidence on the micrometeorite environment near the Earth is obtained from piezoelectric sensors ( essentially microphones ) and from wire gages ; ; these instruments are installed on rockets , satellites , and space probes . 
+Statistically , the most significant data have been collected from the sensors on 1958 Alpha ( Explorer 1 ) , 1958 Delta 2 ( Sputnik 3 ) , and 1959 Eta ( Vanguard 3 ) . 
+These vehicles , with large sensitive areas , have collected data for long enough times to give reliable impact rates for the periods of exposure . 
+Many other vehicles with smaller sensitive-area exposure-time products contribute some information . 
+The impact rate on 1958 Alpha for 153 events was A[fj] for particles of mass greater than A[fj] ( Dubin , 1960 ) ; ; this mass threshold was derived from the detector calibration and an assumed impact velocity of A[fj] . 
+The data show daily and diurnal variations . 
+Ninety per cent of the 153 recorded impacts occurred between midnight and noon , and from day to day the variation of the rate was as much as an order of magnitude . 
+One may conclude that most of the detected micrometeoritic material is concentrated in orbital streams which intersect the Earth 's orbit . 
+There have been contradictory reports from 1958 Delta 2 , and the data quoted here are believed to be the more reliable . 
+On May 15 , a very large increase occurred with A[fj] of mass between A[fj] and A[fj] ; ; for the next two days , the impact rate was A[fj] ; ; and for the next nine days , the impact rate was less than A[fj] ( Nazarova , 1960 ) . 
+The data for the first day indicate a meteor stream with a very high concentration of particles and may have led to the high estimates of micrometeorite flux . 
+Preliminary data from 1959 Eta give an average impact rate of A[fj] for masses larger than A[fj] for about 1000 events in a 22-day period ( LaGow and Alexander , 1960 ) . 
+The day-to-day rate varied by less than a factor of 4.5 . 
+The data have not yet been analyzed for diurnal variations . 
+Note that the mass threshold is four times that of 1958 Alpha and that the flux is one fifth as large . 
+If one assumes that the average flux did not change between measurements , a mass-distribution curve is obtained which relates the flux of particles larger than a given radius to the inverse 72 power of the radius . 
+Space probes have yielded little information . 
+Pioneer 1 , recorded a decrease in flux with distance from the Earth on the basis of 11 counts in 9 hours . 
+With detectors sensitive to three mass intervals and based on a few counts , the second and third Russian space probes indicate that the flux of the smallest particles detected is less than that of larger ones . 
+Being based on so few events , these results are of dubious validity . 
+The calibration of piezoelectric sensors in terms of the particle parameters is very uncertain . 
+Many workers believe that the response is proportional to the incident momentum of the particles , a relation deduced from laboratory results linearly extrapolated to meteoritic velocities . 
+However , one must expect that vaporization and ejection of material by hypervelocity impacts would cause a deviation from a linear relationship . 
+In the United States , most of the sensors are calibrated by dropping small spheres on their sensitive surfaces . 
+The Russian experimenters claim that only a small fraction of the impulse from the sensors is caused by the incident momentum with the remainder being momentum of ejected material from the sensor . 
+This " ejection " momentum is linearly related to the particle energy . 
+They quote about the same mass threshold as that of the U.S. apparatus , but a momentum threshold about 40 times greater . 
+There is a difference in the experimental arrangement , in that the U.S. microphones are attached directly to the vehicle skin while the Russian instruments are isolated from the skin . 
+The threshold mass is derived from the momentum threshold with the assumption of a mean impact velocity of A[fj] in the U.S. work and A[fj] in the U.S.S.R. work . 
+The threshold mass of about A[fj] corresponds to a 10-M-diameter sphere of density A[fj] . 
+However , the conversion from mass to size is unreliable , since many photographic meteors give evidence of a fluffy , loosely bound meteorite structure with densities as low as A[fj] . 
+To what extent such low density applies to micrometeorites is unknown . 
+The velocity value used is also open to some question ; ; if a substantial fraction of the dust is orbiting about the Earth , only about one third the above-mentioned average velocity should be used in deriving the mass . 
+Zodiacal light and the gegenschein give some evidence for such a dust blanket , a phenomenon also to be expected if the dust before capture is in circular orbits about the sun , as indicated by the trend of the smaller visible meteors . 
+The diurnal variation in the observed flux may be partly due to the dependence of the detector sensitivity on the incident velocity . 
+The flux of micrometeorites in the neighborhood of the Earth can be estimated by extrapolation from radar and visual meteor data . 
+A summary of meteorite data , prepared by Whipple ( 1958 ) on the basis of photographic , visual , and radar evidence , is given in Table 5-1 . 
+From an estimated mass of 25 g for a zero-magnitude meteorite , the other masses are derived with the assumption of a mass decrease by a factor of 2.512 for each unit increase in magnitude . 
+The radius is calculated from the mass by assuming spheres of density A[fj] except for the smallest particles , which must have a higher mass density to remain in the solar system in the presence of solar-radiation pressure . 
+The flux values are for all particles with masses greater than the given mass and are based on an estimate of the numbers of visual meteors . 
+It is assumed that the flux values increase by a factor of 2.512 per magnitude , in accordance with the opinion that the total mass flux in each unit range in magnitude is constant . 
+The values agree with the data from 1958 Alpha and 1959 Eta . 
+The figures in the next-to-last column are derived with the assumption of 50 per cent shielding by the Earth ; ; hence , these figures apply immediately above the Earth 's atmosphere . 
+The unshielded flux is given in the last column ; ; these figures constitute the best estimate for the flux in interplanetary space near the Earth . 
+Of course , if there is a dust blanket around the Earth , the fluxes in interplanetary space should be less than the figures given here . 
+Note that the mass scale is one to two orders of magnitude greater than some previously used ; ; for example , Jacchia ( 1948 ) derived a scale of 0.15 g for a A[fj] , zero-magnitude meteorite . 
+The older scales were based on theoretical estimates of the conversion efficiency of kinetic energy into light . 
+The mass scale used in Table 5-1 was derived on the assumption that the motion of the glowing trail is related to the momentum transfer to the trail by the meteorite , permitting the calculation of the mass if the velocity is known ( Cook and Whipple , 1958 ) . 
+A concentration distribution has been derived from radar observations sensitive to the fifteenth magnitude ( Manning and Eshleman , 1959 ) . 
+Extrapolation of this relationship through the thirtieth magnitude covers the range of micrometeorites . 
+The approximate equation is A[fj] , where N is the number of A[fj] with electron line-density greater than or equal to A[fj] , and Q is proportional to the mass of the meteorite . 
+Therefore , N is inversely proportional to the radius cubed and in fair agreement with the inverse 72 power derived from 1958 Alpha and 1959 Eta data . 
+At the fifteenth magnitude , A[fj] , and at the twenty-fifth magnitude , A[fj] . 
+These extrapolated fluxes are about an order of magnitude less than the values from the satellite data and the figures in Whipple 's table . 
+The extrapolation may be in error for several reasons . 
+The observational data determining the concentration distribution have a range of error which is magnified in the extension into the micrometeorite region . 
+The solar-electromagnetic - and corpuscular-radiation pressure and the associated Poynting-Robertson effect increase in effectiveness as the particle size decreases and modify the distribution and limit sizes to larger than a few microns . 
+Also , it has been suggested that the source of all or part of the dust may not be the same as that for visual or radar meteorites ( Best , 1960 ) , and the same distribution would not be expected . 
+5.4 . 
+Indirect indications of micrometeorite flux A measure of the total mass accretion of meteoritic material by the Earth is obtained from analyses of deep-sea sediments and dust collected in remote regions ( Pettersson , 1960 ) . 
+Most meteoritic material , by the time it reaches the Earth 's surface , has been reduced to dust or to spherules of ablated material in its passage through the atmosphere . 
+For all meteorites , the average nickel content is about 2.5 per cent . 
+This is much higher than the nickel content of terrestrial dusts and sediments and provides a basis for the determination of the meteoritic mass influx . 
+Present data indicate an accretion of about A[fj] tons per year over the entire globe , or about A[fj] . 

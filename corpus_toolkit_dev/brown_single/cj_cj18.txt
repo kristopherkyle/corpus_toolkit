@@ -1,0 +1,113 @@
+6.4 . 
+The primary decomposition theorem We are trying to study a linear operator T on the finite-dimensional space V , by decomposing T into a direct sum of operators which are in some sense elementary . 
+We can do this through the characteristic values and vectors of T in certain special cases , i.e. , when the minimal polynomial for T factors over the scalar field F into a product of distinct monic polynomials of degree 1 . 
+What can we do with the general T ? ? 
+If we try to study T using characteristic values , we are confronted with two problems . 
+First , T may not have a single characteristic value ; ; this is really a deficiency in the scalar field , namely , that it is not algebraically closed . 
+Second , even if the characteristic polynomial factors completely over F into a product of polynomials of degree 1 , there may not be enough characteristic vectors for T to span the space V . 
+This is clearly a deficiency in T . 
+The second situation is illustrated by the operator T on A[fj] ( F any field ) represented in the standard basis by A[fj] . 
+The characteristic polynomial for A is A[fj] and this is plainly also the minimal polynomial for A ( or for T ) . 
+Thus T is not diagonalizable . 
+One sees that this happens because the null space of A[fj] has dimension 1 only . 
+On the other hand , the null space of A[fj] and the null space of A[fj] together span V , the former being the subspace spanned by A[fj] and the latter the subspace spanned by A[fj] and A[fj] . 
+This will be more or less our general method for the second problem . 
+If ( remember this is an assumption ) the minimal polynomial for T decomposes A[fj] where A[fj] are distinct elements of F , then we shall show that the space V is the direct sum of the null spaces of A[fj] . 
+The diagonalizable operator is the special case of this in which A[fj] for each i . 
+The theorem which we prove is more general than what we have described , since it works with the primary decomposition of the minimal polynomial , whether or not the primes which enter are all of first degree . 
+The reader will find it helpful to think of the special case when the primes are of degree 1 , and even more particularly , to think of the proof of Theorem 10 , a special case of this theorem . 
+Theorem 12 . 
+( primary decomposition theorem ) . 
+Let T be a linear operator on the finite-dimensional vector space V over the field F . 
+Let p be the minimal polynomial for T , A[fj] , where the A[fj] , are distinct irreducible monic polynomials over F and the A[fj] are positive integers . 
+Let A[fj] be the null space of A[fj] . 
+Then ( A ) A[fj] ; ; ( B ) each A[fj] is invariant under T ; ; ( C ) if A[fj] is the operator induced on A[fj] by T , then the minimal polynomial for A[fj] is A[fj] . 
+Proof . 
+The idea of the proof is this . 
+If the direct-sum decomposition ( A ) is valid , how can we get hold of the projections A[fj] associated with the decomposition ? ? 
+The projection A[fj] will be the identity on A[fj] and zero on the other A[fj] . 
+We shall find a polynomial A[fj] such that A[fj] is the identity on A[fj] and is zero on the other A[fj] , and so that A[fj] , etc. . 
+For each i , let A[fj] . 
+Since A[fj] are distinct prime polynomials , the polynomials A[fj] are relatively prime ( Theorem 8 , Chapter 4 ) . 
+Thus there are polynomials A[fj] such that A[fj] . 
+Note also that if A[fj] , then A[fj] is divisible by the polynomial p , because A[fj] contains each A[fj] as a factor . 
+We shall show that the polynomials A[fj] behave in the manner described in the first paragraph of the proof . 
+Let A[fj] . 
+Since A[fj] and P divides A[fj] for A[fj] , we have A[fj] . 
+Thus the A[fj] are projections which correspond to some direct-sum decomposition of the space V . 
+We wish to show that the range of A[fj] is exactly the subspace A[fj] . 
+It is clear that each vector in the range of A[fj] is in A[fj] for if \*\* ya is in the range of A[fj] , then A[fj] and so A[fj] because A[fj] is divisible by the minimal polynomial P . 
+Conversely , suppose that \*\* ya is in the null space of A[fj] . 
+If A[fj] , then A[fj] is divisible by A[fj] and so A[fj] , i.e. , A[fj] . 
+But then it is immediate that A[fj] , i.e. , that \*\* ya is in the range of A[fj] . 
+This completes the proof of statement ( A ) . 
+It is certainly clear that the subspaces A[fj] are invariant under T . 
+If A[fj] is the operator induced on A[fj] by T , then evidently A[fj] , because by definition A[fj] is 0 on the subspace A[fj] . 
+This shows that the minimal polynomial for A[fj] divides A[fj] . 
+Conversely , let G be any polynomial such that A[fj] . 
+Then A[fj] . 
+Thus A[fj] is divisible by the minimal polynomial P of T , i.e. , A[fj] divides A[fj] . 
+It is easily seen that A[fj] divides G . 
+Hence the minimal polynomial for A[fj] is A[fj] . 
+Corollary . 
+If A[fj] are the projections associated with the primary decomposition of T , then each A[fj] is a polynomial in T , and accordingly if a linear operator U commutes with T then U commutes with each of the A[fj] , i.e. , each subspace A[fj] is invariant under U . 
+In the notation of the proof of Theorem 12 , let us take a look at the special case in which the minimal polynomial for T is a product of first-degree polynomials , i.e. , the case in which each A[fj] is of the form A[fj] . 
+Now the range of A[fj] is the null space A[fj] of A[fj] . 
+Let us put A[fj] . 
+By Theorem 10 , D is a diagonalizable operator which we shall call the diagonalizable part of T . 
+Let us look at the operator A[fj] . 
+Now A[fj] A[fj] so A[fj] . 
+The reader should be familiar enough with projections by now so that he sees that A[fj] and in general that A[fj] . 
+When A[fj] for each i , we shall have A[fj] , because the operator A[fj] will then be 0 on the range of A[fj] . 
+Definition . 
+Let N be a linear operator on the vector space V . 
+We say that N is nilpotent if there is some positive integer R such that A[fj] . 
+Theorem 13 . 
+Let T be a linear operator on the finite-dimensional vector space V over the field F . 
+Suppose that the minimal polynomial for T decomposes over F into a product of linear polynomials . 
+Then there is a diagonalizable operator D on V and a nilpotent operator N in V such that ( A ) A[fj] , ( b ) A[fj] . 
+The diagonalizable operator D and the nilpotent operator N are uniquely determined by ( A ) and ( B ) and each of them is a polynomial in T . 
+Proof . 
+We have just observed that we can write A[fj] where D is diagonalizable and N is nilpotent , and where D and N not only commute but are polynomials in T . 
+Now suppose that we also have A[fj] where D ' is diagonalizable , N ' is nilpotent , and A[fj] . 
+We shall prove that A[fj] . 
+Since D ' and N ' commute with one another and A[fj] , we see that D ' and N ' commute with T . 
+Thus D ' and N ' commute with any polynomial in T ; ; hence they commute with D and with N . 
+Now we have A[fj] or A[fj] and all four of these operators commute with one another . 
+Since D and D ' are both diagonalizable and they commute , they are simultaneously diagonalizable , and A[fj] is diagonalizable . 
+Since N and N ' are both nilpotent and they commute , the operator A[fj] is nilpotent ; ; for , using the fact that N and N ' commute A[fj] and so when R is sufficiently large every term in this expression for A[fj] will be 0 . 
+( Actually , a nilpotent operator on an n-dimensional space must have its T power 0 ; ; if we take A[fj] above , that will be large enough . 
+It then follows that A[fj] is large enough , but this is not obvious from the above expression . 
+) Now A[fj] is a diagonalizable operator which is also nilpotent . 
+Such an operator is obviously the zero operator ; ; for since it is nilpotent , the minimal polynomial for this operator is of the form A[fj] for some A[fj] ; ; but then since the operator is diagonalizable , the minimal polynomial can not have a repeated root ; ; hence A[fj] and the minimal polynomial is simply x , which says the operator is 0 . 
+Thus we see that A[fj] and A[fj] . 
+Corollary . 
+Let V be a finite-dimensional vector space over an algebraically closed field F , e.g. , the field of complex numbers . 
+Then every linear operator T in V can be written as the sum of a diagonalizable operator D and a nilpotent operator N which commute . 
+These operators D and N are unique and each is a polynomial in T . 
+From these results , one sees that the study of linear operators on vector spaces over an algebraically closed field is essentially reduced to the study of nilpotent operators . 
+For vector spaces over non-algebraically closed fields , we still need to find some substitute for characteristic values and vectors . 
+It is a very interesting fact that these two problems can be handled simultaneously and this is what we shall do in the next chapter . 
+In concluding this section , we should like to give an example which illustrates some of the ideas of the primary decomposition theorem . 
+We have chosen to give it at the end of the section since it deals with differential equations and thus is not purely linear algebra . 
+Example 11 . 
+In the primary decomposition theorem , it is not necessary that the vector space V be finite dimensional , nor is it necessary for parts ( A ) and ( B ) that P be the minimal polynomial for T . 
+If T is a linear operator on an arbitrary vector space and if there is a monic polynomial P such that A[fj] , then parts ( A ) and ( B ) of Theorem 12 are valid for T with the proof which we gave . 
+Let N be a positive integer and let V be the space of all N times continuously differentiable functions F on the real line which satisfy the differential equation A[fj] where A[fj] are some fixed constants . 
+If A[fj] denotes the space of N times continuously differentiable functions , then the space V of solutions of this differential equation is a subspace of A[fj] . 
+If D denotes the differentiation operator and P is the polynomial A[fj] then V is the null space of the operator p ( , ) , because A[fj] simply says A[fj] . 
+Let us now regard D as a linear operator on the subspace V . 
+Then A[fj] . 
+If we are discussing differentiable complex-valued functions , then A[fj] and V are complex vector spaces , and A[fj] may be any complex numbers . 
+We now write A[fj] where A[fj] are distinct complex numbers . 
+If A[fj] is the null space of A[fj] , then Theorem 12 says that A[fj] . 
+In other words , if F satisfies the differential equation A[fj] , then F is uniquely expressible in the form A[fj] where A[fj] satisfies the differential equation A[fj] . 
+Thus , the study of the solutions to the equation A[fj] is reduced to the study of the space of solutions of a differential equation of the form A[fj] . 
+This reduction has been accomplished by the general methods of linear algebra , i.e. , by the primary decomposition theorem . 
+To describe the space of solutions to A[fj] , one must know something about differential equations ; ; that is , one must know something about D other than the fact that it is a linear operator . 
+However , one does not need to know very much . 
+It is very easy to establish by induction on R that if F is in A[fj] then A[fj] ; ; that is , A[fj] , etc. . Thus A[fj] if and only if A[fj] . 
+A function G such that A[fj] , i.e. , A[fj] , must be a polynomial function of degree A[fj] or less : A[fj] . 
+Thus F satisfies A[fj] if and only if F has the form A[fj] . 
+Accordingly , the ' functions ' A[fj] span the space of solutions of A[fj] . 
+Since A[fj] are linearly independent functions and the exponential function has no zeros , these R functions A[fj] , form a basis for the space of solutions . 

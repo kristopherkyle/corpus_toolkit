@@ -1,0 +1,109 @@
+Biological warfare Biological warfare is the intentional use of living microorganisms or their toxic products for the purpose of destroying or reducing the military effectiveness of man . 
+It is the exploitation of the inherent potential of infectious disease agents by scientific research and development , resulting in the production of BW weapons systems . 
+Man may also be injured secondarily by damage to his food crops or domestic animals . 
+Biological warfare is considered to be primarily a strategic weapon . 
+The major reason for this is that it has no quick-kill effect . 
+The incubation period of infectious disease , plus a variable period of illness even before a lethal effect , render this weapon unsuitable for hand-to-hand encounter . 
+A man can be an effective fighting machine throughout the incubation period of most infectious diseases . 
+Thus , an enemy would probably use this weapon for attack on static population centers such as large cities . 
+An important operational procedure in BW for an enemy would be to create an areosol or cloud of agent over the target area . 
+This concept has stimulated much basic research concerning the behavior of particulate biological materials , the pathogenesis of respiratory infections , the medical management of such diseases and defense against their occurrence . 
+The biological and physical properties of infectious particles have been studied intensively during the past fifteen years . 
+Much new equipment and many unique techniques have been developed for the quantitative exposure of experimental animals to aerosols of infectious agents contained in particles of specified dimensional characteristics . 
+Much information has been gathered relative to quantitative sampling and assesment techniques . 
+Much of the older experimental work on respiratory infections was accomplished by very artificial procedures . 
+The intranasal instillation of a fluid suspension of infectious agent in an anesthetized animal is far different from exposure , through natural respiration , to aerosolized organisms . 
+The importance of particle size in such aerosols has been thoroughly demonstrated . 
+The natural anatomical and physiological defensive features of the upper respiratory tract , such as the turbinates of the nose and the cilia of the trachea and larger bronchi , are capable of impinging out the larger particles to which we are ordinarily exposed in our daily existence . 
+Very small particles , however , in a size range of 1 to 4 microns in diameter are capable of passing these impinging barriers and entering the alveolar bed of the lungs . 
+This area is highly susceptible to infection . 
+The entrance and retention of infectious particles in the alveoli amounts almost to an intratissue inoculation . 
+The relationship between particle size and infectious dose is illustrated in Table 1 . 
+In considering BW defense , it must be recognized that a number of critical meterological parameters must be met for an aerosol to exhibit optimum effect . 
+For example , bright sunlight is rapidly destructive for living microorganisms suspended in air . 
+There are optimal humidity requirements for various agents when airborne . 
+Neutral or inversion meteorological conditions are necessary for a cloud to travel along the surface . 
+It will rise during lapse conditions . 
+There are , of course , certain times during the 24-hour daily cycle when most of these conditions will be met . 
+Certain other properties of small particles , in addition to those already mentioned in connection with penetration of the respiratory tract , are noteworthy in defense considerations . 
+The smaller the particle the further it will travel downwind before settling out . 
+An aerosol of such small particles , moreover , diffuses through structures in much the same manner as a gas . 
+There may be a number of secondary effects resulting from diffusion through buildings such as widespread contamination of kitchens , restaurants , food stores , hospitals , etc. . Depending on the organism , there may be multiplication in some food or beverage products , i.e. , in milk for example . 
+The secondary consequences from this could be very serious and must be taken into consideration in planning for defense . 
+Something of the behavior of clouds of small particles can be illustrated by the following field trials : In the first trial an inert substance was disseminated from a boat travelling some ten miles off shore under appropriately selected meteorological conditions . 
+Zinc cadmium sulfide in particles of 2 microns in size were disseminated . 
+This material fluoresces under ultraviolet light which facilitates its sampling and assessment . 
+Four hundred and fifty pounds was disseminated while the ship was traveling a distance of 156 miles . 
+Figure 1 describes the results obtained in this trial . 
+The particles traveled a maximum detected distance of some 450 miles . 
+From these dosage isopleths it can be seen that an area of over 34,000 square miles was covered . 
+These dosages could have been increased by increasing the source strength which was small in this case . 
+The behavior of a biological aerosol , on a much smaller scale , is illustrated by a specific field trial conducted with a non-pathogenic organism . 
+An aqueous suspension of the spores of B. subtilis , var. niger , generally known as Bacillus globigii , was aerosolized using commercially available nozzles . 
+A satisfactory cloud was produced even though these nozzles were only about 5 per cent efficient in producing an initial cloud in the size range of 1 to 5 microns . 
+In this test , 130 gallons of a suspension , having a count of A[fj] organisms per ml , or a total of approximately A[fj] spores , was aerosolized . 
+The spraying operation was conducted from the rear deck of a small Naval vessel , cruising two miles off-shore and vertical to an on-sure breeze . 
+Spraying continued along a two-mile course . 
+This operation was started at 5:00 p.m. and lasted for 29 minutes . 
+There was a slight lapse condition , a moderate fog , and 100 per cent relative humidity . 
+A network of sampling stations had been set up on shore . 
+These were located at the homes of Government employees , in Government Offices , buildings and reservations within the trial area . 
+A rough attempt was made to characterize the vertical profile of the cloud by taking samples from outside the windows on the first , ninth , and fifteenth floors of a Government office building . 
+All samplers were operated for a period of two hours except one , which was operated for four hours . 
+In this instance , there was a dosage of 562 during the first two hours and a total dosage of 1980 for the four-hour period , a four-fold increase . 
+This suggests that the sampling period , particularly at the more distant locations , should have been increased . 
+As can be seen from Figure 2 , an extensive area was covered by this aerosol . 
+The maximum distance sampled was 23 miles from the source . 
+As can be seen from these dosage isopleths , approximately 100 square miles was covered within the area sampled . 
+It is quite likely that an even greater area was covered , particularly downwind . 
+The dosages in the three levels of the vertical profile were : A[fj] . 
+This was not , of course , enough sampling to give a satisfactory description of the vertical diffusion of the aerosol . 
+A number of unique medical problems might be created when man is exposed to an infectious agent through the respiratory route rather than by natural portal of entry . 
+Some agents have been shown to be much more toxic or infectious to experimental animals when exposed to aerosols of optimum particle size than by the natural portal . 
+Botulinal toxin , for example , is several thousand-fold more toxic by this route than when given per os . 
+In some instances a different clinical disease picture may result from this route of exposure , making diagnosis difficult . 
+In tularemia produced by aerosol exposure , one would not expect to find the classical ulcer of " rabbit fever " on a finger . 
+An enemy would obviously choose an agent that is believed to be highly infectious . 
+Agents that are known to cause frequent infections among laboratory workers such as those causing Q fever , tularemia , brucellosis , glanders , coccidioidomycosis , etc. , belong in this category . 
+An agent would likely be selected which would possess sufficient viability and virulence stability to meet realistic minimal logistic requirements . 
+It is , obviously , a proper goal of research to improve on this property . 
+In this connection it should be capable of being disseminated without excessive destruction . 
+Moreover , it should not be so fastidious in its growth requirements as to make production on a militarily significant scale improbable . 
+An aggressor would use an agent against which there was a minimal naturally acquired or artificially induced immunity in a target population . 
+A solid immunity is the one effective circumstance whereby attack by a specific agent can be neutralized . 
+It must be remembered , however , that there are many agents for which there is no solid immunity and a partial or low-grade immunity may be broken by an appropriate dose of agent . 
+There is a broad spectrum of organisms from which selection for a specified military purpose might be made . 
+An enemy might choose an acutely debilitating microorganism , a chronic disease producer or one causing a high rate of lethality . 
+It is possible that certain mutational forms may be produced such as antibiotic resistant strains . 
+Mutants may also be developed with changes in biochemical properties that are of importance in identification . 
+All of these considerations are of critical importance in considering defense and medical management . 
+Biological agents are , of course , highly host-specific . 
+They do not destroy physical structures as is true of high explosives . 
+This may be of overriding importance in considering military objectives . 
+The question of epidemic disease merits some discussion . 
+Only a limited effort has been devoted to this problem . 
+Some of those who question the value of BW have assumed that the only potential would be in the establishment of epidemics . 
+They then point out that with our present lack of knowledge of all the factors concerned in the rise and fall of epidemics , it is unlikely that a planned episode could be initiated . 
+They argue further ( and somewhat contradictorily ) that our knowledge and resources in preventive medicine would make it possible to control such an outbreak of disease . 
+This is why this approach to BW defense has not been given major attention . 
+Our major problem is what an enemy might accomplish in an initial attack on a target . 
+This , of course , does not eliminate from consideration for this purpose agents that are associated naturally with epidemic disease . 
+A hypothetical example will illustrate this point . 
+Let us assume that it would be possible for an enemy to create an aerosol of the causative agent of epidemic typhus ( Rickettsia prowazwki ) over City A and that a large number of cases of typhus fever resulted therefrom . 
+No epidemic was initiated nor was one expected because the population in City A was not lousy . 
+Lousiness is a prerequisite for epidemic typhus . 
+In this case , then , the military objective was accomplished with an epidemic agent solely through the results secured in the initial attack . 
+This was done with full knowledge that there would be no epidemic . 
+On the other hand , a similar attack might have been made on City B whose population was known to be lousy . 
+One might expect some spread of the disease in this case resulting in increased effectiveness of the attack . 
+The major defensive problems are concerned with the possibility of overt military delivery of biological agents from appropriate disseminating devices . 
+It should be no more difficult to deliver such devices than other weapons . 
+The same delivery vehicles -- whether they be airplanes , submarines or guided missiles -- should be usable . 
+If it is possible for an enemy to put an atomic bomb on a city , it should be equally possible to put a cloud of biological agent over that city . 
+Biological agents are , moreover , suitable for delivery through enemy sabotage which imposes many problems in defense . 
+A few obvious target areas of great importance might be mentioned . 
+The air conditioning and ventilating systems of large buildings are subject to attack . 
+America is rapidly becoming a nation that uses processed , precooked and even predigested foods . 
+This is an enormous industry that is subject to sabotage . 
+One must include the preparation of soft drinks and the processing of milk and milk products . 
+Huge industries are involved also in the production of biological products , drugs and cosmetics which are liable to this type of attack . 

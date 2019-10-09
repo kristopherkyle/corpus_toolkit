@@ -1,0 +1,94 @@
+Another recent achievement was the successful development of a method for the complete combustion in a bomb calorimeter of a metal in fluorine when the product is relatively non-volatile . 
+This work gave a heat of formation of aluminum fluoride which closely substantiates a value which had been determined by a less direct method , and raises this property to 15 percent above that accepted a few years ago . 
+Similar measurements are being initiated to resolve a large discrepancy in the heat of formation of another important combustion product , beryllium fluoride . 
+The development and testing of new apparatus to measure other properties is nearing completion . 
+In one of these , an exploding-wire device to study systems thermodynamically up to 6,000 A[fj] and 100 atmospheres pressure , a major goal was achieved . 
+The accuracy of measuring the total electrical energy entering an exploding wire during a few microseconds was verified when two independent types of comparison with the heat energy produced had an uncertainty of less than 2 percent . 
+This agreement is considered very good for such short time intervals . 
+The method of calibration employs a fixed resistance element as a calorimeter . 
+The element is inserted in the discharge circuit in place of the exploding wire , and the calorimetric heating of the element is measured with high accuracy . 
+This is used as a reference for comparing the ohmic heating and the electrical energy obtained from the measured current through the element and the measured voltage across the element . 
+A high-speed shutter has been developed in order to permit photographic observation of any portion of the electrical wire explosion . 
+The shutter consists of two parts : a fast-opening part and a fast-closing part . 
+Using Edgerton 's method , the fast-closing action is obtained from the blackening of a window by exploding a series of parallel lead wires . 
+The fast-opening of the shutter consists of a piece of aluminum foil ( approximately A[fj] ) placed directly in front of the camera lens so that no light may pass into the camera . 
+The opening action is obtained when a capacitor , charged to high voltage , is suddenly discharged through the foil . 
+During the discharge the magnetic forces set up by the passage of current cause the edges of the foil to roll inward toward its center line , thus allowing light to pass into the camera . 
+Experiments have shown that the shutter is 75 percent open in about 60-80 microseconds . 
+The shutter aperture may be made larger or smaller by changing the foil area and adjusting the electrical energy input to the foil . 
+Laboratory measurements of interstellar radio spectra . 
+Besides the well-known hydrogen line at 21 cm wavelength , the spectra of extraterrestrial radio sources may contain sharp lines characteristic of other atoms , ions , and small molecules . 
+The detection and study of such line spectra would add considerably to present information on interstellar gas clouds and , perhaps , planetary atmospheres . 
+Among the most likely producers of detectable radio line spectra are the light diatomic hydrides OH and CH ; ; somewhat less likely sources are the heavier hydrides SH , SiH , and A[fj] . 
+Very small concentrations of these hydrides should be detectable ; ; in interstellar gas , concentrations as low as A[fj] molecules per A[fj] may be sufficient , as compared to the A[fj] hydrogen atom 's A[fj] required for detection of the 21-cm line . 
+High sensitivity in radio telescopes is achieved by reducing the bandwidth of the receiver ; ; therefore , only with precise foreknowledge of the line frequencies is an astronomical search for the radio spectra of these molecules feasible . 
+To secure precise measurements of these frequencies , a research program in free radical microwave spectroscopy has been started . 
+Since conventional methods are insensitive at the low frequencies of these molecular transitions , the paramagnetic resonance method is being used instead . 
+This involves the application of a strong magnetic field to the radical vapor , which shifts the low-frequency spectra to a conveniently high microwave range , where they may be measured with optimum sensitivity . 
+The first diatomic hydride investigated by the paramagnetic resonance method was the OH radical . 
+Results of this experiment include the frequencies of the two strong spectral lines by which OH may be identified in interstellar gas ; ; the frequencies are 1665.32 and 1667.36 A[fj] , with an uncertainty of 0.10 A[fj] . 
+Success in observing these spectral lines has so far , apparently , been confined to the laboratory ; ; extraterrestrial observations have yet to be reported . 
+Preparations are being made for similar experiments on CH and SH radicals . 
+Low temperature thermometry . 
+The Bureau is pursuing an active program to provide a temperature scale and thermometer calibration services in the range 1.5 to 20 A[fj] . 
+The efforts and accomplishments fall into three main categories : absolute thermometry based upon the velocity of sound in helium gas , secondary thermometry involving principally studies of the behavior of germanium resistors , and helium-4 vapor-pressure measurements ( see p. 144 ) . 
+Acoustical interferometer . 
+An acoustical interferometer has been constructed and used , with helium gas as the thermometric fluid , to measure temperatures near 4.2 and 2.1 A[fj] . 
+Such an interferometer provides a means of absolute temperature measurement , and may be used as an alternative to the gas thermometer . 
+When values of temperature derived with this instrument were compared with the accepted values associated with liquid helium-4 vapor pressures , differences of about 10 and 7 millidegrees respectively were found . 
+This result is preliminary , and work is continuing . 
+Resistance thermometers . 
+Carbon resistors and impurity-doped germanium resistors have been investigated for use as precision secondary thermometers in the liquid helium temperature region . 
+Several germanium resistors have been thermally cycled from 300 to 4.2 A[fj] and their resistances have been found to be reproducible within 13 millidegree when temperatures were derived from a vapor pressure thermometer whose tubing is jacketed through most of the liquid helium . 
+Preliminary calibrations of the resistors have been made from 4.21 to 2.16 A[fj] at every 0.1 A[fj] . 
+The estimated standard deviations of the data for two of the resistors were 1 millidegree ; ; and for the third resistor , 3.3 millidegrees . 
+Vapor pressure method . 
+The reproducibilities of helium vapor-pressure thermometers have been investigated in conjunction with a " constant temperature " liquid helium bath from 4.2 to 1.8 A[fj] . 
+Surface temperature gradients have been found to exist in liquid helium baths contained in 15 - and 25-liter metallic storage dewars . 
+The gradient was about one half of a millidegree at 4.2 A[fj] but increased to several millidegrees for bath temperatures slightly greater than the \*\* yl point . 
+A hydrostatic head correction has been neither necessary nor applicable in the determination of vapor pressures or temperatures for the bulk liquid helium . 
+However , the surface temperature gradient can produce erroneous vapor-pressure measurements for the bulk liquid helium unless precautions are taken to isolate the tube ( which passes through the surface to the vapor pressure bulb ) from the liquid helium surface . 
+It has also been observed , in helium 2 , that large discrepancies can exist between surface vapor pressures and those pressures measured by a vapor pressure thermometer . 
+This has been attributed to helium film flow in the vapor pressure thermometer . 
+In this case also the design of the thermometer can be modified to reduce the helium film flow . 
+Pressure transducer for pvt measurements . 
+Precise pressure-volume-temperature measurements on corrosive gases are dependent on a sensitive yet rugged pressure transducer . 
+A prototype which fulfills the requirements was developed and thoroughly tested . 
+The transducer is a null-type instrument and employs a stretched diaphragm , 0.001 in. thick and 1 in. in diameter . 
+A small pressure unbalance displaces the diaphragm and changes the capacitance between the diaphragm and an electrically insulated plate spaced 0.001 in. apart ( for A[fj] ) . 
+Spherical concave backing surfaces support the diaphragm when excessive pressures are applied and prevent the stresses within the diaphragm from exceeding the elastic limit . 
+Over a temperature range from 25 to 200 A[fj] and at pressures up to 250 atm , an overload of 300 psi , applied for a period of one day , results in an uncertainty in the pressure of , at most , one millimeter of mercury . 
+Transport properties of air . 
+A 6-year study of the transport properties of air at elevated temperatures has been completed . 
+This project was carried out under sponsorship of the Ballistic Missile Division of the Air Research and Development Command , U.S. Air Force , and had as its goal the investigation of the transport by diffusion of the heat energy of chemical binding . 
+A significant effect discovered during the study is the existence of Prandtl numbers reaching values of more than unity in the nitrogen dissociation region . 
+Another effect discovered is the large coefficient of thermal diffusion tending to separate nitrogen from the oxygen when temperature differences straddling the nitrogen dissociation region are present . 
+The results of the study , based on collision integrals computed from the latest critically evaluated data on intermolecular forces in air , will be reported in the form of a table of viscosity , thermal conductivity , thermal diffusion , and diffusion coefficients at temperatures of 1,000 to 10,000 A[fj] and of logarithm of pressure in atmospheres from A[fj] to A[fj] times normal density . 
+International cooperative activities . 
+In March , 1961 , representatives of the national laboratories of Australia , Canada , The Netherlands , United Kingdom , U.S.S.R. , United States , and West Germany , met at the NBS to devise means for reaching international agreement on a temperature scale between 10 and 90 A[fj] . 
+As a first step toward this goal , arrangements were worked out for comparing the scales now in use through circulation of a group of standard platinum resistance thermometers for calibration by each national laboratory . 
+Such a group of thermometers was obtained and calibrated at the A[fj] . 
+These thermometers have now been sent to the United Kingdom for calibration at the National Physical Laboratory . 
+Temperature symposium . 
+During the last week of march 1961 , Columbus , Ohio was the site of the Fourth Symposium on Temperature , Its Measurement And Control In Science And Industry . 
+The Symposium , which was jointly sponsored by the American Institute of Physics , the Instrument Society of America , and the National Bureau of Standards , attracted nearly one thousand registrants , including many from abroad . 
+The Bureau contributed to the planning and success of the Symposium through the efforts of Mr. W. A. Wildhack , General Chairman , and Dr. C.M. Herzfeld , Program Chairman . 
+Dr. A.V. Astin , NBS Director , opened the 5-day session with introductory remarks , following which a total of twenty-six papers were given throughout the week by NBS scientists , from both the Washington and Boulder Laboratories . 
+2.1.6 . 
+Atomic physics In addition to the basic programs in wavelength standards , spectroscopy , solid state physics , interactions of the free electron and atomic constants which are necessary to provide the foundation for technological progress , the Bureau has strengthened its activities in laboratory astrophysics . 
+The programs in infrared spectroscopy are undergoing reorientation toward wavelength standards in the far infrared , the application of infrared techniques to solid state studies , and increased emphasis on high resolution instrumentation . 
+Two data centers have been established for the collection , indexing , critical evaluation , and dissemination of bibliographies and critical values in the fields of transition probabilities and collision cross sections . 
+Laboratory astrophysics . 
+Transition probabilities . 
+Under the sponsorship of the Office of Naval Research and the Advanced Research Projects Agency , a data center was established to gather and index all published information on atomic transition probabilities . 
+An exhaustive survey was made of the literature , and a primary reference file of approximately 600 references was catalogued . 
+Selected bibliographies and tables of available data are now in preparation . 
+A wall-stabilized high-current arc source was constructed and used to study transition probabilities of atomic hydrogen and oxygen . 
+This apparatus will also be used to measure transition probabilities of a large number of other elements . 
+A study of the hydrogen line profiles indicates that a measurement of these profiles can be used to calculate a temperature for the arc plasma that is reliable to about A[fj] percent . 
+A set of tables containing spectral intensities for 39,000 lines of 70 elements , as observed in a copper matrix in a d-c arc , was completed and published . 
+Studies of the intensity data indicate that they may be converted to approximate transition probabilities . 
+These data are not of the precision obtainable by the methods previously mentioned , but the vast number of approximate values available will be useful in many areas . 
+Atomic energy levels . 
+Research continues on the very complex spectra of the rare earth elements . 
+New computer and automation techniques were applied to these spectra with considerable success . 

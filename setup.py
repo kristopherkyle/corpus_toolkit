@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="corpus_toolkit",
-    version="0.09",
+    version="0.20",
     author="Kristopher Kyle",
     author_email="kristopherkyle1@gmail.com",
     description="A simple Python toolkit for corpus analyses",

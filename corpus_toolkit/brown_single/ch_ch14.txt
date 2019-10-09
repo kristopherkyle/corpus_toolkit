@@ -1,0 +1,100 @@
+From its inception in 1920 with the passage of Public Law 236 , 66th Congress , the purpose of the vocational rehabilitation program has been to assist the States , by means of grants-in-aid , to return disabled men and women to productive , gainful employment . 
+The authority for the program was renewed several times until the vocational rehabilitation program was made permanent as Title 5 , of the Social Security Act in 1935 . 
+Up to this time and for the next eight years , the services provided disabled persons consisted mainly of training , counseling , and placement on a job . 
+Recognizing the limitations of such a program , the 78th Congress in 1943 passed P.L. 113 , which broadened the concept of rehabilitation to include the provision of physical restoration services to remove or reduce disabilities , and which revised the financing structure . 
+Recent changes . 
+Despite the successful rehabilitation of over a half million disabled persons in the first eleven years after 1943 , the existing program was still seen to be inadequate to cope with the nation 's backlog of an estimated two million disabled . 
+To assist the States , therefore , in rehabilitating handicapped individuals , " so that they may prepare for and engage in remunerative employment to the extent of their capabilities " , the 83rd Congress enacted the Vocational Rehabilitation Amendments of 1954 ( P.L. 565 ) . 
+These amendments to the Vocational Rehabilitation Act were designed to help provide for more specialized rehabilitation facilities , for more sheltered and " half-way " workshops , for greater numbers of adequately trained personnel , for more comprehensive services to individuals ( particularly to the homebound and the blind ) , and for other administrative improvements to increase the program 's overall effectiveness . 
+Financial aspects . 
+Under the law as it existed until 1943 , the Federal Government made grants to the States on the basis of population , matching State expenditures on a 50-50 basis . 
+Under P.L. 113 , 78th Congress , the Federal Government assumed responsibility for 100 % of necessary State expenditures in connection with administration and the counseling and placement of the disabled , and for 50 % of the necessary costs of providing clients with rehabilitation case services . 
+Throughout these years , the statutory authorization was for such sums as were necessary to carry out the provisions of the Act . 
+The 1954 Amendments completely changed the financing of the vocational rehabilitation program , providing for a three-part grant structure -- for ( 1 ) basic support ; ; ( 2 ) extension and improvement ; ; and ( 3 ) research , demonstrations , training and traineeships for vocational rehabilitation -- and in addition for short-term training and instruction . 
+The first part of the new structure -- that for supporting the basic program of vocational rehabilitation services -- is described in this Section . 
+Subsequent sections on grants describe the other categories of the grant structure . 
+The following table shows , for selected years , the authorizations , appropriations , allotment base , Federal grants to States and State matching funds for this part of the grant program : method of distributing funds description of formula . 
+In order to assist the States in maintaining basic vocational rehabilitation services , Section 2 of the amended Act provides that allotments to States for support of such services be based on ( 1 ) need , as measured by a State 's population , and ( 2 ) fiscal capacity , as measured by its per capita income . 
+The Act further provides for a " floor " or minimum allotment , set at the 1954 level , which is called the " base " allotment , and a " ceiling " or maximum allotment , for each State . 
+It stipulates , in addition , that all amounts remaining as a result of imposing the " ceiling " , and not used for insuring the " floor " , be redistributed to those States still below their maximums . 
+These provisions are designed to reflect the differences in wealth and population among the States , with the objective that a vocationally handicapped person have access to needed services regardless of whether he resides in a State with a low or high per capita income or a sparsely or thickly populated State . 
+The provisions are also designed to avoid disruption in State programs already in operation , which might otherwise result from the allotment of funds on the basis of wealth and population alone . 
+Method of computing allotments . 
+The method used in computing the allotments is specifically set forth in the Act . 
+The term " State " means the several States , the District of Columbia , the Virgin Islands , Guam and Puerto Rico ; ; the term " United States " includes the several States and the District of Columbia , and excludes the Virgin Islands , Guam and Puerto Rico , and , prior to 1962 , Alaska and Hawaii . 
+The following steps are employed in calculations : 1 . 
+For each State ( except Puerto Rico , Guam , the Virgin Islands , and , prior to 1962 , Alaska and Hawaii ) determine average per capita income based on the last three years . 
+( See Source of Data , below for per capita income data to be used in this step . 
+) 2 . 
+Determine the average per capita income for the U.S. based on the last three years . 
+( See Source of Data , below , for per capita income data to be used in this step . 
+) 3 . 
+Determine the ratio of 50 % to the average per capita income of the U. S . 
+( Divide 50 by the result obtained in item 2 above . 
+) 4 . 
+Determine for each State ( except the Virgin Islands , Guam and Puerto Rico , and , prior to 1962 , Alaska and Hawaii ) that percentage which bears the same ratio to 50 % as the particular State 's average per capita income bears to the average per capita income of the U. S. . ( Multiply the result obtained in item 3 above by the result obtained for each State in item 1 above . 
+) 5 . 
+Determine the particular State 's " allotment percentage " . 
+By law this is 75 % for the Virgin Islands , Guam and Puerto Rico . 
+( Alaska and Hawaii had fixed allotment percentages in effect prior to fiscal year 1962 . 
+) In all other States it is the difference obtained by subtracting from 100 the result obtained in item 4 above ; ; except that no State shall have an allotment percentage less than 33-13 % nor more than 75 % . 
+If the resulting difference for the particular State is less or more than these extremes , the State 's allotment percentage must be raised or lowered to the appropriate extreme . 
+6 . 
+Square each State 's allotment percentage . 
+7 . 
+Determine each State 's population . 
+( See Source of Data , below for population data to be used in this step . 
+) 8 . 
+Multiply the population of each State by the square of its allotment percentage . 
+( Multiply result obtained in item 7 above , by result obtained in item 6 above . 
+) 9 . 
+Determine the sum of the products obtained in item 8 above , for all the States . 
+( For each State , make all computations set forth in items 1 to 8 above , and then add the results obtained for each State in item 8 . 
+) 10 . 
+Determine the ratio that the amount being allotted is to the sum of the products for all the States . 
+( Divide the amount being allotted by the result obtained in item 9 above . 
+) 11 . 
+Determine the particular State 's unadjusted allotment for the particular fiscal year . 
+( Multiply the State product in item 8 above by the result obtained in item 10 above . 
+) 12 . 
+Determine if the particular State 's unadjusted allotment ( result obtained in item 11 above ) is greater than its maximum allotment , and if so lower its unadjusted allotment to its maximum allotment . 
+( Each State 's unadjusted allotment for any fiscal year , which exceeds its minimum allotment described in item 13 below by a percentage greater than one and one-half times the percentage by which the sum being allotted exceeds $ 23,000,000 , must be reduced by the amount of the excess . 
+) 13 . 
+Determine if the particular State 's unadjusted allotment ( result obtained in item 11 above ) is less than its minimum ( base ) allotment , and if so raise its unadjusted allotment to its minimum allotment . 
+Regardless of its unadjusted allotment , each State is guaranteed by law a minimum allotment each year equal to the allotment which it received in fiscal year 1954 -- increased by a uniform percentage of 5.4865771 which brings total 1954 allotments to all States up to $ 23,000,000 . 
+14 . 
+The funds recouped by reductions in item 12 above are used : first , to increase the unadjusted allotments to the specified minimum in those States where the unadjusted allotment is less than the minimum allotment ( item 13 above ) ; ; and second , to increase uniformly the allotments to those States whose allotments are below their maximums , with adjustments to prevent the allotment of any State from thereby exceeding its maximum . 
+Additional note on allotments . 
+For the States which maintain two separate agencies -- one for the vocational rehabilitation of the blind , and one for the rehabilitation of persons other than the blind -- the Act specifies that their minimum ( base ) allotment shall be divided between the two agencies in the same proportion as it was divided in fiscal year 1954 . 
+Funds allotted in addition to their minimum allotment are apportioned to the two agencies as they may determine . 
+Matching requirements explanation of matching formula . 
+As is the case with the allotment provisions for support of vocational rehabilitation services , the matching requirements are also based on a statutory formula . 
+Prior to 1960 , in order to provide matching for the minimum ( base ) allotment , State funds had to equal 1954 State funds . 
+Prior to and since 1960 the rest of the support allotment is matched at rates related to the fiscal capacity of the State , with a pivot of 40 % State ( or 60 % Federal ) participation in total program costs . 
+The percentage of Federal participation in such costs for any State is referred to in the law as that State 's " Federal share " . 
+For purposes of this explanation , this percentage is referred to as the State 's " unadjusted Federal share " . 
+Beginning in 1960 , the matching requirements for the base allotment are being adjusted ( upward or downward , as required ) 25 % a year , so that by 1963 the entire support allotment will be matched on the basis of a 40 % pivot State share , with maximum and minimum State shares of 50 % and 30 % , respectively . 
+The pre-1960 rate of Federal participation with respect to any State 's base allotment , as well as the adjusted rate in effect during the 1960 - 1962 period , is designated by the statute as that State 's " adjusted Federal Share " . 
+The provisions for determining a State 's unadjusted Federal share are designed to reflect the varying financial resources among the States . 
+The purpose of the adjusted Federal share relating to the base allotment and of the transition provisions for reaching the unadjusted Federal share is to prevent dislocations from abrupt changes in matching rates . 
+Method of computing Federal shares . 
+The method used for computing the respective Federal and State shares in total program costs is specifically set forth in the Act . 
+The term " State " means the several States , the District of Columbia , the Virgin Islands , Guam and Puerto Rico ; ; the term " United States " includes the several States and the District of Columbia and excludes the Virgin Islands , Guam and Puerto Rico , and , prior to 1962 , Alaska and Hawaii . 
+The following steps are employed in the calculations : 1 . 
+For each State ( except the Virgin Islands , Guam , Puerto Rico , and , prior to 1962 , Alaska and Hawaii ) , determine the average per capita income for the last three years . 
+( the same amount used in item 1 under Method Of Computing Allotments , above . 
+) 2 . 
+Determine the average per capita income for the United States for the last three years . 
+( The same amount used in item 2 under Method Of Computing Allotments , above . 
+) 3 . 
+Determine the ratio of 40 % to the average per capita income of the United States . 
+( Divide 40 by the amount used in item 2 above . 
+) 4 . 
+Determine for each State ( except the Virgin Islands , Guam , Puerto Rico , and , prior to 1962 , Alaska and Hawaii ) , that percentage which bears the same ration to 40 % as the particular State 's average per capita income bears to the average per capita income of the United States . 
+( Multiply the result obtained in item 3 above by the amount used for each State in item 1 above . 
+) 5 . 
+Determine the particular State 's " Federal Share " . 
+By law this is 70 % for the Virgin Islands , Guam and Puerto Rico . 
+( Alaska and Hawaii had fixed Federal share percentages in effect prior to fiscal year 1962 . 
+) In all other States it is the difference obtained by subtracting from 100 the result obtained in item 4 above ; ; except that no State shall have a Federal share less than 50 % nor more than 70 % . 
+If the resulting difference for the particular State is less or more than these extremes , the State 's Federal share must be raised or lowered to the appropriate extreme . 
