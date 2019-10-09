@@ -195,7 +195,6 @@ ct.dep_conc(bg_dict["samples"],"dobj_results")
 ```
 When opened, the resulting file will include the following:
 
-<!doctype html>
 <html><head><style>dep {color:red;}
  dep_head {color:blue;}</style></head><p><word>A </word><word>fringe </word><word>of </word><word>housing </word><word>and </word><word>gardens </word><dep_head>bearded_dobj_head </dep_head><word>the </word><dep>top_dobj_dep </dep><word>of </word><word>the </word><word>heights </word><word>, </word><word>and </word><word>behind </word><word>it </word><word>were </word><word>sandy </word><word>roads </word><word>leading </word><word>past </word><word>farms </word><word>and </word><word>hayfields </word><word>. </word><word>
  </word><word>39 </word></p><p><word>A </word><word>man </word><word>with </word><word>insomnia </word><word>had </word><word>better </word><dep_head>avoid_dobj_head </dep_head><word>bad </word><dep>dreams_dobj_dep </dep><word>of </word><word>that </word><word>kind </word><word>if </word><word>he </word><word>knew </word><word>what </word><word>was </word><word>good </word><word>for </word><word>him </word><word>. </word><word>
