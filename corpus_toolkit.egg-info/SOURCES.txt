@@ -8,3 +8,5 @@ corpus_toolkit.egg-info/PKG-INFO
 corpus_toolkit.egg-info/SOURCES.txt
 corpus_toolkit.egg-info/dependency_links.txt
 corpus_toolkit.egg-info/top_level.txt
+corpus_toolkit_dev/__init__.py
+corpus_toolkit_dev/corpus_tools.py

@@ -15,7 +15,7 @@ import xml.etree.ElementTree as ET #for writing xml or html
 import random
 import os
 
-version = "0.20"
+version = "0.28"
 
 try:
 	import spacy #import spacy
@@ -324,7 +324,7 @@ def keyness(freq_dict1,freq_dict2,effect = "log-ratio"): #this assumes that raw 
 def collocator(corpus,target, left = 4,right = 4, stat = "MI", cutoff = 5, ignore=ignore_list): #returns a dictionary of collocation values
 	
 	corpus, freq_corp = itertools.tee(corpus) #this makes two versions of the iterator so that it can be processed twice
-	corp_freq = corpus_frequency(freq_corp) #use the corpus_frequency function to create frequency list
+	corp_freq = frequency(freq_corp) #use the frequency function to create frequency list
 	nwords = sum(corp_freq.values()) #get corpus size for statistical calculations
 	collocate_freq = {} #empty dictionary for storing collocation frequencies
 	r_freq = {} #for hits to the right

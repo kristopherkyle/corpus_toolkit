@@ -1,1 +1,1 @@
-name = "corpus_toolkit"
+name = "corpus_tools"
