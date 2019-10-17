@@ -1,0 +1,67 @@
+How else can one explain , for example , allowing the survival of the right to amortize bond discount and premium ( section 381 ( c ) ( 9 ) ) , but not the right to amortize bond issue expenses ; ; or allowing a deduction for payment of certain obligations of a transferor assumed in the reorganization ( section 381 ( c ) ( 16 ) ) , but not a deduction for theft losses sustained by a transferor prior to a reorganization but discovered after it ; ; or requiring a transferor to carry over its method of depreciation ( section 381 ( c ) ( 6 ) ) , but not allowing rapid amortization of emergency facilities transferred in a reorganization ; ; or allowing survival of a dividend carryover to a personal holding company ( section 381 ( c ) ( 14 ) ) , but not carryover of excess tax credits for foreign taxes ? ? 
+These items , and most of the others listed above , seem quite comparable to items whose right of survival is provided for in section 381 . 
+There does not seem to be any reasonable basis for distinction either in terms of the nature of the tax attribute or in terms of tax-avoidance possibilities . 
+With respect to items such as these the provisions of section 381 ( c ) , viewed in historical perspective , suggest a rule requiring survival , whether the items are beneficial or detrimental to the surviving corporation . 
+To this extent some stretching of the literal meaning of the Committee Report seems justified , since the literal meaning conflicts with the clear implication , if not the language , of the statute . 
+It is not contended that section 381 should prescribe the survival of all of the transferor 's tax attributes . 
+Such an interpretation could not be justified by a construction of the statute alone ; ; it would certainly violate the intention of Congress as expressed in the Committee Report ; ; and in at least one instance , involving refund claims , it might be contrary to another provision of the United States Code . 
+Refund claims Section 203 of the United States Code voids an assignment of a claim against the Government unless made after it has been allowed , the amount due has been ascertained , and a warrant for its payment has been issued . 
+If it were not for judicial development of certain exceptions , this section would prohibit a suit for refund by an acquiring corporation for taxes paid by a transferor corporation , even though the reorganization meets the requirements of section 381 ( a ) . A clearly recognized exception is a statutory merger or consolidation . 
+The leading case , Seaboard Air Line Railway v. United States , held that the transferee could sue for a refund of taxes paid by the transferor , and it has been consistently followed . 
+The Court said the purpose of the section was principally to spare the Government the embarrassment and trouble of dealing with several parties , one of them a stranger to the claim , and to prevent traffic in claims , particularly tenuous claims , against the Government . 
+Neither reason , said the Court , applied to the case at hand ; ; furthermore , Congress could not be presumed to have intended to obstruct mergers approved by the states . 
+Other exceptions are assignments for the benefit of creditors , corporate dissolutions , transfers by descent , or transfers by subrogation . 
+Exceptions are often classified as transfers by " operation of law " . 
+A tax-free reorganization not complying with the merger or consolidation statutes of the states involved is difficult to fit into an " operation of law " mold . 
+Although it is in some ways comparable to a voluntary sale of assets for cash , to which section 203 quite clearly applies , the courts and Treasury have held that acquiring corporations in several types of non-taxable reorganizations may sue for refund of taxes paid by transferors . 
+A recent case in point is Mitchell Canneries v. United States , in which a claim against the Government was transferred first from a corporation to a partnership , whose partners were former stockholders , and then to another corporation formed by the partners . 
+Holding the final corporation entitled to sue on the claim , the Court cited the Seaboard , Novo Trading , and Roomberg cases for the proposition that " transfers by operation of law or in conjunction with changes of corporate structure are not assignments prohibited by the statute " . 
+In an earlier case , Kingan & Co. v. United States , an American corporation was formed for the purpose of acquiring the stock of a British corporation in exchange for its own stock and then liquidating the British corporation . 
+The anti-assignment statute was held not to prevent the American corporation from suing for a refund of taxes paid by the British corporation . 
+The transaction presumably would have qualified under section 368 ( a ) ( 1 ) as a contractual reorganization , followed by a section 332 liquidation , but not under section 368 ( a ) ( 1 ) as a statutory merger of consolidation . 
+The Court , nevertheless , relied on the Seaboard case and also mentioned that the shareholders of the two corporations were the same . 
+In substance , said the Court , there was no transfer of equitable title . 
+The Treasury arrives at substantially the same conclusion , but skirts the problem of section 203 of the United States Code . 
+Revenue Ruling 54-17 provides that if the corporation against which a tax was assessed has since been liquidated by merger with a successor corporation , a claim for refund should be filed by the successor in the name and on behalf of the corporation which paid the tax , followed by the name of the successor corporation . 
+Proper evidence of the liquidation and succession must also be filed . 
+If the succession is a matter of public record , certificates of the Secretaries of State or other public officials having custody of the documents will suffice ; ; if the succession is not of record , all documents relating to such succession , properly certified , are required . 
+The former proof seems applicable to a statutory merger or consolidation , the latter to a contractual acquisition . 
+The Ruling would not , however , apply to an acquisition of assets for cash . 
+A recent Ruling , although rather confusing , cites and follows Rev. Rul. 54-17 . 
+The Ruling suggests also that it applies to either a statutory or contractual reorganization . 
+Hence , a successor corporation in a C reorganization appears entitled to sue for a refund of taxes paid by the merged corporation despite section 203 . 
+In a B reorganization , followed by a section 332 liquidation , those cases which hold that section 203 is inapplicable to transfers in liquidation appear to permit the successor corporation to sue for refund of taxes paid by the transferor . 
+In fact , a cash purchase of a corporation 's stock followed by liquidation might also be an effective way to transfer a claim for refund if the Kimbell-Diamond doctrine is not applied to eliminate the intermediate step . 
+These results appear sound . 
+As stated in Seaboard and numerous other cases , the two primary reasons for the enactment of section 203 of the United States Code were to prevent the Government from having to deal with more than one claimant and to prevent the assignment of meretricious claims on a contingent-fee basis . 
+The cases have allowed transfer of claims if beneficial ownership is not changed . 
+The first reason would never apply to a reorganization transfer which meets the conditions of section 381 ( a ) , which is the only type presently under discussion . 
+Section 381 ( a ) applies only to a transfer by liquidation of a subsidiary owned to the extent of at least 80 per cent , a statutory merger or consolidation , an acquisition of substantially all a corporation 's assets solely in exchange for voting stock , or a change of identity , form , or place of organization . 
+In virtually every case the transferor corporation is liquidated , and its former stockholders either own outright , or have a continuing stock interest in , the assets which gave rise to the tax . 
+In these circumstances the possibility of multiple or conflicting claims is exceedingly remote . 
+Furthermore , in a C reorganization the continuing interest of stockholders of the corporation which paid the tax must be greater than is necessary in a statutory merger , to which the statute is clearly inapplicable . 
+Nor is it at all likely that a " desperate " claim against the Government will be assigned on a contingent-fee basis in the guise of a tax-free reorganization . 
+If the transferor has substantial assets other than the claim , it seems reasonable to assume no corporation would be willing to acquire all of its properties in the dim hope of collecting a claim for refund of taxes . 
+If such an unlikely transaction were to take place , it would more logically be accomplished by a stock purchase , followed by the prosecution of the claim by the wholly-owned subsidiary , followed by liquidation . 
+In the rare case where a corporation 's only substantial asset , or its most important one , is a claim for refund , perhaps its transfer should not be permitted , whether the reorganization takes the form of a statutory merger or of the acquisition of assets for stock . 
+It appears , then , that although the matter is not dealt with in section 381 ( c ) , a successor corporation in a reorganization of a type specified in section 381 ( a ) is entitled to sue for refund of taxes paid by a transferor corporation . 
+Section 203 of the United States Code has been interpreted as not applying to claims against the Government transferred in tax-free reorganizations . 
+The successor corporations have been held entitled to sue on such claims . 
+Other tax attributes of the transferor There are certain tax attributes of a corporation whose nature and effect might depend on the facts of the particular reorganization involved . 
+For example , property " used in the trade or business " of a transferor corporation , as defined in section 1231 , presumably would not retain its special status following a non-taxable reorganization if it is not so used in the business of the acquiring corporation . 
+The parent of a group filing consolidated returns might be treated as the same corporation following a reorganization defined in section 368 ( a ) ( 1 ) , but as a different corporation for this purpose after a tax-free acquisition by another corporation which had not , for example , elected to file consolidated returns with its own subsidiaries . 
+Similar considerations presumably made it difficult to prescribe a general rule where the acquired and acquiring corporations have different methods of accounting ( section 381 ( c ) ( 4 ) ) or depreciation ( section 381 ( c ) ( 6 ) ) . 
+Other sections of the 1954 Internal Revenue Code provide for survival of certain of a transferor 's tax attributes following a tax-free reorganization . 
+Section 362 requires carryover of the transferor corporation 's basis for property transferred , and section 1223 provides for tacking on the transferor 's holding period for such property to that of the transferee . 
+Section 169 permits a person acquiring grain-storage facilities to elect to continue amortization over a 60-month period . 
+However , a similar privilege was not specifically provided in section 168 for a person acquiring emergency facilities . 
+Attributes similar to a loss carryover . 
+There may be certain items which are quite similar to a net operating loss carryover or operating deficit and whose right to survive a reorganization should perhaps be subject to the conditions applicable to those items . 
+For example , suppose another excess profits tax similar to prior laws is enacted , providing for carryover of excess profits credits . 
+This carryover right has a number of things in common with a net operating loss carryover . 
+It is an averaging device intended to ease the tax burden of fluctuating income ; ; it is a tax benefit which might be of substantial value to a corporation which expects to have a high excess profits tax . 
+Under the 1939 Code this item was permitted to survive a tax-free reorganization in the Stanton Brewery case , but only over the dissent of Judge Learned Hand , who wrote the majority opinion in the Sansome case , a leading case requiring carryover of earnings and profits in a non-taxable reorganization . 
+Since this type of item was not in the statute when section 381 was enacted in 1954 , one can not say with certainty what effect the enactment of that section should have . 
+With respect to this type of item , one might properly apply the language of the Committee Report , quoted above , which cautions against using section 381 as a basis for treating other tax attributes not mentioned therein . 
+Actually , there do not presently appear to be items in the statute comparable to a net operating loss carryover . 
+Probably the primary reason for special treatment of a net operating loss carryover is the unique opportunity it presents for tax avoidance . 

@@ -1,0 +1,95 @@
+Because individual classes of foods differ in their requirements for preservation , a number of methods have been developed over the years involving one or a combination of procedures such as dehydration , fermentation , salting , chemical treatment , canning , refrigeration , and freezing . 
+The basic objectives in each instance are to make available supplies of food during the intervals between harvesting or slaughter , to minimize losses resulting from the action of microorganisms and insects , and to make it possible to transport foods from the area of harvest or production to areas of consumption . 
+In earlier years , the preservation of food was essentially related to survival . 
+In the more sophisticated atmosphere of today 's developed nations , food-preservation techniques have }
+sought also to bring variety , peak freshness , and optimum taste and flavor in foods at reasonable cost to the consumer . 
+With the development of nuclear technology , isotopic materials , and machine radiation sources in recent years , the possibilities of applying ionizing radiation to the preservation of foods attracted the attention of investigators in the United States and throughout the world . 
+An early hope that irradiation might be the ultimate answer to practically all food preservation problems was soon dispelled . 
+Interest remained , however , in the possibility that it would serve as a useful supplementary method for counteracting spoilage losses and for preserving some foods at lower over-all costs than freezing , or without employing heat or chemicals with their attendant taste alterations . 
+Factors responsible for the spoilage of foods The chief factors responsible for the spoilage of fresh foodstuffs are ( 1 ) microorganisms such as bacteria , molds , and yeasts , ( 2 ) enzymes , ( 3 ) insects , ( 4 ) sprouting , and ( 5 ) chemical reactions . 
+Microorganisms are often responsible for the rapid spoilage of foods . 
+Of special concern is the growth of bacteria such as Clostridium botulinum which generate poisonous products . 
+Enzymatic action in stored food produces changes which can adversely affect the appearance of food or its palatability . 
+Spoilage by chemical action results from the reaction of one group of components in the food with others or with its environment , as in corrosion of the walls of metal containers or the reaction of fats with oxygen in the air to produce rancidity . 
+Sprouting is a naturally occurring phenomenon in stored potatoes , onions , carrots , beets , and similar root vegetables . 
+Insect infestation is a problem of importance chiefly in stored grain . 
+The presence of parasitic organisms such as Trichinella spiralis in pork introduces another factor which must be dealt with in food processing . 
+To permit the storage of food for long periods of time , a method of preservation must accomplish the destruction of microorganisms and inhibition of enzymatic action . 
+The term " sterilization " applies to methods involving essentially complete destruction of all microorganisms . 
+Food treated in this manner and protected from recontamination by aseptic methods of packaging and containment presumably could be stored for long periods without refrigeration . 
+The process of " pasteurization " involves milder and less prolonged heat treatment which accomplishes the destruction of most , but not all , of the microorganisms . 
+Less severe thermal treatment as by blanching or scalding serves to inactivate enzymes . 
+General effects of ionizing radiation Ionizing radiation can cause the destruction of microorganisms and insects involved in food spoilage or , at lower doses , can inhibit their action . 
+It furnishes a means of destroying insects in stored grain products as well as certain parasitic organisms present in meats . 
+Deactivation of enzymes is also possible , although some types require extremely heavy doses of 10 Mrad or more . 
+Because of undesirable flavors , odors , colors , and generally low palatability associated with radiation treatment of this magnitude , the inactivation of enzymes is best accomplished prior to irradiation by the conventional heat-processing methods of blanching . 
+Radiation does not retard the chemical spoilage of food . 
+It will , however , inhibit the sprouting of potatoes and other root vegetables . 
+The radiation doses required for the preservation of foods are in the following ranges : 1 . 
+For radiosterilization , to destroy all organisms for long-term preservation -- about 4.5 Mrad for nonacid foods of low salt content . 
+2 . 
+For radiopasteurization , to partially destroy microorganisms ; ; results vary with types of food , storage conditions , and objectives of treatment -- commonly of the order of 0.2 Mrads but up to about 0.8 A[fj] . 
+3 . 
+For destruction of insects -- about 25,000 A[fj] . 
+4 . 
+For inhibiting the sprouting of root vegetables -- 4,000 to 10,000 A[fj] . 
+Preserving foods with ionizing radiation leads to some undesirable side effects , particularly at the higher radiation dosages . 
+In this respect , the general palatability and individual acceptance of most radiosterilized foods has , to date , been found to be low in comparison with fresh and commercially processed foods . 
+A number of foods are quite acceptable as regards taste and palatability , however , at dosages substantially less than sterilization levels . 
+Moreover , the nutritive value of irradiated foods apparently undergoes little , if any , change , although some of the fat-soluble vitamins are affected by sterilization doses . 
+Radiation sources For irradiation of food , the results obtained depend upon the dose rather than the specific type of radiation , and X-ray , gamma , and high-energy electron radiation are suitable . 
+Aside from availability and economic considerations , each has certain practical advantages ; ; for example , gamma rays give deeper penetration but can not be focused or collimated , whereas unidirectional electron beams may be split and directed to both the top and bottom of the food package to be irradiated . 
+Selection of a source for commercial irradiation would involve consideration of numerous factors including required dose rate , load factor , throughput , convenience , safety , and most important , costs . 
+Of the potentially useful sources of ionizing radiations , gamma sources , cobalt-60 , cesium-137 , fission products , or a reactor irradiation loop system using a material such as an indium salt have received most attention for food-preservation systems . 
+Of the various particle accelerators , the Van De Graff machines , resonant transformers , and linear accelerators are the principal ones available for commercial use . 
+Costs of the effective energy produced by these sources is a major obstacle in the development of food-preservation processes . 
+Estimated production costs of radiation energy from machine and nuclide sources range from $ 1 to $ 10 per A[fj] . 
+Conventional energy for processing foods is available in the range of at most a few cents per kwhr for electric power and the equivalent of a few mills per kwhr for process steam . 
+Radiation , therefore , is at an initial cost disadvantage even though only 1 to 10 per cent as much radiation energy as heat energy is required for radiopasteurization or radiosterilization . 
+What are the possibilities of lowered radiation production costs for the future ? ? 
+It has been estimated that for applications on a megawatt scale costs might reach values in the neighborhood of 10 cents per kwhr for large-scale accelerators or for gamma radiation generated in a reactor core . 
+No comparable reductions in the cost of nuclide radiation are foreseen . 
+Such projections , however , appear highly speculative and the capacities involved are far beyond those foreseen for food-preservation facilities . 
+Because agricultural activities are seasonal and the areas of production and harvest of many foods are widely scattered geographically , and because of the high cost of transporting bulk food items any substantial distance to a central processing location , the use of large central processing stations , where low-cost radiation facilities approaching the megawatt range might be utilized , is inherently impracticable . 
+Present status of irradiation preservation of foods The objective of complete sterilization of foods is to produce a wholesome and palatable product capable of being stored without refrigeration for extended periods of time . 
+Chief interest in radiosterilization resides in the military services . 
+For them , providing appetizing food under battle or emergency conditions is a paramount consideration . 
+They require completely sterile foods capable of being stored without refrigeration , preferably items already cooked and ready to eat . 
+High nutritional value , variety , palatability , and appetizing appearance are important for reasons of morale . 
+Foods for rear stations , which require cooking , but no refrigeration , are also of interest . 
+Of primary interest are meats . 
+Radiopasteurization , which produces fewer adverse sensory changes in food products , has potential usefulness in prolonging the keeping qualities of fresh and refrigerated food items . 
+Thus , food so processed might reach more remote markets and permit the consumer to enjoy more produce at peak freshness and palatability . 
+Commercial interest is chiefly in this type of treatment , as is military interest under peacetime conditions . 
+The present status of food preservation by ionizing radiation is discussed by food classes in the following paragraphs . 
+Meats The radiation processing of meat has received extensive investigation . 
+To date , the one meat showing favorable results at sterilization doses is pork . 
+Of particular interest to the military services is the demonstration that roast pork , after radiosterilization , is superior in palatability to available canned pork products . 
+Tests with beef have been largely unsuccessful because of the development of off-flavors . 
+A prime objective of the Army Quartermaster Corps program is to find the reasons for beef 's low palatability and means of overcoming it , since it is a major and desirable dietary item . 
+Partly because low-level heat treatment is needed to inactivate enzymes before radiosterilization , treated fresh meats have the appearance of boiled or canned meat . 
+Off-flavor is a less severe problem with the radiopasteurization of meats , but problems of commercial acceptability remain . 
+Moderate radiation doses of from 100,000 to 200,000 rads can extend the shelf life ( at 35 F ) of fresh beef from 5 days to 5 or 6 weeks . 
+However , the problem of consumer acceptability remains . 
+The preradiation blanching process discolors the treated beef and liquid accumulates in prepackaged cuts . 
+Cooked beef irradiated in the absence of oxygen assumes an unnatural pink color . 
+When lamb and mutton are irradiated at substerilization doses , the meat becomes dehydrated , the fat becomes chalky , and , again , unnatural changes in color occur . 
+Ground meats such as fresh pork sausage and hamburger have a relatively short shelf life under refrigeration , and radiopasteurization might be thought to offer distinctly improved keeping qualities . 
+However , a major problem here is one of scale of processing ; ; ground meats are usually prepared from scrap meats at the local level , whereas irradiation at economic volumes of production would require central processing and distribution facilities . 
+The problems of color change by blanching and liquid accumulation within the package are the same as for solid cuts . 
+Specialty cooked items containing meat portions , as in " frozen dinners " might offer a potential use for radiopasteurization . 
+The principal potential advantage would be that the finished product could be transported and stored at lower cost under refrigeration instead of being frozen . 
+A refrigerated item could also be heated and served in less time than is required for frozen foods of the same type . 
+Competitive processes for preserving meats are by canning and freezing . 
+Costs of canning meat are in the range of 0.8 to 5 cents per pound ; ; costs of freezing are in the area of 2 to 3.5 cents per pound . 
+The table on page 10 shows costs of canning and freezing meat , and estimated costs for irradiation under certain assumed conditions . 
+Under the conditions of comparison , it will be noted that : ( 1 ) Radiosterilization ( at 3 Mrad ) is more expensive than canning , particularly for the cesium-137 source . 
+( 2 ) Radiopasteurization by either the electron accelerator or cesium-137 source is in the range of freezing costs . 
+( 3 ) Irradiation using the nuclide source is more expensive than use of an electron accelerator . 
+Poultry Results of irradiation tests with poultry have been quite successful . 
+At sterilizing doses , good palatability results , with a minimum of changes in appearance , taste , and odor . 
+Radiopasteurization has also been successful , and the shelf life of chicken can be extended to a month or more under refrigerated storage as compared with about 10 days for the untreated product . 
+Acceptable taste and odor are retained by the irradiated and refrigerated chicken . 
+Acceptance of radiopasteurization is likely to be delayed , however , for two reasons : ( 1 ) the storage life of fresh chicken under refrigeration is becoming a minimal problem because of constantly improved sanitation and distributing practices , and ( 2 ) treatment by antibiotics , a measure already approved by the Federal Food and Drug Administration , serves to extend the storage life of chicken at a low cost of about 0.5 cents per pound . 
+Seafood Fresh seafood products are extremely perishable . 
+Although refrigeration has served to extend the storage life of these products , substantially increased consumption might be possible if areas remote from the seacoast could be served adequately . 

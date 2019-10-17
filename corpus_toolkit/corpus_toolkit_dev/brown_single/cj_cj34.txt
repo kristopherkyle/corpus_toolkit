@@ -1,0 +1,102 @@
+It is obvious enough that linguists in general have been less successful in coping with tone systems than with consonants or vowels . 
+No single explanation is adequate to account for this . 
+Improvement , however , is urgent , and at least three things will be needed . 
+The first is a wide-ranging sample of successful tonal analyses . 
+Even beginning students in linguistics are made familiar with an appreciable variety of consonant systems , both in their general outlines and in many specific details . 
+An advanced student has read a considerable number of descriptions of consonantal systems , including some of the more unusual types . 
+By contrast , even experienced linguists commonly know no more of the range of possibilities in tone systems than the over-simple distinction between register and contour languages . 
+This limited familiarity with the possible phenomena has severely hampered work with tone . 
+Tone analysis will continue to be difficult and unsatisfactory until a more representative selection of systems is familar to every practicing field linguist . 
+Papers like these four , if widely read , will contribute importantly to improvement of our analytic work . 
+The second need is better field techniques . 
+The great majority of present-day linguists fall into one or more of a number of overlapping types : those who are convinced that tone can not be analysed , those who are personally scared of tone and tone languages generally , those who are convinced that tone is merely an unnecessary marginal feature in those languages where it occurs , those who have no idea how to proceed with tone analysis , those who take a simplistic view of the whole matter . 
+The result has been neglect , fumbling efforts , or superficial treatment . 
+As these maladies overlap , so must the cure . 
+Analyses such as these four will simultaneously combat the assumptions that tone is impossible and that it is simple . 
+They will give suggestions that can be worked up into field procedures . 
+Good field techniques will not only equip linguists for better work , but also help them overcome negative attitudes . 
+Actually , none of these papers says much directly about field techniques . 
+But it is worth pondering that very little has been published on any phase of field techniques in linguistics . 
+These things have been disseminated by other means , but always in the wake of extensive publication of analytic results . 
+The third need is for better theory . 
+We should expect that general phonologic theory should be as adequate for tone as for consonants and vowels , but it has not been . 
+This can only be for one of two reasons : either the two are quite different and will require totally different theory ( and hence techniques ) , or our existing theories are insufficiently general . 
+If , as I suspect , the problem is largely of the second sort , then development of a theory better able to handle tone will result automatically in better theory for all phonologic subsystems . 
+One issue that must be faced is the relative difficulty of analysis of different phonologic subsystems . 
+Since tone systems typically comprise fewer units than either consonant or vowel systems , we might expect that they would be the easiest part of a phonologic analysis . 
+Actual practice does not often work out this way . 
+Tone systems are certainly more complex than the number of units would suggest , and often analytically more difficult than much larger consonantal systems . 
+Welmers has suggested one explanation . 
+Tone languages use for linguistic contrasts speech parameters which also function heavily in nonlinguistic use . 
+This may both divert the attention of the uninitiate and cause confusion for the more knowledgeable . 
+The problem is to disentangle the linguistic features of pitch from the co-occurring nonlinguistic features . 
+Of course , something of the same sort occurs with other sectors of the phonology : consonantal articulations have both a linguistic and an individual component . 
+But in general the individual variation is a small thing added onto basic linguistic features of greater magnitude . 
+With tone , individual differences may be greater than the linguistic contrasts which are superimposed on them . 
+Pitch differences from one speaker to another , or from one emotional state to another , may far exceed the small differences between tones . 
+However , any such suggestion accounts for only some of the difficulties in hearing tone , or in developing a realistic attitude about tone , but not for the analytic difficulties that occur even when tone is meticulously recorded . 
+A second explanation is suggested by the material described in Rowlands ' paper . 
+Tone and intonation often become seriously intermeshed . 
+Neither can be adequately systematized until we are able to separate the two and assign the observed phenomena individually to one or the other . 
+Other pairs of phonologic subsystems also interact or overlap in this way ; ; for example , duration sometimes figures in both the vowel system and the intonation . 
+Some phonetic features , for example glottal catch or murmur , are sometimes to be assigned to segmental phonemics and sometimes to accentual systems . 
+But no other two phonologic systems are as difficult to disentangle as are tone and intonation in some languages . 
+This explanation of tone difficulties , however , does not apply in all languages . 
+In some ( the Ewe type mentioned above ) interaction of tone and intonation is restricted to the ends of intonation spans . 
+In many of the syllables , intonation can be safely ignored , and much of the tonal analysis can be done without any study of intonation . 
+Still , even in such languages tone analysis has not been as simple as one might expect . 
+A third explanation is suggested by Richardson 's analysis of Sukuma tone . 
+There we see a basically simple phonemic system enmeshed in a very complex and puzzling morphophonemic system . 
+While the phonemes can be very easily stated , no one is likely to be satisfied with the statement until phonemic occurrences can be related in some way to morphemic units , i.e. until the morphophonemics is worked out , or at least far enough that it seems reasonable to expect success . 
+In the " typical tone language " , tonal morphophonemics is of the same order of complexity as consonantal morphophonemics . 
+The phonemic systems which must support these morphophonemic systems , however , are very different . 
+The inventory of tones is much smaller , and commonly the contrasts range along one single dimension , pitch level . 
+Consonantal systems are not merely larger , they are multidimensional . 
+Morphophonemic rules may be thought of as joining certain points in the system . 
+The possibilities in the consonantal system are very numerous , and only a small portion of them are actually used . 
+Phonemes connected by a morphophonemic rule commonly show a good bit of phonetic similarity , possible because of the several dimensions of contrast in the system . 
+Tonal morphophonemics , in a common case , can do nothing but either raise or lower the tone . 
+The possibilities are few , and the total number of rules may be considerably greater . 
+Often , therefore , there are a number of rules having the same effect , and commonly other sets of rules as well , having the opposite effect . 
+Tonal morphophonemics is much more confusing to the beginning analyst than consonantal morphophonemics , even when the total number of rules is no greater . 
+The difficulty of analysis of any subsystem in the phonology is an inverse function of the size -- smaller systems are more troublesome -- for any given degree of morphophonemic complexity . 
+This hypothesis will account for a large part of the difficulties of tonal analysis , as well as the fact that vowel systems are often more puzzling than consonantal systems . 
+The statement of the system is a different matter . 
+Smaller systems can of course be stated much more succinctly . 
+A phonemic system can be stated without reference to morphophonemics , but it can not always be found without morphophonemics . 
+And the more complex the morphophonemic system is in relation to the phonemic base , the less easily a phonemic system will be analysed without close attention to the morphophonemics -- at least , the less satisfying will a phonemic statement be if it can not be related through morphophonemic rules to grammatically meaningful structures . 
+The design of orthographies has received much less attention from linguists than the problem deserves . 
+There has been a tendency on the part of many American linguists to assume that a phonemic transcription will automatically be the best possible orthography and that the only real problem will then be the social one of securing acceptance . 
+This seems naive . 
+Most others have been content to give only the most general attention to the broadest and most obvious features of the phonology when designing orthographies . 
+Apparently the feeling is that anything more would be involvement in technical abstrusenesses of possible pedantic interest but of no visible significance in practical affairs . 
+The result of this attitude has been the domination of many orthography conferences by such considerations as typographic ' esthetics ' , which usually turns out to be nothing more than certain prejudices carried over from European languages . 
+Many of the suggested systems seem to have only the most tenuous relationship to the language structures that they purport to represent . 
+Linguists have not always been more enlightened than " practical people " and sometimes have insisted on incredibly trivial points while neglecting things of much greater significance . 
+As a result , many people have been confirmed in their conviction that orthography design is not an activity to which experts can contribute anything but confusion . 
+A.E. Sharp , in Vowel-Length And Syllabicity In Kikuyu , examines one set of related orthographic questions and its phonologic background in detail . 
+His objective is merely to determine " what distinctions of length and syllabicity it may be desirable to make explicit in a Kikuyu orthography " ( 59 ) . 
+To do so , he finds it necessary to examine the relevant parts of the phonology thoroughly and in detail . 
+In the process , he develops some very significant observations about problems of a sort that are often difficult . 
+A few of his examples are of very great interest , and the whole discussion of some importance for theory . 
+His orthographic recommendations are no simplistic acceptance of phonemics on the one hand or of superficiality on the other . 
+Rather he weighs each phonologic fact in the light of its orthographic usefulness . 
+He concludes that some changes can be made in the current orthography which will appreciably improve its usefulness , but hesitates to suggest precise graphic devices to effect these changes . 
+I hope his suggestions are given the consideration they deserve in Kikuyu circles . 
+This , however , will not exhaust their practical usefulness , as they rather clearly indicate what thorough phonologic investigation can contribute to orthography design . 
+We need many more studies of this sort if the design of written languages is to be put on a sound basis . 
+One other paper deals with a phonologic problem : Vowel Harmony In Igbo , by J. Carnochan . 
+This restates the already widely known facts in terms of prosodies . 
+As a restatement it makes only a small contribution to knowledge of Igbo . 
+But it would seem more intended as a tract advocating the prosodic theory than a paper directed to the specific problems of Igbo phonology . 
+The paper has a certain value as a comparatively easy introduction to this approach , particularly since it treats a fairly simple and straightforward phenomenon where it is possible to compare it with a more traditional ( though not structural ) statement . 
+It does show one feature of the system that has not been previously described . 
+But it does not , as it claims , demonstrate that this could not be treated by traditional methods . 
+It seems to me that it rather easily can . 
+Five of the papers deal with grammatical problems . 
+On the whole they maintain much the same high standard , but they are much more difficult to discuss in detail because of their wider variety of subject matter . 
+My comments must be briefer than the papers deserve . 
+W.H. Whiteley writes on The Verbal Radical In Iraqw . 
+This must be considered primarily an amendment and supplement to his early A Short Description Of Item-Categories In Iraqw . 
+It exhibits much the same descriptive technique and is open to much the same criticisms . 
+The treatment seems unnecessarily loose-jointed and complex , largely because the method is lax and the analysis seems never to be pushed to a satisfactory or even a consistent stopping-point . 

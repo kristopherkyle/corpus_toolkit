@@ -1,0 +1,84 @@
+The Sane Society is an ambitious work . 
+Its scope is as broad as the question : What does it mean to live in modern society ? ? 
+A work so broad , even when it is directed by a leading idea and informed by a moral vision , must necessarily " fail " . 
+Even a hasty reader will easily find in it numerous blind spots , errors of fact and argument , important exclusions , areas of ignorance and prejudice , undue emphases on trivia , examples of broad positions supported by flimsy evidence , and the like . 
+Such books are easy prey for critics . 
+Nor need the critic be captious . 
+A careful and orderly man , who values precision and a kind of tough intellectual responsibility , might easily be put off by such a book . 
+It is a simple matter , for one so disposed , to take a work like The Sane Society and shred it into odds and ends . 
+The thing can be made to look like the cluttered attic of a large and vigorous family -- a motley jumble of discarded objects , some outworn and some that were never useful , some once whole and bright but now chipped and tarnished , some odd pieces whose history no one remembers , here and there a gem , everything fascinating because it suggests some part of the human condition -- the whole adding up to nothing more than a glimpse into the disorderly history of the makers and users . 
+That could be easily done , but there is little reason in it . 
+It would come down to saying that Fromm paints with a broad brush , and that , after all , is not a conclusion one must work toward but an impression he has from the outset . 
+I mention these features of the book because they are inherent in the book 's character and therefore must be mentioned . 
+It would be superfluous to build a critique around them . 
+There are more substantial criticisms to be made of Fromm 's account of capitalist civilization . 
+It is worthwhile to recall that Fromm 's treatment has both descriptive and normative aspects . 
+Since I have already discussed his moral position , that discussion is incorporated by reference into the following pages , which will focus on the empirical and analytic side of Fromm 's treatment . 
+I shall first indicate a couple of weaknesses in Fromm 's analysis , then argue that , granted these weaknesses , he still has much left that is valuable , and , finally , raise the general question of a philosophical versus a sociological approach to the question of alienation . 
+Almost no empirical work has been done on the problem of alienation . 
+Despite its rather long intellectual history , alienation is still a promising hypothesis and not a verified theory . 
+The idea has received much attention in philosophy , in literature , and in a few works of general social criticism , such as The Sane Society . 
+What is missing is work that would answer , presumably by the use of survey methods and Guttman-type attitude scales , such questions as these : What are the components of the feeling-state described as alienation ? ? 
+How widespread is alienation ? ? 
+What is its incidence among the various classes and subgroups of the population ? ? 
+Taking alienation as a dependent variable , with what socio-structural factors is it most highly associated ? ? 
+Considered as an independent variable , how does it affect behavior in various sectors of life ? ? 
+Until such work is done , there must remain the nagging suspicion that alienation may be little more than an expression of the malaise of the intellectual , who , rejected by and in turn rejecting the larger society , projects his own fear and despair onto the broader social screen . 
+I am not suggesting that Fromm ought to do this kind of work . 
+Nor do I think that alienation is nothing more than a projection of the malaise of the intellectual . 
+I am saying only that until a fuller and different kind of evidence comes in , any discussion of alienation must be understood to have certain important limitations . 
+Until such evidence appears , we must make do with the evidence we have . 
+Here , perhaps , Fromm is vulnerable , for he does not always use the best and most recent evidence available , and he sometimes selects and interprets the evidence in rather special ways . 
+Three examples follow . 
+Fromm 's analysis of alienation in the sphere of production centers around the concepts of the bureaucratization of the corporation , the separation of ownership from control , and the broad ( and thus from the point of view of corporate control , ineffective ) dispersion of stock ownership . 
+For all these points he relies exclusively on Berle and Means 's study of 1932 , The Modern Corporation And Private Property . 
+The broad conclusions of that pioneering work remain undisturbed , but subsequent research has expanded and somewhat altered their empirical support , has suggested important revisions in the general analytic frame of reference , and has sharpened the meaning of particular analytic concepts in this area . 
+Fromm seems unaware of these developments . 
+Another example is his very infrequent use of the large amount of data from surveys designed to discover what and how people actually do feel and think on a broad range of topics : he cites such survey-type findings just three times . 
+Moreover , the conclusions he draws from the findings are not always the only ones possible . 
+For example , he cites the following data from two studies on job satisfaction : in the first study , 85 per cent of professionals and executives , 64 per cent of white collar people , and 41 per cent of factory workers expressed satisfaction with their jobs ; ; in the second study , the percentages were 86 for professionals , 74 for managerial persons , 42 for commercial employees , 56 for skilled workers , and 48 for semi-skilled workers . 
+He concludes that these data show a " remarkably high " percentage of consciously dissatisfied and unhappy persons among factory and clerical workers . 
+Starting from other value premises than Fromm 's , some analysts might conclude that the percentages really tell us very little at all , while others might even conclude that the figures are remarkably low . 
+Eric Hoffer , for example , once said that America was a paradise -- the only one in the history of the world -- for workingmen and small children . 
+What matters is that while Fromm 's reading of the data is not the only one possible , it is precisely the one we would expect from a writer who earnestly believes that every man can and ought to be happy and satisfied . 
+Fromm also cites a poll on attitudes toward work restriction conducted by the Opinion Research Corporation in 1945 , in which 49 per cent of manual workers said a man ought to turn out as much as he could in a day 's work , while 41 per cent said he should not do his best but should turn out only the average amount . 
+Fromm says these data show that job dissatisfaction and resentment are widespread . 
+That is one way to read the findings , but again there are other ways . 
+One might use such findings to indicate the strength of informal primary associations in the factory , an interpretation which would run counter to Fromm 's theory of alienation . 
+Or , he might remind Fromm that the 41 per cent figure is really astonishingly low : after all , the medieval guild system was dedicated to the proposition that 100 per cent of the workers ought to turn out only the average amount ; ; and today 's trade unions announce pretty much the same view . 
+In view of these shortcomings in both the amount and the interpretation of survey-type findings on public opinion , and considering the criticisms which can be brought against Fromm 's philosophical anthropology , such a passage as the following can not be taken seriously . 
+" Are people happy , are they as satisfied , unconsciously , as they believe themselves to be ? ? 
+Considering the nature of man , and the conditions for happiness , this can hardly be so " . 
+The ambiguities suggested above stem from a more basic difficulty in Fromm 's style of thought . 
+He seems to use the term alienation in two different ways . 
+Sometimes he uses it as a subjective , descriptive term , and sometimes as an objective , diagnostic one . 
+That is , sometimes it is used to describe felt human misery , and other times it is postulated to explain unfelt anxiety and discontent . 
+The failure to keep these two usages distinct presents hazards to the reader . 
+It also permits Fromm to do some dubious things with empirical findings . 
+When alienation is used as an objective and diagnostic category , for example , it becomes clear that Fromm would have to say that awareness of alienation goes far toward conquering it . 
+( He , in effect , does say this in his discussion of the pseudo-happiness of the automaton conformist . 
+) Starting from this , and accepting his estimate of the iniquities of modern society , it would follow that the really disturbing evidence of alienation would be that of a work-satisfaction survey which reported widespread , stated worker satisfaction , rather than widespread , stated worker dissatisfaction . 
+The point is that in a system such as Fromm 's which recognizes unconscious motivations , and which rests on certain ethical absolutes , empirical data can be used to support whatever proposition the writer is urging at the moment . 
+Thus , in the example cited above Fromm rests his whole case on the premise that the workers are being deprived unconsciously , unknowingly , of fulfillment , and then supports this with survey data reporting conscious , experienced frustrations . 
+He has his cake and eats it too : if the workers say they are dissatisfied , this shows conscious alienation ; ; if they say they are satisfied , this shows unconscious alienation . 
+This sort of manipulation is especially troublesome in Fromm 's work because , although his system is derived largely from certain philosophic convictions , he asserts that it is based on empirical findings drawn both from social science and from his own consulting room . 
+While the " empirical psychoanalytic " label which Fromm claims sheds no light on the validity of his underlying philosophy , it does increase the marketability of his product . 
+The final example of the failure to use available evidence , though evidence of a different kind from that which has so far been considered , comes from Fromm 's treatment of some other writers who have dealt with the same themes . 
+In a brief chapter dealing with " Various Other Diagnoses " , he quotes isolated passages from some writers whose views seem to corroborate his own , and finds it " most remarkable that a critical view of twentieth-century society was already held by a number of thinkers living in the nineteenth . 
+" He finds it equally " remarkable that their critical diagnosis and prognosis should have so much in common among themselves and with the critics of the twentieth century " . 
+There is nothing remarkable about this at all . 
+It is largely a matter of finding passages that suit one 's purposes . 
+There is a difference between evidence and illustration , and Fromm 's citation of the other diagnosticians fits the latter category . 
+Glance at the list : Burckhardt , Tolstoy , Proudhon , Thoreau , London , Marx , Tawney , Mayo , Durkheim , Tannenbaum , Mumford , A.R. Heron , Huxley , Schweitzer , and Einstein . 
+This is a delightfully motley collection . 
+One can make them say the same thing only by not listening to them very carefully and hearing only what one wants to hear . 
+The method of selection Fromm uses achieves exactly that . 
+Furthermore , the list is interesting for its omissions . 
+It omits , for example , practically the whole line of great nineteenth century English social critics , nearly all the great writers whose basic position is religious , and all those who are with more or less accuracy called Existentialists . 
+Of course , the list also excludes all writers who are fairly " optimistic " about the modern situation ; ; these , almost by definition , are spokesmen for an alienated ideology . 
+It is not hard to find that concurrence of opinion which Fromm finds so remarkable when you ignore all who hold a different opinion . 
+Turning from these problems of the use of evidence , one meets another type of difficulty in Fromm 's analysis , which is his loose and ambiguous use of certain important terms . 
+One such instance has already been presented : his use of alienation . 
+The only other one I shall mention here is his use of the term capitalism . 
+For Fromm , capitalism is the enemy , the root of all evil . 
+It is of course useful to have a sovereign cause on one 's social criticism , for it makes diagnosis and prescription much easier than they might otherwise be . 

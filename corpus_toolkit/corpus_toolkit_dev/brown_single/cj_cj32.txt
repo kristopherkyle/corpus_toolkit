@@ -1,0 +1,92 @@
+The many linguistic techniques for reducing the amount of dictionary information that have been proposed all organize the dictionary 's contents around prefixes , stems , suffixes , etc . 
+. 
+A significant reduction in the voume of store information is thus realized , especially for a highly inflected language such as Russian . 
+For English the reduction in size is less striking . 
+This approach requires that : ( 1 ) each text word be separated into smaller elements to establish a correspondence between the occurrence and dictionary entries , and ( 2 ) the information retrieved from several entries in the dictionary be synthesized into a description of the particular word . 
+The logical scheme used to accomplish the former influences the placement of information in the dictionary file . 
+Implementation of the latter requires storage of information needed only for synthesis . 
+We suggest the application of certain data-processing techniques as a solution to the problem . 
+But first , we must define two terms so that their meaning will be clearly understood : form -- any unique sequence of alphabetic characters that can appear in a language preceded and followed by a space ; ; occurrence -- an instance of a form in text . 
+We propose a method for selecting only dictionary information required by the text being translated and a means for passing the information directly to the occurrences in text . 
+We accomplish this by compiling a list of text forms as text is read by the computer . 
+A random-storage scheme , based on the spelling of forms , provides an economical way to compile this text-form list . 
+Dictionary forms found to match forms in the text list are marked . 
+A location in the computer store is also named for each marked form ; ; dictionary information about the form stored at this location can be retrieved directly by occurrences of the form in text . 
+Finally , information is retrieved from the dictionary as required by stages of the translation process -- the grammatical description for sentence-structure determination , equivalent-choice information for semantic analysis , and target-language equivalents for output construction . 
+The dictionary is a form dictionary , at least in the sense that complete forms are used as the basis for matching text occurrences with dictionary entries . 
+Also , the dictionary is divided into at least two parts : the list of dictionary forms and the file of information that pertains to these forms . 
+A more detailed description of dictionary operations -- text lookup and dictionary modification -- gives a clearer picture . 
+Text lookup , as we will describe it , consists of three steps . 
+The first is compiling a list of text forms , assigning an information cell to each , and replacing text occurrences with the information cell assigned to the form of each occurrence . 
+For this step the computer memory is separated into three regions : cells in the W-region are used for storage of the forms in the text-form list ; ; cells in the X-region and Y region are reserved as information cells for text forms . 
+When an occurrence A[fj] is isolated during text reading , a random memory address A[fj] , the address of a cell in the X-region , is computed from the form of A[fj] . 
+Let A[fj] denote the form of A[fj] . 
+If cell A[fj] has not previously been assigned as the information cell of a form in the text-form list , it is now assigned as the information cell of A[fj] . 
+The form itself is stored in the next available cells of the W-region , beginning in cell A[fj] . 
+The address A[fj] and the number of cells required to store the form are written in A[fj] ; ; the information cell A[fj] is saved to represent the text occurrence . 
+Text reading continues with the next occurrence . 
+Let us assume that A[fj] is identical to the form of an occurrence A[fj] which preceded A[fj] in the text . 
+When this situation exists , the address A[fj] will equal A[fj] which was produced from A[fj] . 
+If A[fj] was assigned as the information cell for A[fj] , the routine can detect that A[fj] is identical to A[fj] by comparing A[fj] with the form stored at location A[fj] . 
+The address A[fj] is stored in the cell A[fj] . 
+When , as in this case , the two forms match , the address A[fj] is saved to represent the occurrence A[fj] . 
+Text reading continues with the next occurrence . 
+A third situation is possible . 
+The formula for computing random addresses from the form of each occurrence will not give a distinct address for each distinct form . 
+Thus , when more than one distinct form leads to a particular cell in the X-region , a chain of information cells must be created to accommodate the forms , one cell in the chain for each form . 
+If A[fj] leads to an address A[fj] that is equal to the address computed from A[fj] , even though A[fj] does not match A[fj] , the chain of information cells is extended from A[fj] by storing the address of the next available cell in the Y-region , A[fj] , in A[fj] . 
+The cell A[fj] becomes the second information cell in the chain and is assigned as the information cell of A[fj] . 
+A third cell can be added by storing the address of another Y-cell in A[fj] ; ; similarly , as many cells are added as are required . 
+Each information cell in the chain contains the address of the Y-cell where the form to which it is assigned is stored . 
+Each cell except the last in the chain also contains the address of the Y-cell that is the next element of the chain ; ; the absence of such a link in the last cell indicates the end of the chain . 
+Hence , when the address A[fj] is computed from A[fj] , the cell A[fj] and all Y-cells in its chain must be inspected to determine whether A[fj] is already in the form list or whether it should be added to the form list and the chain . 
+When the information cell for A[fj] has been determined , it is saved as a representation of A[fj] . 
+Text reading continues with the next occurrence . 
+Text reading is terminated when a pre-determined number of forms have been stored in the text-form list . 
+This initiates the second step of glossary lookup -- connecting the information cell of forms in the text-form list to dictionary forms . 
+Each form represented by the dictionary is looked up in the text-form list . 
+Each time a dictionary form matches a text form , the information cell of the matching text form is saved . 
+The number of dictionary forms skipped since the last one matched is also saved . 
+These two pieces of information for each dictionary form that is matched by a text form constitute the table of dictionary usage . 
+If each text form is marked when matched with a dictionary form , the text forms not contained in the dictionary can be identified when all dictionary forms have been read . 
+The appropriate action for handling these forms can be taken at that time . 
+Each dictionary form is looked up in the text-form list by the same method used to look up a new text occurrence in the form list during text reading . 
+A random address A[fj] that lies within the X-region of memory mentioned earlier is computed from the i-th dictionary form . 
+If cell A[fj] is an information cell , it and any information cells in the Y-region that have been linked to A[fj] each contain an address in the W-region where a potentially matching form is stored . 
+The dictionary form is compared with each of these text forms . 
+When a match is found , an entry is made in the table of dictionary usage . 
+If cell A[fj] is not an information cell we conclude that the i-th dictionary form is not in the text list . 
+These two steps essentially complete the lookup operation . 
+The final step merely uses the table of dictionary usage to select the dictionary information that pertains to each form matched in the text-form list , and uses the list of information cells recorded in text order to attach the appropriate information to each occurrence in text . 
+The list of text forms in the W-region of memory and the contents of the information cells in the X and Y-regions are no longer required . 
+Only the assignment of the information cells is important . 
+The first stage of translation after glossary lookup is structural analysis of the input text . 
+The grammatical description of each occurrence in the text must be retrieved from the dictionary to permit such an analysis . 
+A description of this process will serve to illustrate how any type of information can be retrieved from the dictionary and attached to each text occurrence . 
+The grammatical descriptions of all forms in the dictionary are recorded in a separate part of the dictionary file . 
+The order is identical to the ordering of the forms they describe . 
+When entries are being retrieved from this file , the table of dictionary usage indicates which entries to skip and which entries to store in the computer . 
+This selection-rejection process takes place as the file is read . 
+Each entry that is selected for storage is written into the next available cells of the A[fj] . 
+The address of the first cell and the number of cells used is written in the information cell for the form . 
+( The address of the information cell is also supplied by the table of dictionary usage . 
+) When the complete file has been read , the grammatical descriptions for all text forms found in the dictionary have been stored in the W-region ; ; the information cell assigned to each text form contains the address of the grammatical description of the form it represents . 
+Hence , the description of each text occurrence can be retrieved by reading the list of text-ordered information-cell addresses and outputting the description indicated by the information cell for each occurrence . 
+The only requirements on dictionary information made by the text-lookup operation are that each form represented by the dictionary be available for lookup in the text-form list and that information for each form be available in a sequence identical with the sequence of the forms . 
+This leaves the ordering of entries variable . 
+( Here an entry is a form plus the information that pertains to it . 
+) Two very useful ways for modifying a form-dictionary are the addition to the dictionary of complete paradigms rather than single forms and the application of a single change to more than one dictionary form . 
+The former is intended to decrease the amount of work necessary to extend dictionary coverage . 
+The latter is useful for modifying information about some or all forms of a word , hence reducing the work required to improve dictionary contents . 
+Applying the techniques developed at Harvard for generating a paradigm from a representative form and its classification , we can add all forms of a word to the dictionary at once . 
+An extension of the principle would permit entering a grammatical description of each form . 
+Equivalents could be assigned to the paradigm either at the time it is added to the dictionary or after the word has been studied in context . 
+Thus , one can think of a dictionary entry as a word rather than a form . 
+If all forms of a paradigm are grouped together within the dictionary , a considerable reduction in the amount of information required is possible . 
+For example , the inflected forms of a word can be represented , insofar as regular inflection allows , by a stem and a set of endings to be attached . 
+( Indeed , the set of endings can be replaced by the name of a set of endings . 
+) The full forms can be derived from such information just prior to the lookup of the form in the text-form list . 
+Similarly , if the equivalents for the forms of a word do not vary , the equivalents need be entered only once with an indication that they apply to each form . 
+The dictionary system is in no way dependent upon such summarization or designed around it . 
+When irregularity and variation prevent summarizing , information is written in complete detail . 
+Entries are summarized only when by doing so the amount of information retained in the dictionary is reduced and the time required for dictionary operations is decreased . 

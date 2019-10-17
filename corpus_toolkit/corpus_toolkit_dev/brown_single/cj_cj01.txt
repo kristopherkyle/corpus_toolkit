@@ -1,0 +1,65 @@
+1 . 
+Introduction It has recently become practical to use the radio emission of the moon and planets as a new source of information about these bodies and their atmospheres . 
+The results of present observations of the thermal radio emission of the moon are consistent with the very low thermal conductivity of the surface layer which was derived from the variation in the infrared emission during eclipses ( e.g. , Garstung , 1958 ) . 
+When sufficiently accurate and complete measurements are available , it will be possible to set limits on the thermal and electrical characteristics of the surface and subsurface materials of the moon . 
+Observations of the radio emission of a planet which has an extensive atmosphere will probe the atmosphere to a greater extent than those using shorter wave lengths and should in some cases give otherwise unobtainable information about the characteristics of the solid surface . 
+Radio observations of Venus and Jupiter have already supplied unexpected experimental data on the physical conditions of these planets . 
+The observed intensity of the radio emission of Venus is much higher than the expected thermal intensity , although the spectrum indicated by measurements at wave lengths near 3 cm and 10 cm is like that of a black body at about 600-degrees . 
+This result suggests a very high temperature at the solid surface of the planet , although there is the possibility that the observed radiation may be a combination of both thermal and non-thermal components and that the observed spectrum is that of a black body merely by coincidence . 
+For the case of Jupiter , the radio emission spectrum is definitely not like the spectrum of a black-body radiator , and it seems very likely that the radiation reaching the earth is a combination of thermal radiation from the atmosphere and non-thermal components . 
+Of the remaining planets , only Mars and Saturn have been observed as radio sources , and not very much information is available . 
+Mars has been observed twice at about 3-cm wave length , and the intensity of the observed radiation is in reasonable agreement with the thermal radiation which might be predicted on the basis of the known temperature of Mars . 
+The low intensity of the radiation from Saturn has limited observations , but again the measured radiation seems to be consistent with a thermal origin . 
+No attempts to measure the radio emission of the remaining planets have been reported , and , because of their distances , small diameters , or low temperatures , the thermal radiation at radio wave lengths reaching the earth from these sources is expected to be of very low intensity . 
+In spite of this , the very large radio reflectors and improved amplifying techniques which are now becoming available should make it possible to observe the radio emission of most of the planets in a few years . 
+The study of the radio emission of the moon and planets began with the detection of the thermal radiation of the moon at 1.25-cm wave length by Dicke and Beringer ( 1946 ) . 
+This was followed by a comprehensive series of observations of the 1.25-cm emission of the moon over three lunar cycles by Piddington and Minnett ( 1949 ) . 
+They deduced from their measurements that the radio emission from the whole disk of the moon varied during a lunation in a roughly sinusoidal fashion ; ; that the amplitude of the variation was considerably less than the amplitude of the variation in the infrared emission as measured by Pettit and Nicholson ( 1930 ) and Pettit ( 1935 ) ; ; and that the maximum of the radio emission came about 3-12 days after Full Moon , which is again in contrast to the infrared emission , which reaches its maximum at Full Moon . 
+Piddington and Minnett explained their observations by pointing out that rocklike materials which are likely to make up the surface of the moon would be partially transparent to radio waves , although opaque to infrared radiation . 
+The infrared emission could then be assumed to originate at the surface of the moon , while the radio emission originates at some depth beneath the surface , where the temperature variation due to solar radiation is reduced in amplitude and shifted in phase . 
+Since the absorption of radio waves in rocklike material varies with wave length , it should be possible to sample the temperature variation at different depths beneath the surface and possibly detect changes in the structure or composition of the lunar surface material . 
+The radio emission of a planet was first detected in 1955 , when Burke and Franklin ( 1955 ) identified the origin of interference-like radio noise on their records at about 15 meters wave length as emission from Jupiter . 
+This sporadic type of planetary radiation is discussed by Burke ( chap. 13 ) and Gallet ( chap. 14 ) . 
+Steady radiation which was presumably of thermal origin was observed from Venus at 3.15 and 9.4 cm , and from Mars and Jupiter at 3.15 cm in 1956 ( Mayer , McCullough , and Sloanaker , 1958 , A , B , C ) , and from Saturn at 3.75 cm in 1957 ( Drake and Ewen , 1958 ) . 
+In the relatively short time since these early observations , Venus has been observed at additional wave lengths in the range from 0.8 to 10.2 cm , and Jupiter has been observed over the wave-length range from 3.03 to 68 A[fj] . 
+The observable characteristics of planetary radio radiation are the intensity , the polarization , and the direction of arrival of the waves . 
+The maximum angular diameter of any planetary disk as observed from the earth is about 1 minute of arc . 
+This is much smaller than the highest resolution of even the very large reflectors now under construction , and consequently the radio emission of different regions of the disk can not be resolved . 
+It should be possible , however , to put useful limits on the diameters of the radio sources by observing with large reflectors or with interferometers . 
+Measurements of polarization are presently limited by apparatus sensitivity and will remain difficult because of the low intensity of the planetary radiation at the earth . 
+There have been few measurements specifically for the determination of the polarization of planetary radiation . 
+The measurements made with the NRL 50-foot reflector , which is altitude-azimuth-mounted , would have shown a systematic change with local hour angle in the measured intensities of Venus and Jupiter if a substantial part of the radiation had been linearly polarized . 
+Recent interferometer measurements ( Radhakrishnan and Roberts , 1960 ) have shown the 960-mc emission of Jupiter to be partially polarized and to originate in a region of larger diameter than the visible disk . 
+Other than this very significant result , most of the information now available about the radio emission of the planets is restricted to the intensity of the radiation . 
+The concept of apparent black-body temperature is used to describe the radiation received from the moon and the planets . 
+The received radiation is compared with the radiation from a hypothetical black body which subtends the same solid angle as the visible disk of the planet . 
+The apparent black-body disk temperature is the temperature which must be assumed for the black body in order that the intensity of its radiation should equal that of the observed radiation . 
+The use of this concept does not specify the origin of the radiation , and only if the planet really radiates as a black body , will the apparent black-body temperature correspond to the physical temperature of the emitting material . 
+The radio radiation of the sun which is reflected from the moon and planets should be negligible compared with their thermal emission at centimeter wave lengths , except possibly at times of exceptional outbursts of solar radio noise . 
+The quiescent level of centimeter wave-length solar radiation would increase the average disk brightness temperature by less than 1-degree . 
+At meter wave lengths an increase of the order of 10-degrees in the average disk temperatures of the nearer planets would be expected . 
+Therefore , neglecting the extreme outbursts , reflected solar radiation is not expected to cause sizable errors in the measurements of planetary radiation in the centimeter - and decimeter-wave-length range . 
+2 . 
+The moon 2.1 observations Radio observations of the moon have been made over the range of wave lengths from 4.3 mm to 75 cm , and the results are summarized in Table 1 . 
+Observations have also been made at 1.5 mm using optical techniques ( Sinton , 1955 , 1956 , ; ; see also chap. 11 ) . 
+Not all the observers have used the same procedures or made the same assumptions about the lunar brightness distribution when reducing the data , and this , together with differences in the methods of calibrating the antennae and receivers , must account for much of the disagreement in the measured radio brightness temperatures . 
+In the observations at 4.3 mm ( Coates , 1959 ) , the diameter of the antenna beam , 6'.7 , was small enough to allow resolution of some of the larger features of the lunar surface , and contour diagrams have been made of the lunar brightness distribution at three lunar phases . 
+These observations indicate that the lunar maria heat up more rapidly and also cool off more rapidly than do the mountainous regions . 
+Mare Imbrium seems to be an exception and remains cooler than the regions which surround it . 
+These contour diagrams also suggest a rather rapid falloff in the radio brightness with latitude . 
+Very recently , observations have been made at 8-mm wave length with a reflector 22 meters in diameter with a resultant beam width of only about 2 ' ( Amenitskii , Noskova , and Salomonovich , 1960 ) . 
+The constant-temperature contours are much smoother than those observed at 4.3 mm by Coates ( 1959 ) and apparently the emission at 8 mm is not nearly so sensitive to differences in surface features . 
+Such high-resolution observations as these are needed at several wave lengths in order that the radio emission of the moon can be properly interpreted . 
+The observations of Mayer , McCullough , and Sloanaker at 3.15 cm and of Sloanaker at 10.3 cm have not previously been published and will be briefly described . 
+Measurements at 3.15 cm were obtained on 11 days spread over the interval May 3 to June 19 , 1956 , using the 50-foot reflector at the U.S. Naval Research Laboratory in Washington . 
+The half-intensity diameter of the antenna beam was about 9 ' , and the angle subtended by the moon included the entire main beam and part of the first side lobes . 
+The antenna patterns and the power gain at the peak of the beam were both measured ( Mayer , McCullough , and Sloanaker , 1958 ) , so that the absolute power sensitivity of the antenna beam over the solid angle of the moon was known . 
+The ratio of the measured antenna temperature change during a drift scan across the moon to the average brightness temperature of the moon over the antenna beam ( assuming that the brightness temperature of the sky is negligible ) was found , by graphical integration of the antenna directivity diagram , to be 0.85 . 
+The measured brightness temperature is a good approximation to the brightness temperature at the center of the lunar disk because of the narrow antenna beam and because the temperature distribution over the central portion of the moon 's disk is nearly uniform . 
+The result of the observations is A[fj] where the phase angle , Q , is measured in degrees from new moon and the probable errors include absolute as well as relative errors . 
+This result is plotted along with the 8.6-mm observations of Gibson ( 1958 ) in figure 1 , A . 
+The variation in the 3-cm emission of the moon during a lunation is very much less than the variation in the 8.6-mm emission , as would be expected from the explanation of Piddington and Minnett ( 1949 ) . 
+In the discussion which follows , the time average of the radio emission will be referred to as the constant component , and the superimposed periodic variation will be called the variable component . 
+The 10.3-cm observation of Sloanaker was made on May 20 , 1958 , using the 84-foot reflector at the Maryland Point Observatory of the U.S. Naval Research Laboratory . 
+The age of the moon was about 2 days . 
+The half-intensity diameter of the main lobe of the antenna was about 18'.5 , and the brightness temperature was reduced by assuming a Gaussian shape for the antenna beam and a uniformly bright disk for the moon . 

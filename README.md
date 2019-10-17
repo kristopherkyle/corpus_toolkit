@@ -19,7 +19,7 @@ This tutorial presumes that you have downloaded and extracted the [brown_single.
 ### Load, tokenize, and generate a frequency list
 
 ```python
-import corpus_toolkit as ct
+from corpus_toolkit import corpus_tools as ct
 brown_corp = ct.ldcorpus("brown_single") #load and read corpus
 tok_corp = ct.tokenize(brown_corp) #tokenize corpus - by default this lemmatizes as well
 brown_freq = ct.frequency(tok_corp) #creates a frequency dictionary

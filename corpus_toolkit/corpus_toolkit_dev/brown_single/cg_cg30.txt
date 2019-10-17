@@ -1,0 +1,115 @@
+Copernicus did not question it , Ptolemy could not . 
+Given the conceptual context within which ancient thought thrived , how could anyone have questioned this principle ? ? 
+The reasons for this are partly observational , partly philosophical , and reinforced by other aesthetic and cultural factors . 
+First , the observational reasons . 
+The obvious natural fact to ancient thinkers was the diurnal rotation of the heavens . 
+Not only did constellations like Draco , Cepheus , and Cassiopeia spin circles around the pole , but stars which were not circumpolar rose and set at the same place on the horizon each night . 
+Nor did a constellation 's stars vary in brightness during the course of their nocturnal flights . 
+The conclusion -- the distances of the constellations did not vary and their paths were circular . 
+Moreover , the sun 's path over earth described a segment of a great circle ; ; this was clear from the contour of the shadow traced by a gnomon before and after noon . 
+As early as the 6th century B.C. the earth was seen to be spherical . 
+Ships disappear hull-first over the horizon ; ; approaching shore their masts appeared first . 
+Earth , being at the center of the universe , would have the same shape as the latter ; ; so , e.g. did Aristotle argue , although this may not be an observational reason in favor of circularity . 
+The discoid shapes of sun and moon were also felt to indicate the shape of celestial things . 
+In light of all this , one would require special reasons for saying that the paths of the heavenly bodies were other than circular . 
+Why , for example , should the ancients have supposed the diurnal rotation of the heavens to be elliptical ? ? 
+Or oviform ? ? 
+Or angular ? ? 
+There were no reasons for such suppositions then . 
+This , conjoined with the considerations above , made the circular motions of heavenly bodies appear an almost directly observed fact . 
+Additional philosophical considerations , advanced notably by Aristotle , supported further the circularity principle . 
+By distinguishing superlunary ( celestial ) and sublunary ( terrestrial ) existence , and reinforcing this with the four-element physics of Empedocles , Aristotle came to speak of the stars as perfect bodies , which moved in only a perfect way , viz. in a perfect circle . 
+Now what is perfect motion ? ? 
+It must , apparently , be motion without termini . 
+Because motion which begins and ends at discrete places would ( e.g. for Aristotle ) be incomplete . 
+Circular motion , however , since it is eternal and perfectly continuous , lacks termini . 
+It is never motion towards something . 
+Only imcomplete , imperfect things move towards what they lack . 
+Perfect , complete entities , if they move at all , do not move towards what they lack . 
+They move only in accordance with what is in their natures . 
+Thus , circular motion is itself one of the essential characteristics of completely perfect celestial existence . 
+To return now to the four-element physics , a mixture of muddy , frothy water will , when standing in a jar , separate out with earth at the bottom , water on top , and the air on top of that . 
+A candle alight in the air directs its flame and smoke upwards . 
+This gives a clue to the cosmical order of elements . 
+Thus earth has fallen to the center of the universe . 
+It is covered ( partly ) with water , air is atop of that . 
+Pure fire ( the stars ) is in the heavens . 
+When combined with the metaphysical notion that pure forms of this universe are best appreciated when least embodied in a material substratum , it becomes clear that while earth will be dross on a scale of material-formal ratios , celestial bodies will be of a subtle , quickened , ethereal existence , in whose embodiment pure form will be the dominant component and matter will be absent or remain subsidiary . 
+The stars constitute an order of existence different from what we encounter on earth . 
+This is clear when one distinguishes the types of motion appropriate to both regions . 
+A projectile shot up from earth returns rectlinearly to its ' natural ' place of rest . 
+But the natural condition for the heavenly bodies is neither rest , nor rectilinear motion . 
+Being less encumbered by material embodiments they partake more of what is divine . 
+Their motion will be eternal and perfect . 
+Let us re-examine the publicized contrasts between Ptolemaic and Copernican astronomy . 
+Bluntly , there never was a Ptolemaic system of astronomy . 
+Copernicus ' achievement was to have invented systematic astronomy . 
+The Almagest and The Hypotheses outline Ptolemy 's conception of his own task as the provision of computational tables , independent calculating devices for the prediction of future planetary perturbations . 
+Indeed , in the Halma edition of Theon 's presentation of The Hypotheses there is a chart setting out ( under six distinct headings ) otherwise unrelated diagrams for describing the planetary motions . 
+No attempt is made by Ptolemy to weld into a single scheme ( a-la-Aristotle ) , these independent predicting-machines . 
+They all have this in common : the earth is situated near the center of the deferent . 
+But that one should superimpose all these charts , run a pin through the common point , and then scale each planetary deferent larger and smaller ( to keep the epicycles from ' bumping ' ) , this is contrary to any intention Ptolemy ever expresses . 
+He might even suppose the planets to move at infinity . 
+Ptolemy 's problem is to forecast where , against the inverted bowl of night , some particular light will be found at future times . 
+His problem concerns longitudes , latitudes , and angular velocities . 
+The distances of these points of light is a problem he can not master , beyond crude conjectures as to the orderings of the planetary orbits viewed outward from earth . 
+But none of this has prevented scientists , philosophers , and even historians of science , from speaking of the Ptolemaic system , in contrast to the Copernican . 
+This is a mistake . 
+It is engendered by confounding the Aristotelian cosmology in The Almagest with the geocentric astronomy . 
+Ptolemy recurrently denies that he could ever explain planetary motion . 
+This is what necessitates the nonsystematic character of his astronomy . 
+So when textbooks , like that of Baker set out drawings of the ' Ptolemaic System ' , complete with earth in the center and the seven heavenly bodies epicyclically arranged on their several deferents , we have nothing but a misleading 20th-century idea of what never existed historically . 
+It is the chief merit in Copernicus ' work that all his planetary calculations are interdependent . 
+He can not , e.g. compute the retrograde arc traveled by Mars , without also making suppositions about the earth 's own motion . 
+He can not describe eclipses without entertaining some form of a three-body problem . 
+In Ptolemaic terms , however , eclipses and retrograde motion were phenomena simpliciter , to be explained directly as possible resultants of epicyclical combinations . 
+In a systematic astronomy , like that of Copernicus , retrogradations become part of the conceptual structure of the system ; ; they are no longer a puzzling aspect of intricately variable , local planetary motions . 
+Another contrast stressed when discussing Ptolemaic vs. Copernican astronomy , turns on the idea of simplicity . 
+It is often stated that Copernican astronomy is ' simpler ' than Ptolemaic . 
+Some even say that this is the reason for the ultimate acceptance of the former . 
+Thus , Margenau remarks : " A large number of unrelated epicycles was needed to explain the observations , but otherwise the ( Ptolemaic ) system served well and with quantitative precision . 
+Copernicus , by placing the sun at the center of the planetary universe , was able to reduce the number of epicycles from eighty-three to seventeen . 
+Historical records indicate that Copernicus was unaware of the fundamental aspects of his so-called ' revolution ' , unaware perhaps of its historical importance , he rested content with having produced a simpler scheme for prediction . 
+As an illustration of the principle of simplicity the heliocentric discovery has a peculiar appeal because it allows simplicity to be arithmetized ; ; it involves a reduction in the number of epicycles from eighty-three to seventeen " . 
+Without careful qualification this can be misleading . 
+If in any one calculation Ptolemy had had to invoke 83 epicycles all at once , while Copernicus never required more than one third this number , then ( in the sense obvious to Margenau ) Ptolemaic astronomy would be simpler than Copernican . 
+But no single planetary problem ever required of Ptolemy more than six epicycles at one time . 
+This , of course , results from the non-systematic , ' cellular ' character of Ptolemaic theory . 
+Calculations within the Copernican framework always raised questions about planetary configurations . 
+These could be met only by considering the dynamical elements of several planets at one time . 
+This is more ambitious than Ptolemy is ever required to be when he faces his isolated problems . 
+Thus , in no ordinary sense of ' simplicity ' is the Ptolemaic theory simpler than the Copernican . 
+The latter required juggling several elements simultaneously . 
+This was not simpler but much more difficult than exercises within Ptolemy 's astronomy . 
+Analogously , anyone who argues that Einstein 's theory of gravitation is simpler than Newton 's , must say rather more to explain how it is that the latter is mastered by student-physicists , while the former can be managed ( with difficulty ) only by accomplished experts . 
+In a sense , Einstein 's theory is simpler than Newton 's , and there is a corresponding sense in which Copernicus ' theory is simpler than Ptolemy 's . 
+But ' simplicity ' here refers to systematic simplicity . 
+The number of primitive ideas in systematically-simple theories is reduced to a minimum . 
+The Axioms required to make the theoretical machinery operate are set out tersely and powerfully , so that all permissible operations within the theory can be traced rigorously back to these axioms , rules , and primitive notions . 
+This characterizes Euclid 's formulation of geometry , but not Ptolemy 's astronomy . 
+There are in The Almagest no rules for determining in advance whether a new epicycle will be required for dealing with abberations in lunar , solar , or planetary behavior . 
+The strongest appeal of the Copernican formulation consisted in just this : ideally , the justification for dealing with special problems in particular ways is completely set out in the basic ' rules ' of the theory . 
+The lower-level hypotheses are never ' ad hoc ' , never introduced ex post facto just to sweep up within the theory some recalcitrant datum . 
+Copernicus , to an extent unachieved by Ptolemy , approximated to Euclid 's vision . 
+De Revolutionibus is not just a collection of facts and techniques . 
+It is an organized system of these things . 
+Solving astronomical problems requires , for Copernicus , not a random search of unrelated tables , but a regular employment of the rules defining the entire discipline . 
+Hence , noting the simplicity achieved in Copernicus ' formulation does not provide another reason for the acceptance of De Revolutionibus , another reason beyond its systematic superiority . 
+It provides exactly the same reason . 
+1543 A.D. is often venerated as the birthday of the scientific revolution . 
+It is really the funeral day of scholastic science . 
+Granted , the cosmological , philosophical , and cultural reverberations initiated by the De Revolutionibus were felt with increasing violence during the 300 years to follow . 
+But , considered within technical astronomy , a different pattern can be traced . 
+In what does the dissatisfaction of Copernicus-the-astronomer consist ? ? 
+What in The Almagest draws his fire ? ? 
+Geocentricism per se ? ? 
+No . 
+The formal displacement of the geocentric principle far from being Copernicus ' primary concern , was introduced only to resolve what seemed to him intolerable in orthodox astronomy , namely , the ' unphysical ' triplication of centric reference-points : one center from which the planet 's distances were calculated , another around which planetary velocities were computed , and still a third center ( the earth ) from which the observations originated . 
+This arrangement was for Copernicus literally monstrous : " With ( the Ptolemaists ) it is as though an artist were to gather the hands , feet , head and other members for his images from divers models , each part excellently drawn , but not related to a single body ; ; and since they in no way match each other , the result would be a monster rather than a man " . 
+Copernicus required a systematically integrated , physically intelligible astronomy . 
+His objective was , essentially , to repair those aspects of orthodox astronomy responsible for its deficiencies in achieving these ends . 
+That such deficiencies existed within Ptolemy 's theory was not discovered de novo by Copernicus . 
+The critical , rigorous examinations of Nicholas of Cusa and Nicholas of Oresme provided the context ( a late medieval context ) for Nicholas Copernicus ' own work . 
+The latter looked backward upon inherited deficiencies . 
+Without abandoning too much , Copernicus sought to make orthodox astronomy systematically and mechanically acceptable . 
+He did not think himself to be firing the first shot of an intellectual revolution . 

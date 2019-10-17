@@ -1,0 +1,86 @@
+The following items may be specified in actual or symbolic form in the operands of those instructions which refer to the particular items : channel , unit , combined channel and unit , combined arm and file , unit record synchronizers , inquiry synchronizers , and alteration switches . 
+The declarative operation EQU is used to equate symbolic names to item numbers ( see page 85 ) . 
+Continuation cards Certain Autocoder statements make provision for more parameters than may be contained in the operand ( columns 21 - 75 ) of a single line on the Autocoder coding sheet . 
+When this is the case , the appropriate section of this manual will indicate that " Continuation Cards " may be used . 
+Thus , when specifically permitted , the operand of a given line on the Autocoder coding sheet may be continued in the operand of from one to four additional lines which immediately follow . 
+The label and operation columns must be blank and the continuation of the operand must begin in column 21 ; ; i.e. , it must be left-justified in the operand column of the coding sheet . 
+The operand need not extend across the entire operand column of either the header card or continuation cards but may end with the comma following any parameter . 
+Remarks may appear to the right of the last parameter on each card provided they are separated from the operand by at least two blank spaces . 
+Illustrations of the use of continuation cards are included throughout the examples illustrating the various statements . 
+If a continuation card follows a statement that does not permit continuation cards , the compiler will generate a NOP and issue an error message . 
+Additional restrictions regarding the use of continuation cards with macro-instructions appear on page 106 . 
+Reservation of index words and electronic switches The assignment of actual addresses to symbolic index word and electronic switch names occurs in Phase 3 , of the Autocoder processor . 
+The initial availability of index words and electronic switches is determined by a table which is included in the Compiler Systems Tape . 
+This table originally indicates that index words 1 through 96 and electronic switches 1 through 30 are available for assignment to symbolic references ; ; index words 97 through 99 are not available . 
+The initial setting of this table may be altered , however , as described in the 70707074 Data Processing System Bulletin " IBM 70707074 Compiler System : Operating Procedure " , form A[fj] . 
+During the first pass of Phase 3 , , references to the actual addresses of index words and electronic switches are collected and the availability table is updated . 
+At the end of this pass , the table indicates which index words and electronic switches are not available for assignment to symbolic references . 
+Both index words and electronic switches may have been made unavailable before the start of assignment in one of the following ways . 
+1 . 
+The initial setting of the availability table indicated that the index word or electronic switch was not available for assignment . 
+2 . 
+The one - or two-digit number of the index word or electronic switch was used in the operand of a symbolic machine instruction to specify indexing or as a parameter which is always an index word or electronic switch , e.g. , 3 . 
+The one - or two-digit number of the index word or electronic switch was used in the operand of an EQU statement , e.g. , When the index words or electronic switches are reserved because of actual usage in the statements described above , the position or order of the statements within the program is not important ; ; any such reference will make the index word or electronic switch unavailable at the end of this pass . 
+During the assignment pass of Phase 3 , , index words and electronic switches are reserved as they are encountered during assignment . 
+Index words and electronic switches may be reserved in the following ways . 
+The first two methods apply to both index words and electronic switches ; ; the third applies only to index words . 
+1 . 
+During the assignment pass , each instruction is examined for reference to the symbolic name of an index word or electronic switch . 
+When such a reference is found , an actual address is assigned and the availability table is changed so that the assigned index word or switch is no longer available for later assignment . 
+2 . 
+If the one - or two-digit address of an index word or electronic switch is used or is included in the operand of an XRESERVE or SRESERVE statement ( see page 99 ) , the corresponding index word or electronic switch is reserved . 
+3 . 
+If a statement has been assigned an address in the index word area by means of an actual label or by means of an origin statement which refers to an actual address , the corresponding index word will be reserved . 
+These entries should normally appear at the beginning of the program or immediately following each LITORIGIN statement . 
+Otherwise , symbolic names may have previously been assigned to these same index words . 
+( This method does not apply to electronic switches . 
+) The preceding methods allow efficient use of index words and electronic switches during a sectionalized or multi-phase program , particularly when used in conjunction with the LITORIGIN statement . 
+Extreme caution should be used , however , to avoid the conflicting usage of an index word or electronic switch which may result from the assignment of more than one name or function to the same address . 
+If the symbolic name or actual address of an index word or electronic switch appears or is included in the operand of an XRELEASE or SRELEASE statement ( see page 101 ) , the specified index word or electronic switch will again be made available , regardless of the method by which it was reserved . 
+It will not , however , be used for symbolic assignment until all other index words or electronic switches have been assigned for the first time . 
+If , at any time during the assignment pass , the compiler finds that there are no more index words available for assignment , the warning message " No More Index Words Available " will be placed in the object program listing , the table will be altered to show that index words 1 through 96 are available , and the assignment will continue as before . 
+If the compiler finds that there are no more electronic switches available for assignment , the warning message " No More Electronic Switches Available " will be placed in the object program listing , the table will be altered to show that electronic switches 1 through 30 are available , and assignment will continue as before . 
+The resultant conflicting usage of index words or electronic switches may be avoided by reducing the number of symbolic names used , e.g. , through the proper use of the EQU , XRELEASE , or SRELEASE statements . 
+As noted in Appendix C , index words 97 through 99 are never available for assignment to symbolic names by the compiler ; ; also , index words 93 through 96 may have been made unavailable for assignment . 
+Declarative statements Autocoder declarative statements provide the processor with the necessary information to complete the imperative operations properly . 
+Declarative statements are never executed in the object program and should be separated from the program instruction area , placed preferably at its beginning or end . 
+Otherwise , special care must be taken to branch around them so that the program will not attempt to execute something in a data area as an instruction . 
+If the compiler does encounter such statements , a warning message will be issued . 
+70707074 Autocoder includes the following declarative statements : DA ( Define Area ) , DC ( Define Constant ) , DRDW ( Define Record Definition Word ) , DSW ( Define Switch ) , DLINE ( Define Line ) , EQU ( Equate ) , CODE,DTF ( Define Tape File ) , DIOCS ( Define Input Control System ) , and DUF ( Descriptive Entry For Unit Records ) . 
+DA , DC , DTF , and DLINE require more than one entry . 
+The DA statement is used to name and define the positions and length of fields within an area . 
+The DC statement is used to name and enter constants into the object program . 
+Since the 7070 and 7074 make use of record definition words ( RDWS ) to read , write , move , and otherwise examine blocks of storage , the DA and DC statements provide the option of generating RDWS automatically . 
+When so instructed , Autocoder will generate one or more RDWS and assign them successive locations immediately preceding the area with which they are to be associated . 
+An RDW will be of the form A[fj] , where xxxx is the starting location of the area and yyyy is its ending location . 
+These addresses are calculated automatically by the processor . 
+In some cases , it may be more advantageous to assign locations to RDWS associated with DA and DC areas in some other part of storage , i.e. , not immediately preceding the DA or DC areas . 
+The DRDW statement may be used for this purpose . 
+The DRDW statement may also be used to generate an RDW defining any area specified by the programmer . 
+As many as ten digital switches may be named and provided by the DSW statement for consideration by the SETSW and logic macro-instructions . 
+Each switch occupies one digit position in a word , can be set on or off , and is considered as logically equivalent to an electronic switch . 
+It can not , however , be referred to by electronic switch commands , e.g. , ESN , BSN , etc. . An individual switch or the entire set of switches in a word may be tested or altered as desired . 
+Through use of the DLINE statement , a means is provided for specifying both the editing of fields to be inserted in a print line area and the layout of the area itself . 
+The area may include constant information supplied by the programmer . 
+The area may also be provided with additional data during the running of the object program by means of EDMOV or move macro-instructions . 
+The declarative statement EQU permits the programmer to equate symbolic names to actual index words , electronic switches , arm and file numbers , tape channel and unit numbers , alteration switches , etc. , and to equate a symbol to another symbol or to an actual address . 
+The DIOCS , DTF , and DUF statements are used when required by the Input Control System . 
+DIOCS is used to select the major methods of processing to be used , and to name the index words used by A[fj] . 
+Each tape file must be described by Tape File Specifications , produced by A[fj] . 
+In addition to information related to the file and its records , the File Specifications contain subroutine locations and the location of tape label information . 
+A DUF entry must be supplied for every unit record file describing the type of file and the unit record equipment to be used . 
+The DUF also supplies the locations of subroutines written by the user that are unique to the file . 
+A full description of the DIOCS , DTF , and DUF statements is contained in the 7070 Data Processing System Bulletin " IBM 7070 Input Control System " , form A[fj] . 
+Brief descriptions of these three declarative statements and detailed descriptions of the formats and functions of each of the other 70707074 Autocoder declarative statements follow below . 
+diocs -- define input control system When the Input Control System is to be used in a program , a DIOCS statement must be used to select the major methods of processing to be used . 
+This statement also allows the naming of the index words used by A[fj] . 
+Source program format The basic format of the DIOCS statement is as follows : anylabel is any symbolic label ; ; it may be omitted . 
+The entry DIOCS must be written exactly as shown . 
+The first item in the operand , IOCSIXF , is used to specify the first IOCS index word for programs using tape files . 
+This item may be a symbolic name or an actual one-digit or two-digit index word address in the range 3 - 94 . 
+If the first item in the operand is omitted , the symbolic name IOCSIXF will be assigned . 
+When an actual index word or a symbolic address is specified , Autocoder will equate the name IOCSIXF to it . 
+The second item in the operand , IOCSIXG , is used to specify the second IOCS index word for programs using tape files . 
+This item may be a symbolic name or an actual one-digit or two-digit index word address in the range 3 - 94 . 
+If the second item in the operand is omitted , the symbolic name IOCSIXG will be assigned . 
+When an actual index word or a symbolic address is specified , Autocoder will equate IOCSIXG to it . 

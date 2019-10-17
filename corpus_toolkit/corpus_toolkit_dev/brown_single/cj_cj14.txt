@@ -1,0 +1,93 @@
+Interestingly enough , the effect of the digitalis glycosides is inhibited by a high concentration of potassium in the incubation medium and is enhanced by the absence of potassium ( Wolff , 1960 ) . 
+B. Organification of iodine The precise mechanism for organification of iodine in the thyroid is not as yet completely understood . 
+However , the formation of organically bound iodine , mainly mono-iodotyrosine , can be accomplished in cell-free systems . 
+In the absence of additions to the homogenate , the product formed is an iodinated particulate protein ( Fawcett and Kirkwood , 1953 ; ; Taurog , Potter and Chaikoff , 1955 ; ; Taurog , Potter , Tong , and Chaikoff , 1956 ; ; Serif and Kirkwood , 1958 ; ; De Groot and Carvalho , 1960 ) . 
+This iodoprotein does not appear to be the same as what is normally present in the thyroid , and there is no evidence so far that thyroglobulin can be iodinated in vitro by cell-free systems . 
+In addition , the iodoamino acid formed in largest quantity in the intact thyroid is di-iodotyrosine . 
+If tyrosine and a system generating hydrogen peroxide are added to a cell-free homogenate of the thyroid , large quantities of free mono-iodotyrosine can be formed ( Alexander , 1959 ) . 
+It is not clear whether this system bears any resemblance to the in vivo iodinating mechanism , and a system generating peroxide has not been identified in thyroid tissue . 
+On chemical grounds it seems most likely that iodide is first converted to A[fj] and then to A[fj] as the active iodinating species . 
+In the thyroid gland it appears that proteins ( chiefly thyroglobulin ) are iodinated and that free tyrosine and thyronine are not iodinated . 
+Iodination of tyrosine , however , is not enough for the synthesis of hormone . 
+The mono - and di-iodotyrosine must be coupled to form tri-iodothyronine and thyroxine . 
+The mechanism of this coupling has been studied in some detail with non-enzymatic systems in vitro and can be simulated by certain di-iodotyrosine analogues ( Pitt-Rivers and James , 1958 ) . 
+There is so far no evidence to indicate conclusively that this coupling is under enzymatic control . 
+The chemical nature of the iodocompounds is discussed below ( pp. 76 et seq . 
+) . 
+C . 
+Thyroglobulin synthesis Little is known of the synthetic mechanisms for formation of thyroglobulin . 
+Its synthesis has not been demonstrated in cell-free systems , nor has its synthesis by systems with intact thyroid cells in vitro been unequivocally proven . 
+There is some reason to think that thyroglobulin synthesis may proceed independently of iodination , for in certain transplantable tumours of the rat thyroid containing essentially no iodinated thyroglobulin , a protein that appears to be thyroglobulin has been observed in ultracentrifuge experiments ( Wolff , Robbins and Rall , 1959 ) . 
+Similar findings have been noted in a patient with congenital absence of the organification enzymes , whose thyroid tissue could only concentrate iodide . 
+In addition , depending on availability of dietary iodine , thyroglobulin may contain varying quantities of iodine . 
+D . 
+Secretion Since the circulating thyroid hormones are the amino acids thyroxine and tri-iodothyronine ( cf. Section C ) , it is clear that some mechanism must exist in the thyroid gland for their release from proteins before secretion . 
+The presence of several proteases and peptidases has been demonstrated in the thyroid . 
+One of the proteases has pH optimum of about 3.7 and another of about 5.7 ( McQuillan , Stanley and Trikojus , 1954 ; ; Alpers , Robbins and Rall , 1955 ) . 
+The finding that the concentration of one of these proteases is increased in thyroid glands from TSH-treated animals suggests that this protease may be active in vivo . 
+There is no conclusive evidence yet that either of the proteases has been prepared in highly purified form nor is their specificity known . 
+A study of their activity on thyroglobulin has shown that thyroxine is not preferentially released and that the degradation proceeds stepwise with the formation of macromolecular intermediates ( Alpers , Petermann and Rall , 1956 ) . 
+Besides proteolytic enzymes the thyroid possesses de-iodinating enzymes . 
+A microsomal de-iodinase with a pH optimum of around 8 , and requiring reduced triphosphopyridine nucleotide for activity , has been identified in the thyroid ( Stanbury , 1957 ) . 
+This de-iodinating enzyme is effective against mono - and di-iodotyrosine , but does not de-iodinate thyroxine or tri-iodothyronine . 
+It is assumed that the iodine released from the iodotyrosines remains in the iodide pool of the thyroid , where it is oxidised and re-incorporated into thyroglobulin . 
+The thyroxine and tri-iodothyronine released by proteolysis and so escaping de-iodination presumably diffuse into the blood stream . 
+It has been shown that thyroglobulin binds thyroxine , but the binding does not appear to be particularly strong . 
+It has been suggested that the plasma thyroxine-binding proteins , which have an extremely high affinity for thyroxine , compete with thyroglobulin for thyroxine ( Ingbar and Freinkel , 1957 ) . 
+E . 
+Antithyroid drugs Antithyroid drugs are of two general types . 
+One type has a small univalent anion of the thiocyanate-perchlorate-fluoro type . 
+This ion inhibits thyroid hormone synthesis by interfering with iodide concentration in the thyroid . 
+It does not appear to affect the iodinating mechanism as such . 
+The other group of antithyroid agents or drugs is typified by thiouracil . 
+These drugs have no effect on the iodide concentrating mechanism , but they inhibit organification . 
+The mechanism of action of these drugs has not been completely worked out , but certain of them appear to act by reducing the oxidised form of iodine before it can iodinate thyroglobulin ( Astwood , 1954 ) . 
+On the other hand , there are a few antithyroid drugs of this same general type , such as resorcinol , possessing no reducing activity and possibly acting through formation of a complex with molecular iodine . 
+Any of the antithyroid drugs , of either type , if given in large enough doses for a long period of time will cause goitre , owing to inhibition of thyroid hormone synthesis , with production of hypothyroidism . 
+The anterior lobe of the pituitary then responds by an increased output of TSH , causing the thyroid to enlarge . 
+The effect of drugs that act on the iodide-concentrating mechanism can be counteracted by addition of relatively large amounts of iodine to the diet . 
+The antithyroid drugs of the thiouracil type , however , are not antagonised by such means . 
+Besides those of the thiouracil and resorcinol types , certain antithyroid drugs have been found in naturally occurring foods . 
+The most conclusively identified is L-5-vinyl-2-thio-oxazolidone , which was isolated from rutabaga ( Greer , 1950 ) . 
+It is presumed to occur in other members of the Brassica family . 
+There is some evidence that naturally occurring goitrogens may play a role in the development of goitre , particularly in Tasmania and Australia ( Clements and Wishart , 1956 ) . 
+There it seems that the goitrogen ingested by dairy animals is itself inactive but is converted in the animal to an active goitrogen , which is then secreted in the milk . 
+F . 
+Dietary influences Besides the presence of goitrogens in the diet , the level of iodine itself in the diet plays a major role in governing the activity of the thyroid gland . 
+In the experimental animal and in man gross deficiency in dietary iodine causes thyroid hyperplasia , hypertrophy and increased thyroid activity ( Money , Rall and Rawson , 1952 ; ; Stanbury , Brownell , Riggs , Perinetti , Itoiz , and Del Castillo , 1954 ) . 
+In man the normal level of iodine in the diet and the level necessary to prevent development of goitre is about 100 \*\* ymg per day . 
+With lower levels , thyroid hypertrophy and increased thyroid blood-flow enable the thyroid to accumulate a larger proportion of the daily intake of iodine . 
+Further , the gland is able to re-use a larger fraction of the thyroid hormone de-iodinated peripherally . 
+In the presence of a low iodine intake , thyroglobulin labelled in vivo with A[fj] is found to contain more mono-iodotyrosine than normal , the amounts of di-iodotyrosine and iodothyronines being correspondingly reduced . 
+This appears to result from both a reduced amount of the iodine substrate and a more rapid secretion of newly iodinated thyroglobulin . 
+If the deficiency persists long enough , it is reasonable to suppose that the A[fj] label will reflect the A[fj] distribution in the thyroglobulin . 
+Similar results might be expected from the influence of drugs or pathological conditions that limit iodide trapping , or organification , or accelerate thyroglobulin proteolysis . 
+B . 
+The thyroid-stimulating hormone The name thyroid-stimulating hormone ( TSH ) has been given to a substance found in the anterior pituitary gland of all species of animal so tested for its presence . 
+The hormone has also been called thyrotrophin or thyrotrophic hormone . 
+At the present time we do not know by what biochemical mechanism TSH acts on the thyroid , but for bio-assay of the hormone there are a number of properties by which its activity may be estimated , including release of iodine from the thyroid , increase in thyroid weight , increase in mean height of the follicular cells and increase in the thyroidal uptake of A[fj] . 
+Here we shall restrict discussion to those methods that appear sufficiently sensitive and precise for determining the concentration of TSH in blood . 
+Brown ( 1959 ) has reviewed generally the various methods of assaying TSH , and the reader is referred to her paper for further information on the subject . 
+1 . 
+Chemical constitution and physical properties of pituitary tsh As long ago as 1851 it was pointed out by Niepce ( 1851 ) that there is a connection between the pituitary and the thyroid . 
+This connection was clarified by Smith and Smith ( 1922 ) , who showed that saline extracts of fresh bovine pituitary glands could re-activate the atrophied thyroids of hypophysectomised tadpoles . 
+The first attempts to isolate TSH came a decade later , when Janssen and Loeser ( 1931 ) used trichloroacetic acid to separate the soluble TSH from insoluble impurities . 
+After their work other investigators applied salt-fractionation techniques to the problem , as well as fractionation with organic solvents , such as acetone . 
+Albert ( 1949 ) has concluded that the most active preparations of TSH made during this period , from 1931 to 1945 , were probably about 100 to 300 times as potent as the starting material . 
+Much of this work has been reviewed by White ( 1944 ) and by Albert ( 1949 ) . 
+Developments up to about 1957 have been discussed by Sonenberg ( 1958 ) . 
+In the last few years , the application of chromatographic and other modern techniques to the problem of isolating TSH has led to further purification ( Bates and Condliffe , 1960 ; ; Pierce , Carsten and Wynston , 1960 ) . 
+The most active preparations obtained by these two groups of investigators appear to be similar in potency , composition and physical properties . 
+Two problems present themselves in considering any hormone in blood . 
+First , is the circulating form of the hormone the same as that found in the gland where it is synthesised and stored ? ? 
+Second , what is its concentration in normal circumstances and in what circumstances will this concentration depart from the normal level and in which direction ? ? 
+It is therefore necessary to consider the properties of pituitary TSH if the fragmentary chemical information about blood TSH is to be discussed rationally . 
+The importance of knowing in what chemical forms the hormone may exist is accentuated by the recent observation that there exists an abnormally long-acting TSH in blood drawn from many thyrotoxic patients ( Adams , 1958 ) . 
+Whether this abnormal TSH differs chemically from pituitary TSH , or is , alternatively , normal TSH with its period of effectiveness modified by some other blood constituent , can not be decided without chemical study of the activity in the blood of these patients and a comparison of the substance responsible for the blood activity with pituitary A[fj] . 
+In evaluating data on the concentration of TSH in blood , one must examine critically the bio-assay methods used to obtain them . 
+The introduction of the United States Pharmacopoeia reference standard in 1952 and the redefinition and equating of the USP and international units of thyroid-stimulating activity have made it possible to compare results published by different investigators since that time . 
+We should like to re-emphasise the importance of stating results solely in terms of international units of TSH activity and of avoiding the re-introduction of biological units . 
+For the most part , this discussion will be confined to results obtained since the introduction of the reference standard . 
+A . 
+Standard preparations and units of thyroid-stimulating activity The international unit ( u. ) , adopted to make possible the comparison of results from different laboratories ( Mussett and Perry , 1955 ) , has been defined as the amount of activity present in 13.5 mg of the International Standard Preparation . 
+The international unit is equipotent with the USP unit adopted in 1952 , which was defined as the amount of activity present in 20 mg of the USP reference substance . 

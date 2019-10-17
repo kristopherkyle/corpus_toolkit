@@ -1,0 +1,97 @@
+A . 
+Reasons for selecting mail questionnaire method There were two methods that could have been used for conducting the study within the resources available : ( 1 ) interviews in depth with a few selected companies , and ( 2 ) the more limited interrogation of a large number of companies by means of a mail questionnaire . 
+While the method of interviewing a small number of companies was appealing because of the opportunity it might have furnished to probe fully the reasons and circumstances of a company 's practices and opinions , it also involved the risk of paying undue attention to the unique and peculiar problems of just a few individual companies . 
+As a result , it was decided that a mail questionnaire sent to a large number of companies would be more effective in determining the general practices and opinions of small firms and in highlighting some of the fundamental and recurring problems of defense procurement that concern both industry and government . 
+It was also hoped that responses to a mail questionnaire would suggest fruitful inquiries that might be made in subsequent studies of a more detailed nature . 
+It is recognized that a mail questionnaire has inherent limitations . 
+There is the danger that the questions will mean different things to different respondents . 
+Simple " yes " or " no " answers do not reveal the different shades of opinion that the various respondents may have . 
+A respondent may want to make alternative answers because he does not know the precise circumstances assumed in the question . 
+There is also the problem of the respondent 's frame of reference . 
+Is the respondent making a recommendation for his own benefit , for the benefit of his industry , for the benefit of a specific government department or service , for the benefit of the defense program , for the benefit of small business , or for the benefit of the taxpayers ? ? 
+There is also the question of whether the respondent based his answers on factual information and carefully considered judgment , or whether his answers were casual guesses . 
+Finally , there is the question of how strongly an expressed opinion is held -- whether it is a firm opinion or one that the respondent favors only slightly over the alternatives . 
+The research team was very mindful of these dangers and limitations of a mail questionnaire . 
+Under the circumstances , however , the team considered it would provide the most useful information at this point . 
+In the preparation of the questionnaire the problems noted above were carefully considered , and the structure and phraseology used were designed to minimize the effects of these limitations . 
+B . 
+Design of the questionnaire The questionnaire was designed to elicit three types of information : ( 1 ) the facts regarding certain characteristics of the respondents , including their experience with , and interest in , securing defense business ; ; ( 2 ) the actual selling and buying practices of the respondents ; ; and ( 3 ) the attitudes and opinions of the respondents concerning bidding procedures and the methods of awarding defense contracts . 
+It was hoped that the facts concerning the characteristics and practices of the respondents would offer clues to the reasons why they took the positions and made the recommendations which they did . 
+The major sections of the questionnaire ( see Appendix B ) are devoted to the following : 1 . 
+Information for classifying respondents ( Part A of the questionnaire ) 2 . 
+Characteristics of defense sales activities ( Part B of the questionnaire ) 3 . 
+Respondents ' practices in participating in advertised bidding for defense business ( Part C of the questionnaire ) 4 . 
+Respondents ' practices in participating in negotiated bidding for defense purposes ( Part D of the questionnaire ) 5 . 
+Respondents ' opinions regarding advertised bidding ( Part E of the questionnaire ) 6 . 
+Respondents ' opinions regarding negotiated bidding ( Part F of the questionnaire ) 7 . 
+Respondents ' preferences regarding the methods of awarding defense contracts ( Part G of the questionnaire ) The questionnaire provided a place for the name of the respondent but stated that identification of the respondent was optional . 
+The questionnaire also stated that , in any event , all replies would be treated confidentially . 
+It is interesting to note that 75 per cent of those who returned the questionnaire identified themselves . 
+C . 
+Preparation and pretest of the questionnaire The research team prepared and then revised the questionnaire over a period of six months . 
+In June , 1960 , an early draft of the questionnaire , along with a cover letter , was mailed to fourteen companies in the state of Washington . 
+Several days after the companies had received the questionnaire , members of the research team contacted the presidents of eleven of these companies in person or by phone to discuss any ambiguities or difficulties the addressees might have experienced in completing the questionnaire . 
+This test resulted in further revisions of the questionnaire . 
+The research team was concerned that responses from firms in the state of Washington might not be typical of those throughout the country , or that the results might be different when no phone or personal follow-up was made . 
+Accordingly , another test of the questionaire was made . 
+The revised draft was mailed in July , 1960 , to 100 firms throughout the United States . 
+Fifty of the 100 firms were selected on a random basis from 3,500 names submitted by member companies of the Aerospace Industries Association ( AIA list ) and fifty were selected in a similar manner from a list of 1,500 names compiled by the research team from the Thomas Register ( TR list ) . 
+The method of compiling the AIA and TR lists will be described later . 
+Ten days after the questionnaires were mailed , follow-up airmail postcards were sent urging those companies which had not yet returned their questionnaires to do so at once . 
+Twenty-eight returns in all were received . 
+The responses were carefully checked for obvious errors in the answers or for questions that were apparently not understood by the respondent . 
+The cover letter , questionnaire , and follow-up postcard were then revised into final form ( see Appendixes A , B , and C ) . D . 
+Compilation of mailing lists The objective of the study was to determine the opinions and practices of small firms selling to defense programs . 
+The firms to receive the questionnaires were selected with this objective in mind . 
+Three lists of companies were made and used in the study . 
+The first was a list of fourteen manufacturing companies located in the state of Washington which were personally known to the research team to be active in defense work . 
+The primary consideration in the compilation of this list was convenience in discussing the questionnaire with company officers . 
+The second list was derived from a group of approximately 8,000 names supplied to the research team by the Aerospace Industries Association . 
+These names were secured from member companies by the Association from the forty-four sources listed in Appendix A[fj] . 
+Each source selected from its approved bidders list about 200 firms which it believed to be small businesses that participated in the production of weapons and weapon support systems . 
+Where possible , the name of an executive was supplied along with the company name and address . 
+The forty-four lists supplied by the AIA member companies were merged and duplicate names were eliminated . 
+There was further elimination of all companies that were not accompanied by the name of a responsible company executive . 
+The remaining names were then checked against the Thomas Register list ( see below ) and duplicate names were removed from the AIA lists . 
+By these steps the final AIA list was reduced from 8,000 to 3,500 . 
+The third list was selected by the research team on a random basis from the Thomas Register . 
+It was compiled as a control sample to determine if the opinions and practices of companies on the lists submitted by the members of the Aerospace Industries Association were materially different from those of other small firms selling to defense programs . 
+Such a difference might have resulted from : 1 . 
+The fact that the Aerospace Industries Association members whose lists were used did not comprise all firms engaged in defense programs . 
+2 . 
+The fact that companies on the AIA lists were already participating in the defense program because of the manner of their selection . 
+Accordingly , as " in-group " , they might have different opinions and practices than an " out-group " composed of those companies not so participating but interested in defense business . 
+3 . 
+The fact that AIA lists might not have been selected on a random basis . 
+The control sample was selected by taking the bottom name of each of the two columns of names on each page of the alphabetical listing of manufacturers in the Thomas Register . 
+If the bottom name in each column did not have a responsible executive identified , the next name above which identified such a responsible executive was substituted . 
+Fifteen hundred names were selected in this fashion . 
+E . 
+Mailing the questionnaire Each questionnaire was mailed with a cover letter addressed personally to the president or other executive of each firm . 
+The questionnaires were mailed in Seattle , Washington , and sent by regular mail to addresses in the states of Idaho , Montana , Oregon , and Washington . 
+Airmail was used for the addresses outside the Pacific Northwest . 
+Each letter contained a postage-prepaid return envelope by regular mail for addresses in the Pacific Northwest , and by airmail for those outside the Pacific Northwest . 
+Approximately ten days after the questionnaire was mailed , a follow-up airmail postcard was sent to each of the original names . 
+The first test mailing ( to 14 companies ) was made in June , 1960 . 
+The second test mailing ( to 100 companies ) was made in July , 1960 . 
+The final mailing of the questionnaire was made late in August , 1960 , to 4,900 firms consisting of 3,450 from the AIA list and 1,450 from the TR list . 
+F . 
+Returns received Over 1,000 returns were received within two weeks after the final mailing was made . 
+They continued to arrive until the end of December , 1960 , by which time a total of 1,343 returns were received representing 26.8 per cent of the 5,014 questionnaires sent out . 
+Fifty-seven returns could not be used because they were incomplete or received too late to be processed . 
+The remaining 1,286 returns that were processed came from the categories in Table 2 . 
+G . 
+Processing the returns Each questionnaire was audited for obvious mistakes and for comments , and was identified by a serial number , by the source list from which the company name was selected , and by the geographical location of the company as determined by the postmark on the return envelope . 
+All responses , except comments , were numerically coded to permit use of data-processing equipment . 
+The codes were key-punched into IBM punch cards and verified . 
+Each return required three cards and involved key punching 228 digital columns . 
+In order to be able to properly relate the data for a single company each of the three cards comprising the set for each firm was identified with the appropriate serial number of the respondent . 
+The cards were then processed using standard IBM punch card equipment , including an IBM 650 computer . 
+The first step in processing was to analyze the returns from Questions 1 , 2 , and 3 to determine whether the respondents were large businesses or small businesses , in accordance with the definitions contained in ASPR Section 1-701 . 
+( see Chapter 2 . 
+) The results are shown in Table 3 . 
+The returns from companies classified as large businesses were set aside and not used because they were not relevant to a study of the opinions and practices of small firms . 
+The second step in processing was to compare the responses from companies on the AIA list with those from companies on the TR list in order to determine whether it would be appropriate to merge the responses for the purposes of the study . 
+The methods and results of this comparative analysis are described in Appendix A[fj] . 
+It was concluded that it would be appropriate to process the two groups of responses as a single sample of all small businesses engaged in , or wishing to sell to , defense programs . 
+In the first place , the two groups of firms , when combined , had characteristics and practices that were more representative of companies that were the subject of this study than did the firms from the AIA list alone . 

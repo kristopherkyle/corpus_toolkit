@@ -1,0 +1,81 @@
+In the final accounting , these would have augmented the bill for both sides . 
+An estimate of one million dollars is probably not excessive . 
+Yet the huge amount of money consumed by the Selden litigation , which many regarded as wasteful , indirectly contributed to constructive changes in legal procedure . 
+The duration and other circumstances of the Selden case made it a flagrant example of the gross abuses of patent infringement actions . 
+The suit , as we have seen , came before the courts when patent attorneys , inventors , and laymen were making mounting demands for reforms in the American patent system . 
+Chief among the defects they singled out were the complicated and wearisome procedures in equity . 
+In a long and angry footnote to his opinion , Judge Hough had lent the weight of judicial condemnation to such criticism . 
+" It is a duty " , said Hough , " not to let pass this opportunity of protesting against the methods of taking and printing testimony in Equity , current in this circuit ( and probably others ) , excused if not justified by the rules of the Supreme Court , especially to be found in patent causes , and flagrantly exemplified in this litigation . 
+As long as the bar prefers to adduce evidence by written deposition , rather than viva voce before an authoritative judicial officer , I fear that the antiquated rules will remain unchanged , and expensive prolixity remain the best known characteristic of Equity " . 
+Observing that " reforms sometimes begin with the contemplation of horrible examples " , Hough catalogued the many abuses encouraged by existing procedures . 
+He cited the elephantine dimensions of the Selden case record ; ; the duplication of testimony and exhibits ; ; the numerous squabbles over minor matters ; ; the " objections stated at outrageous length " ; ; and the frequent and rancorous verbal bouts , " uncalled for and unjustifiable , from the retort discourteous to the lie direct " . 
+The fundamental difficulty of which the Selden case was " a striking ( though not singular ) example " , concluded Hough , " will remain as long as testimony is taken without any authoritative judicial officer present , and responsible for the maintenance of discipline , and the reception or exclusion of testimony " . 
+Not least among the members of the patent bar who echoed this powerful indictment were those who had participated in the Selden suit . 
+William A. Redding asserted that if the case had been heard in open court under rules of evidence , the testimony would have been completed in sixty days instead of five years . 
+Inventors joined lawyers in the clamor for reform , inevitably centering upon the Selden litigation as a " horrible example " . 
+Its costive deliberations were likened to those of the British courts of chancery mercilessly caricatured by Dickens in Bleak House . 
+Parker , who agreed with much of this criticism , did not conceal his dissatisfaction with procedural defects . 
+But he felt that the Selden case was being unfairly pilloried . 
+In a detailed letter published in the Scientific American in 1912 , he remarked that " loose statements " about the case showed scant understanding of the facts . 
+The suit , although commonly designated as a single action , actually embraced five cases . 
+Parker insisted that the size of the record would have been drastically reduced but for an unavoidable duplication of testimony . 
+In a private communication written in 1911 , Parker had been more to the point . 
+Noting the complaints of inventors and members of the patent bar , he admitted that some of the strictures " were fairly well founded " , but he added that under existing rules the courts could not consolidate testimony in a group of suits involving separate infringements of the same patent . 
+The vast industrial interests caught up in the Selden suit , as well as the complex character of the automotive art , encouraged both sides to exploit " every possible chance " for or against the patent , said Parker . 
+" This very seldom happens in this class or in other cases , and of course all of these matters led to a volume and an expense of the record beyond what ordinarily would occur " . 
+Parker listed the remedies he deemed essential for reducing the cost and mass of testimony . 
+The most important of these found him in agreement with Hough 's plea for reform . 
+Parker called for abolition of the indiscriminate or uncontrolled right of taking depositions before officers of the court who had no authority to limit testimony . 
+The taking of depositions , he suggested , should be placed under a special court examiner empowered to compel responsive and relevant answers and to exclude immaterial testimony . 
+" I am satisfied that in the Selden case had this power existed and this course ( been ) pursued , it would have shortened the depositions of some of the experts nearly one-half and of some of the other witnesses thereto more than that " . 
+In the end Hough 's acidulous protest , which Parker called the " now somewhat famous note on this ' Selden ' case " , did not go unheeded . 
+In 1912 the United States Supreme Court adopted a new set of rules of equity which became effective on February 1 , 1913 . 
+The revised procedure was acclaimed as a long-overdue reform . 
+Under the new rules , testimony is taken orally in open court in all cases except those of an extraordinary character . 
+Other expeditious methods are designed to prevent prolixity , limit delays , and reduce the expense of infringement suits . 
+One of the A.L.A.M. lawyers observed that if the Selden case had been tried under this simplified procedure , the testimony which filled more than a score of volumes , " at a minimum cost of $ 1 a page for publication alone , could have been contained in one volume " . 
+While patent suits are still among the most complex and expensive forms of litigation , these rules have saved litigants uncounted sums of money . 
+There is little doubt that they were promulgated by the Supreme Court as a direct result of the Selden patent suit . 
+3 . 
+Even before it was formally dissolved in 1912 , the A.L.A.M. was succeeded by the Automobile Board of Trade , the direct lineal ancestor of the present-day Automobile Manufacturers Association . 
+The trade bodies which came in the wake of the A.L.A.M. were more representative , for they never adopted a policy of exclusion . 
+Nevertheless , it is from the Selden organization that the industry inherited its institutional machinery for furthering the broader interests of the trade . 
+One of the chief features of this community of interest is the automotive patents cross-licensing agreement , a milestone in the development of American industrial cooperation . 
+Its origin lies in the Selden patent controversy and its aftermath . 
+From the earliest days of the motor car industry , before the A.L.A.M. was established , patent infringement loomed as a serious and vexing problem . 
+Many patent contests were waged over automobile components and accessories , among them tires , detachable rims , ball bearings , license brackets , and electric horns . 
+The fluidity and momentum of the young industry abetted a general disregard of patent claims . 
+As early as 1900 a Wall Street combination acquired detail patents with the intention of exacting heavy tribute from automobile manufacturers . 
+This scheme failed , and the following decade brought a deluge of infringement suits among individual manufacturers that reached its crest in 1912 . 
+In this tangle of conflicting claims , the patent-sharing scheme adopted by the A.L.A.M. at its founding proved to be the best device for avoiding or mitigating the burdens of incessant litigation . 
+The interchange of shop licenses for a nominal royalty eliminated infringement suits among the members of the A.L.A.M. patent pool ( although it did not protect them against outside actions ) and kept open channels for the cross-fertilization of automotive technology . 
+One of the conditions of the pool was a prohibition upon the withholding of patent rights among A.L.A.M. members . 
+Within its limits , this arrangement had the actual or potential characteristics of a cross-licensing agreement . 
+Its positive features outweighed the fact that the pool was an adjunct of a wouldbe monopoly . 
+Since the A.L.A.M. holdings embraced only about twenty-five per cent of motor vehicle patents , the denial of rights to independent companies did not retard technical progress in unlicensed sectors of the industry . 
+The highly important Dyer patents on the sliding gear transmission were held by the A.L.A.M. pool . 
+But Henry Ford used the planetary transmission in his Model T and earlier cars and , in 1905 , as a precautionary measure , took out a license from the man who claimed to be its inventor . 
+For those affiliated with it , the A.L.A.M. pool was a haven from the infringement actions involving detail patents that beset the industry with mounting intensity after 1900 . 
+By 1910 the courts were crowded with cases , many of them brought by freebooters who trafficked in disputed inventions . 
+It was commonplace for auto makers , parts-suppliers , and dealers to find warning notices and threats of infringement suits in their daily mail . 
+" Purely from the business man 's standpoint and without regard to the lawyer 's view " , commented a trade journal , " the matter of patents in the automobile and accessory trade is developing some phases and results that challenge thought as to how far patents are to become weapons of warfare in business , instead of simple beneficient protection devices for encouraging inventive creation " . 
+Occasionally new enterprise was discouraged by the almost certain prospect of legal complications . 
+One manufacturer who held an allegedly basic patent said : " I would readily put over $ 50,000 into the manufacture of the device , but it is so easy to make that we would enter immediately into a prolonged ordeal of patent litigation which would eat up all our profits " . 
+The prevailing view in the industry was summed up in 1912 by a group of auto makers who told a Senate committee : " The exceedingly unsatisfactory and uselessly expensive conditions , including delays surrounding legal disputes , particularly in patent litigation , are items of industrial burden which must be written large in figures of many millions of dollars of industrial waste " . 
+By that time it was commonly agreed that patent warfare was sapping constructive achievement and blocking the free exchange of technical information . 
+At this point Charles C. Hanch , long an advocate of patent peace in the industry , became chairman of the patents committee of the National Automobile Chamber of Commerce , successor to the Automobile Board of Trade . 
+Hanch was treasurer of the Nordyke & Marmon Company , an Indianapolis firm which had manufactured flour-milling machinery before producing the Marmon car in 1904 . 
+He had first-hand knowledge of the patent wars which had driven about ninety per cent of the milling equipment makers out of business in the mid-1890 's . 
+Anxious to avoid a similar debacle in the motor car industry , Hanch went to Detroit in 1909 to enlist the support of leading A.L.A.M. members for an industry-wide patent-sharing plan . 
+The breach created by the Selden patent doomed his proposal , but Hanch did not abandon his scheme . 
+After the demise of the A.L.A.M. , the time was propitious for establishing such a pool . 
+Most manufacturers were now disposed to heed a proposal for the formal interchange of patents . 
+" It is a much easier course to agree to let one another alone so far as ordinary patents are concerned " , said a trade authority , " than to continue the costly effort of straightening the tangle in the courts or seeking to reform the patent system , which appears to be getting into deeper confusion every day " . 
+With the other members of the patents committee -- Wilfred C. Leland , Howard E. Coffin , Windsor T. White , and W.H. Vandervoort -- Hanch drafted a cross-licensing agreement whose essential feature of royalty-free licensing was his own contribution . 
+The plan was supported by Frederick P. Fish , counsel for the National Automobile Chamber of Commerce . 
+It will be recalled that in his summation for the A.L.A.M. before Judge Hough , Fish had condemned patent litigation as the curse of the American industrial community . 
+He was well aware that some inventors and their allies used their patents solely for nuisance value . 
+" My personal view is that not one patented invention in ten is worth making " , he later told a Congressional committee . 
+The eloquent persuasions of Fish guaranteed the adoption of the plan by the members of the automotive trade association . 
+Drawn up in 1914 , the cross-licensing agreement became effective in 1915 . 
+It remained in force for ten years and has been renewed at five-year intervals since 1925 . 

@@ -1,0 +1,87 @@
+Mr. Justice Black was one of the minority that rested on the Article 1 , power . 
+In this view , supported by only three members of the Court , a power denied by the specific provisions of Article 3 , was granted by the generality of Article 1 . 
+If this seems arbitrary , its effect was to treat citizens of the District of Columbia equally with citizens of the states -- at the expense of expanding a troublesome jurisdiction . 
+Federal question jurisdiction For almost a hundred years we relied upon state courts ( subject to review by the Supreme Court ) for the protection of most rights arising under national law . 
+Then in 1875 , apparently in response to the nationalizing influence of the Civil War , Congress first gave the lower federal courts general authority -- concurrently with state tribunals -- to decide cases involving federal-right questions . 
+One purpose of the change was to attain sympathetic enforcement of rights insured by the Civil War amendments against state interference . 
+Serious difficulty arose with the advent of Substantive Due Process . 
+An amendment , presumably designed to deal with the problems of newly freed slaves , became a " laissez-faire " limitation upon state economic policy . 
+A flood of federal lower court injunctions seriously impeded the processes of local government . 
+Congress reacted with a series of measures modifying in various ways what it had granted in 1875 . 
+In 1910 it required the convening of a special three-judge court for the issuance of certain injunctions and allowed direct appeals to the Supreme Court . 
+Such legislation was clarified and extended from time to time thereafter . 
+In 1913 an abortive provision was made for the stay of federal injunction proceedings upon institution of state court test cases . 
+The essential ineffectiveness of these measures resulted in 1934 in substantial elimination of federal jurisdiction to enjoin state public utility rate orders . 
+Three years later similar restraints were imposed upon injunctions against collection of state taxes . 
+This saved for state adjudication , in the first instance , the two major areas where federal injunctions had been most obnoxious , but other areas remained vulnerable . 
+Meanwhile , the Supreme Court , like Congress , showed misgivings concerning this aspect of government by injunction . 
+Drawing upon the traditional discretion of the chancellor , Mr. Justice Holmes introduced a series of self-imposed judicial restraints that culminated in Mr. Justice Frankfurter 's famous doctrine of abstention . 
+Whereas the earlier cases turned rather narrowly upon the availability of adequate state remedies , the new emphasis is upon the nature of the state policy at issue . 
+The classic case is Railroad Commission v. Pullman . 
+The commission had issued an administrative order which was challenged as discriminatory against Negroes . 
+Its enforcement was enjoined by a federal trial court . 
+On review the Supreme Court , via Mr. Justice Frankfurter , found southern racial problems " a sensitive area of social policy on which the federal courts ought not to enter unless no alternative to adjudication is open " . 
+An alternative was found in the vagueness of state law as to whether the offending order had in fact been authorized . 
+Reluctant , as usual , to interpret state legislation -- such interpretation can only be a " forecast rather than a determination " -- Mr. Justice Frankfurter led a unanimous Court to vacate the injunction . 
+But it is crucial that here , unlike Burford , the trial court was ordered to retain the case until the state courts had had a reasonable opportunity to settle the state-law question . 
+" The resources of equity are equal to an adjustment that will avoid the waste of a tentative decision as well as the friction of a premature constitutional adjudication " . 
+Temporary abstention , i.e. , postponement , is one thing ; ; refusal to adjudicate is another . 
+To the extent that the jurisdictional principle of 1875 stands unmodified by subsequent legislation , federal equitable relief against state action must be available -- or so it seems to Mr. Justice Frankfurter . 
+In Alabama Public Service Commission v. Southern Ry. Co. , the commission had refused to permit abandonment of certain " uneconomic " train facilities . 
+The railroad , claiming deprivation of property without due process of law , sought injunctive relief . 
+The Court held that federal jurisdiction should not be exercised lest the domestic policy of the state be obstructed ; ; this in the name of equitable discretion . 
+Justices Frankfurter and Jackson concurred in the Court 's result , for they found no merit in the railroad 's claim . 
+But they objected vigorously to the proposition that federal courts may refuse to exercise jurisdiction conferred in a valid act of Congress : " By one fell swoop the Court now finds that Congress indulged in needless legislation in the acts of 1910 , 1913 , 1925 , 1934 and 1937 . 
+By these measures , Congress , so the Court ( in effect ) now decides , gave not only needless but inadequate relief , since it now appears that the federal courts have inherent power to sterilize the Act of 1875 against all proceedings challenging local regulation " . 
+A most revealing recent case is Textile Workers Union v. Lincoln Mills . 
+The Taft-Hartley Act gave the federal courts jurisdiction over " suits for violation of contracts between an employer and a labor organization representing employees in an industry affecting commerce " . 
+On its face this merely provides a federal forum ; ; it does not establish any law ( rights ) for the federal judges to enforce . 
+How can judges exercise jurisdiction to enforce national rights when Congress has created none ? ? 
+The Court held that Congress had intended the federal judiciary to " fashion " an appropriate law of labor-management contracts . 
+In short , congressional power to grant federal-question authority to federal courts is now apparently so broad that Congress need not create , or specify , the right to be enforced . 
+The Lincoln Mills decision authorizes a whole new body of federal " common law " which , as Mr. Justice Frankfurter pointed out in dissent , leads to one of the following " incongruities " : " ( ( 1 ) conflict in federal and state court interpretations of collective bargaining agreements ; ; ( 2 ) displacement of state law by federal law in state courts in all actions regarding collective bargaining agreements ; ; or ( 3 ) exclusion of state court jurisdiction over these matters " . 
+The Justice 's elaborate examination of the legislative history of the provision in question suggests that Congress ' purpose was merely to make unions suable . 
+With a few exceptions , the lawmakers seemed unaware of the technical problems of federal jurisdiction involved -- to say nothing of the delegation of lawmaking power to judges . 
+To avoid these constitutional difficulties , Mr. Justice Frankfurter was prepared to read the Taft-Hartley provision as concerned with diversity , rather than federal question , jurisdiction . 
+This would satisfy what presumably was Congress ' major purpose -- the suability of unions . 
+It would also leave intact the states ' traditional authority in the realm of contract law . 
+( As we have seen , the Erie and York decisions require federal courts in diversity cases to follow state decisional rules . 
+) Here again Mr. Justice Frankfurter could not lightly accept the principle of wholesale judicial legislation . 
+If Congress wants to displace the states from areas which they have customarily occupied , let it do so knowingly and explicitly . 
+And let it do its own lawmaking and not leave that to federal judges . 
+Does Lincoln Mills suggest that if Congress granted jurisdiction over interstate divorce cases , the federal courts would be authorized to fashion a national law for the dissolution of marriages ? ? 
+There is a common problem behind most of these federal question and diversity cases . 
+Congress has not clearly defined the bounds between state and federal court competence . 
+It has the power to do so but for the most part has left the matter for solution by judges on a case-by-case basis . 
+A careful student has suggested that " In any new revision ( of the Judicial Code ) the legislators would do well to remember that the allocation of power to the federal courts should be limited to those matters in which their expertise in federal law might be used , leaving to the state judiciaries the primary obligation of pronouncing state law " . 
+Obviously , the goal here proposed is the guiding principle in Mr. Justice Frankfurter 's opinions -- to the extent that Congress leaves the problem to judicial discretion . 
+The same rule of specialization and division of labor guides him in the FELA certiorari cases , in the administrative law area , and indeed in the whole realm of judicial review . 
+Mr. Justice Black no doubt concurs in principle but is more apt to make exceptions to achieve a generous and " just " result . 
+He will not be " fooled by technicalities " . 
+Federal review of state decisions With few exceptions , Congress has not given federal courts exclusive authority to enforce rights arising under federal law . 
+To put it differently , state and federal courts have concurrent jurisdiction with respect to most claims of federal right . 
+To insure uniformity in the meaning of national law , however , state interpretations are subject to Supreme Court review . 
+It may be noted , parenthetically , that to evade " desegregation " an ex-Justice and former southern governor has urged Congress to abolish this reviewing authority . 
+The result , of course , would be that federal law inevitably would mean different things in different states . 
+It would also probably mean different things within the same state -- depending upon what court ( state or federal ) rendered decision . 
+We consider here only a few of many problems involved in this crucial federal-state relationship . 
+The first is that enforcement of national law in state litigation raises in reverse the old diversity puzzle of the relation of procedure to substance . 
+Subject to certain constitutional restraints in favor of fair trials , each level of government is free to devise its own judicial procedures . 
+Litigants who choose to assert federal claims in a state court go into that court subject to its rules of procedure . 
+A similar canon applies to those who press state claims in federal tribunals , e.g. , in diversity cases . 
+In an FELA controversy the state court followed established state procedure by construing a vague complaint " most strongly against " the complainant . 
+In other words the burden of pleading clearly rested upon the pleader by state law . 
+The result was that the plaintiff 's case was dismissed . 
+Mr. Justice Black led a reversing majority : " Strict local rules of pleading can not be used to impose unnecessary burdens upon rights of recovery authorized by federal law " . 
+Here , as in the Byrd case , another element of state procedure was subsumed to federal judge-made law . 
+Justices Frankfurter and Jackson dissented : " One State may cherish formalities more than another , one State may be more responsive than another to procedural reforms . 
+If a litigant chooses to enforce a Federal right in a State court , he can not be heard to object if he is treated exactly as are plaintiffs who press like claims arising under State law with regard to the form in which the claim must be stated -- the particularity , for instance , with which a cause of action must be described . 
+Federal law , though invoked in a State court , delimits the Federal claim -- defines what gives a right to recovery and what goes to prove it . 
+But the form in which the claim must be stated need not be different from what the State exacts in the enforcement of like obligations created by it , so long as a requirement does not add to , or diminish , the right as defined by Federal law , nor burden the realization of this right in the actualities of litigation " . 
+Another problem in the area of federal-state relationships is this : what constitutes reversible error in a state decision ? ? 
+Terminiello v. Chicago involved a conviction for disorderly conduct under a local ordinance . 
+The conduct in question was a speech . 
+The accused did not object to the trial court 's charge to the jury that discourse " may constitute a breach of the peace if it stirs the public to anger , invites dispute , brings about a condition of unrest . 
+" For present purposes it may be assumed that this charge so narrowly limited speech as to violate the federal Constitution . 
+Though the accused raised many other objections , he did not object on this crucial point at any stage of the proceedings . 
+That is , he did not claim in any of the four courts through which his case progressed that the jury charge had denied him any federal right . 

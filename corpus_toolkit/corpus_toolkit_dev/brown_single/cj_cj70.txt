@@ -1,0 +1,114 @@
+In the Midwest , oxidation ponds are used extensively for the treatment of domestic sewage from suburban areas . 
+The high cost of land and a few operational problems resulting from excessive loadings have created the need for a wastewater treatment system with the operational characteristics of the oxidation pond but with the ability to treat more organic matter per unit volume . 
+Research at Fayette , Missouri on oxidation ponds has shown that the BOD in the treated effluent varied from 30 to 53 mg with loadings from 8 to 120 lb . 
+Since experience indicates that effluents from oxidation ponds do not create major problems at these BOD concentrations , the goal for the effluent quality of the accelerated treatment system was the same as from conventional oxidation ponds . 
+Recent studies by Weston and Stack had indicated that a turbine aerator could be added to an oxidation pond to increase the rate of oxygen transfer . 
+Their study showed that it was possible to transfer 3 to 4 lb of oxygen hr . 
+hp . 
+. 
+O'Connor and Eckenfelder discussed the use of aerated lagoons for treating organic wastes . 
+They indicated that a 4-day retention , aerated lagoon would give 60 to 76 per cent BOD reduction . 
+Later , Eckenfelder increased the efficiency of treatment to between 75 and 85 per cent in the summer months . 
+It appeared from the limited information available that the aerated lagoon might offer a satisfactory means of increasing the capacity of existing oxidation ponds as well as providing the same degree of treatment in a smaller volume . 
+Red Bridge Subdivision With the development of the Red Bridge Subdivision south of Kansas City , Missouri , the developer was faced with the problem of providing adequate sewage disposal . 
+The sewage system from Kansas City was not expected to serve the Red Bridge area for several years . 
+This necessitated the construction of temporary sewage treatment facilities with an expected life from 5 to 15 A[fj] . 
+For the initial development an oxidation pond was constructed as shown in Figure 1 . 
+The oxidation pond has a surface area of 4.77 acres and a depth of 4 A[fj] . 
+The pond is currently serving 1,230 persons or 260 persons per acre . 
+In the summer of 1960 the oxidation pond became completely septic and emitted obnoxious odors . 
+It was possible to maintain aerobic conditions in the pond by regular additions of sodium nitrate until the temperature decreased and the algae population changed from blue-green to green algae . 
+The anaerobic conditions in the existing oxidation pond necessitated examination of other methods for supplying additional oxygen than by sodium nitrate . 
+At the same time further expansion in the Red Bridge Subdivision required the construction of additional sewage treatment facilities . 
+The large land areas required for oxidation ponds made this type of treatment financially unattractive to the developer . 
+It was proposed that aerated lagoons be used to eliminate the problem at the existing oxidation ponds and to provide the necessary treatment for the additional development . 
+Pilot lagoon The lack of adequate data on the aerated lagoon system prompted the developer to construct an aerated lagoon pilot plant to determine its feasibility for treating domestic sewage . 
+The pilot plant was a circular lagoon 81 ft in diam at the surface and 65 ft in diam at the bottom , 4 ft below the surface , with a volume of 121,000 A[fj] . 
+The side slopes were coated with fiberglas matting coated with asphalt to prevent erosion . 
+The pilot lagoon was located as shown in Figure 1 to serve the area just south of the existing housing area . 
+The major contributor was a shopping center with houses being added to the system as the subdivision developed . 
+The pilot lagoon was designed to handle the wastes from 314 persons with a 4-day aeration period . 
+Initially , the wastewater would be entirely from the shopping center with the domestic sewage from the houses increasing over an 18-month period . 
+This operation would permit evaluation of the pilot plant , with a slowly increasing load , over a reasonable period of time . 
+The pilot plant was equipped with a 3-hp. turbine aerator ( Figure 2 ) . 
+The aerator had a variable-speed drive to permit operation through a range of speeds . 
+The sewage flow into the treatment plant was metered and continuously recorded on 24-hr. charts . 
+The raw sewage was introduced directly under the turbine aerator to insure maximum mixing of the raw sewage with the aeration tank contents . 
+The effluent was collected through two pipes and discharged to the Blue River through a surface drainage ditch . 
+Analyses Composite samples were collected at weekly intervals . 
+The long retention period and the complete mixing concept prevented rapid changes in either the mixed liquor or in the effluent . 
+Weekly samples would make any changes more readily discernible than daily samples . 
+The composite samples were normally collected over a 6-hr. period , but an occasional 24-hr. composite was made . 
+Examination of the operations of the shopping center permitted correlation of the 6-hr. composite samples with 24-hr. operations . 
+The data indicated that the organic load during the 6-hr. composites was essentially 50 per cent of the 24-hr. organic load . 
+Grab samples were collected from the existing oxidation pond to determine its operating conditions . 
+Efforts were made to take the grab samples at random periods so that the mass of data could be treated as a 6-hr. composite sample . 
+A single 24-hr. composite sample indicated that the sewage flow pattern and characteristics were typical . 
+Pilot plant operations The BOD of the influent to the pilot plant varied between 110 and 710 mg with an average of 350 A[fj] . 
+This was equivalent to 240 mg on a 24-hr. basis . 
+The BOD of the raw sewage was typical of domestic sewage from a subdivision . 
+The BOD in the effluent averaged 58 mg , a 76-per-cent reduction over the 24-hr. period . 
+Examination of the data in Table 1 , shows that a few samples contributed to raising the effluent A[fj] . 
+The periods of high effluent BOD occurred during cold periods when operational problems with the aerator resulted . 
+Ice caused the aerator to overload , straining the drive belts . 
+The slippage of the drive belts caused the aerator to slow down and reduce oxygen transfer as well as the mixing of the raw sewage . 
+The organic loading on the unit averaged 32 lb of BOD or about 2 lb BOD1,000 cu ft aeration capacity . 
+Needless to say , the organic load was very low on a volumetric basis , but was 270 lb BOD on a surface loading basis . 
+It seems that the aerated lagoon was a very heavily loaded oxidation pond or a lightly loaded activated sludge system . 
+The flow rate remained relatively constant during the winter months as shown in Table 1 . 
+With the spring rains the flow rose rapidly due to infiltration in open sewers . 
+As construction progresses , the volume of storm drainage will be sharply reduced . 
+The retention period in the aerated lagoon ranged from 9.8 to 2.6 days , averaging 6.4 days . 
+The large amount of vegetable grindings from the grocery store in the shopping center created a suspended solids problem . 
+The vegetables were not readily metabolized by the bacteria in the aeration unit and tended to float on the surface . 
+A skimming device at the effluent weir prevented loss of most of these light solids . 
+The average volatile suspended solids in the effluent was 75 mg while MLSS averaged 170 mg volatile suspended solids . 
+The average sludge age based on displacement of solids was calculated to be 14.5 days . 
+The oxygen uptake rate in the mixed liquor averaged 0.8 mg during the first four months of this study . 
+Variations in aerator speeds during the latter two months of this study caused increased mixing and increased oxygen demand . 
+The increase in oxygen uptake rates from 1.2 to 2.6 mg which followed an increase in rotor speed was believed to be related to resuspension of solids which had settled at the lower rotor speeds . 
+It appeared that most of the mixed liquor suspended solids were active microbial solids with the heavier , less active solids settling out . 
+The suspended solids discharged in the effluent were found to be the major source of the A[fj] . 
+Removal of the suspended solids by a membrane filter yielded an average effluent containing only 20 mg A[fj] . 
+The BOD in the drainage ditch receiving the pilot plant effluent averaged 12 A[fj] . 
+This low BOD was due to removal of the excess suspended solids by sedimentation since the only dilution was surface runoff which was very low during this study . 
+Microscopic examination Routine microscopic examinations were made of the mixed liquor as indicated by McKinney and Gram for the various types of protozoa . 
+It was found that the aerated lagoon was an activated sludge system rather than an oxidation pond . 
+At no time were algae found in the mixed liquor . 
+The bacteria formed typical activated sludge floc . 
+The floc particles were all small as the heavier floc settled out . 
+Initially , the flagellated protozoa predominated , but they soon gave way to the free swimming ciliated protozoa . 
+As the temperature decreased , the number of free swimming ciliated protozoa decreased . 
+Very little protozoa activity existed below 40-degrees-F . 
+When the temperature reached 32-degrees-F all protozoan activity ceased ; ; but as the temperature rose , the numbers of protozoa increased rapidly . 
+Only once were stalked ciliates found in the mixed liquor . 
+The predomination of free swimming ciliated protozoa is indicative of a high bacterial population . 
+Oxygen transfer One of the important aspects of this study was to determine the oxygen transfer relationships of the mechanical aerator . 
+Routine determinations were made for dissolved oxygen in the mixed liquor and for oxygen uptake rates . 
+The data given in Table 2 , show the routine operation of the aerator . 
+The dissolved oxygen in the aeration unit was consistently high until January 29 , 1961 . 
+An extended cold spell caused ice to build up on the aerator which was mounted on a floating platform and caused the entire platform to sink lower in the water . 
+The added resistance to the rotor damaged the drive belts and reduced the oxygen transfer capacity . 
+It was approximately one month before the belt problem was noticed and corrected , but at no time was there a deficiency of dissolved oxygen . 
+A series of eight special tests were conducted at different rotor speeds to determine the oxygen transfer rate . 
+Five of the tests were conducted with a polyethylene cover to simulate an ice cover . 
+The rate of oxygen transfer at 1.0-mg . 
+l. dissolved oxygen concentration and 10-degrees-C for various rotor speeds is given in Table 3 . 
+The maximum rate of oxygen transfer at 1.0 mg dissolved oxygen was calculated as 220 lb at a maximum rate of 9.3 A[fj] . 
+The actual power requirements indicated 2 lb. oxygen transfer hr . 
+hp. . The polyethylene cover reduced the oxygen transfer rate by 10 per cent , indicating that the maximum oxygen transfer is at the rotor rather than through the surface . 
+Oxidation pond During this study septic conditions developed in the oxidation pond in the spring when the ice melted . 
+Shortly after this study ended septic conditions resulted which required the addition of sodium nitrate . 
+The location of the oxidation pond in a high-value residential area makes odor nuisances a sensitive problem for the developer . 
+The organic concentration in the influent raw sewage ranged from 160 to 270 mg of BOD with an average of 230 A[fj] . 
+The BOD data are given in Table 4 . 
+A single 24-hr. composite sample had a BOD of 260 mg , indicating a typical domestic sewage . 
+The daily sewage volume to the oxidation pond averaged 147,000 gpd , giving a retention period of 42 days . 
+The organic loading on the pond was slightly under 60 lb . 
+BOD day acre . 
+The effluent BOD averaged 34 mg , a little lower than that of the study at Fayette indicated for a loading of 60 lb . 
+A[fj] . 
+The BOD of the effluent ranged from a minimum of 13 to a maximum of 47 mg . 
+l. . Microscopic examination of the effluent showed that minimum BOD occurred when the algae began to decrease with cold weather . 
+When the algae began to build up again , the effluent BOD rose . 
+During the two weeks when the algae disappeared from the effluent BOD 's in the effluent were 18 and 16 A[fj] . 

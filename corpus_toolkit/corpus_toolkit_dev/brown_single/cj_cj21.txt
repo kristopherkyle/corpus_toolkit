@@ -1,0 +1,75 @@
+Introduction . 
+In 1 we investigate a new series of line involutions in a projective space of three dimensions over the field of complex numbers . 
+These are defined by a simple involutorial transformation of the points in which a general line meets a nonsingular quadric surface bearing a curve of symbol A[fj] . 
+Then in 2 we show that any line involution with the properties that ( A ) It has no complex of invariant lines , and ( B ) Its singular lines form a complex consisting exclusively of the lines which meet a twisted curve , is necessarily of the type discussed in 1 . 
+No generalization of these results to spaces of more than three dimensions has so far been found possible . 
+1 . 
+Let Q be a nonsingular quadric surface bearing reguli A[fj] and A[fj] , and let \*\* zg be a A[fj] curve of order K on Q . 
+A general line L meets Q in two points , A[fj] and A[fj] , through each of which passes a unique generator of the regulus , A[fj] , whose lines are simple secants of A[fj] . 
+On these generators let A[fj] and A[fj] be , respectively , the harmonic conjugates of A[fj] and A[fj] with respect to the two points in which the corresponding generator meets A[fj] . 
+The line A[fj] is the image of L . Clearly , the transformation is involutorial . 
+We observe first that no line , l , can meet its image except at one of its intersections with Q . 
+For if it did , the plane of L and l ' would contain two generators of A[fj] , which is impossible . 
+Moreover , from the definitive transformation of intercepts on the generators of A[fj] , it is clear that the only points of Q at which a line can meet its image are the points of A[fj] . 
+Hence the totality of singular lines is the T order complex of lines which meet A[fj] . 
+The invariant lines are the lines of the congruence of secants of \*\* zg , since each of these meets Q in two points which are invariant . 
+The order of this congruence is A[fj] , since A[fj] secants of a curve of symbol ( B ) on a quadric surface pass through an arbitrary point . 
+The class of the congruence is A[fj] , since an arbitrary plane meets \*\* zg in K points . 
+Since the complex of singular lines is of order K and since there is no complex of invariant lines , it follows from the formula A[fj] that the order of the involution is A[fj] . 
+There are various sets of exceptional lines , or lines whose images are not unique . 
+The most obvious of these is the quadratic complex of tangents to Q , each line of which is transformed into the entire pencil of lines tangent to Q at the image of the point of tangency of the given line . 
+Thus pencils of tangents to Q are transformed into pencils of tangents . 
+It is interesting that a 1 : 1 correspondence can be established between the lines of two such pencils , so that in a sense a unique image can actually be assigned to each tangent . 
+For the lines of any plane , \*\* yp , meeting Q in a conic C , are transformed into the congruence of secants of the curve C ' into which C is transformed in the point involution on Q . 
+In particular , tangents to C are transformed into tangents to C ' . 
+Moreover , if A[fj] and A[fj] are two planes intersecting in a line l , tangent to Q at a point P , the two free intersections of the image curves A[fj] and A[fj] must coincide at P ' , the image of P , and at this point A[fj] and A[fj] must have a common tangent l ' . 
+Hence , thought of as a line in a particular plane \*\* yp , any tangent to Q has a unique image and moreover this image is the same for all planes through L . 
+Each generator , \*\* yl , of A[fj] is also exceptional , for each is transformed into the entire congruence of secants of the curve into which that generator is transformed by the point involution on Q . 
+This curve is of symbol A[fj] since it meets \*\* yl , and hence every line of A[fj] in the A[fj] invariant points on \*\* yl and since it obviously meets every line of A[fj] in a single point . 
+The congruence of its secants is therefore of order A[fj] and class A[fj] . 
+A final class of exceptional lines is identifiable from the following considerations : Since no two generators of A[fj] can intersect , it follows that their image curves can have no free intersections . 
+In other words , these curves have only fixed intersections common to them all . 
+Now the only way in which all curves of the image family of A[fj] can pass through a fixed point is to have a generator of A[fj] which is not a secant but a tangent of \*\* zg , for then any point on such a generator will be transformed into the point of tangency . 
+Since two curves of symbol A[fj] on Q intersect in A[fj] points , it follows that there are A[fj] lines of A[fj] which are tangent to A[fj] . 
+Clearly , any line , l , of any bundle having one of these points of tangency , T , as vertex will be transformed into the entire pencil having the image of the second intersection of L and Q as vertex and lying in the plane determined by the image point and the generator of A[fj] which is tangent to \*\* zg at T . 
+A line through two of these points , A[fj] and A[fj] , will be transformed into the entire bilinear congruence having the tangents to \*\* zg at A[fj] and A[fj] as directrices . 
+A conic , C , being a ( 1 , 1 ) curve on Q , meets the image of any line of A[fj] , which we have already found to be a A[fj] curve on Q , in A[fj] points . 
+Hence its image , C ' , meets any line of A[fj] in A[fj] points . 
+Moreover , C ' obviously meets any line A[fj] in a single point . 
+Hence C ' is a A[fj] curve on Q . 
+Therefore , the congruence of its secants , that is the image of a general plane field of lines , is of order A[fj] and class A[fj] . 
+Finally , the image of a general bundle of lines is a congruence whose order is the order of the congruence of invariant lines , namely A[fj] and whose class is the order of the image congruence of a general plane field of lines , namely Af. 2 . 
+The preceding observations make it clear that there exist line involutions of all orders greater than 1 with no complex of invariant lines and with a complex of singular lines consisting exclusively of the lines which meet a twisted curve A[fj] . 
+We now shall show that any involution with these characteristics is necessarily of the type we have just described . 
+To do this we must first show that every line which meets \*\* zg in a point P meets its image at P . 
+To see this , consider a general pencil of lines containing a general secant of A[fj] . 
+By ( 1 ) , the image of this pencil is a ruled surface of order A[fj] which is met by the plane of the pencil in a curve , C , of order A[fj] . 
+On C there is a A[fj] correspondence in which the A[fj] points cut from C by a general line , l , of the pencil correspond to the point of intersection of the image of L and the plane of the pencil . 
+Since C is rational , this correspondence has K coincidences , each of which implies a line of the pencil which meets its image . 
+However , since the pencil contains a secant of \*\* zg it actually contains only A[fj] singular lines . 
+To avoid this contradiction it is necessary that C be composite , with the secant of \*\* zg and a curve of order A[fj] as components . 
+Thus it follows that the secants of \*\* zg are all invariant . 
+But if this is the case , then an arbitrary pencil of lines having a point , P , of \*\* zg as vertex is transformed into a ruled surface of order A[fj] having A[fj] generators concurrent at P . 
+Since a ruled surface of order N with N concurrent generators is necessarily a cone , it follows finally that every line through a point , P , of \*\* zg meets its image at P , as asserted . 
+Now consider the transformation of the lines of a bundle with vertex , P , on \*\* zg which is effected by the involution as a whole . 
+From the preceding remarks , it is clear that such a bundle is transformed into itself in an involutorial fashion . 
+Moreover , in this involution there is a cone of invariant lines of order A[fj] , namely the cone of secants of \*\* zg which pass through P . 
+Hence it follows that the involution within the bundle must be a perspective De Jonquieres involution of order A[fj] and the invariant locus must have a multiple line of multiplicity either A[fj] or A[fj] . 
+The first possibility requires that there be a line through P which meets \*\* zg in A[fj] points ; ; the second requires that there be a line through P which meets \*\* zg in A[fj] points . 
+In each case , lines of the bundles are transformed by involutions within the pencils they determine with the multiple secant . 
+In the first case the fixed elements within each pencil are the multiple secant and the line joining the vertex , P , to the intersection of \*\* zg and the plane of the pencil which does not lie on the multiple secant . 
+In the second , the fixed elements are the lines which join the vertex , P , to the two intersections of \*\* zg and the plane of the pencil which do not lie on the multiple secant . 
+The multiple secants , of course , are exceptional and in each case are transformed into cones of order A[fj] . 
+Observations similar to these can be made at each point of A[fj] . 
+Hence \*\* zg must have either a regulus of Af-fold secants or a regulus of Af-fold secants . 
+Moreover , if A[fj] , no two of the multiple secants can intersect . 
+For if such were the case , either the plane of the two lines would meet \*\* zg in more than K points or , alternatively , the order of the image regulus of the pencil determined by the two lines would be too high . 
+But if no two lines of the regulus of multiple secants of \*\* zg can intersect , then the regulus must be quadratic , or in other words , \*\* zg must be either a A[fj] or a A[fj] curve on a nonsingular quadric surface . 
+We now observe that the case in which \*\* zg is a A[fj] curve on a quadric is impossible if the complex of singular lines consists exclusively of the lines which meet A[fj] . 
+For any pencil in a plane containing a Af-fold secant of \*\* zg has an image regulus which meets the plane of the pencil in A[fj] lines , namely the images of the lines of the pencil which pass through the intersection of \*\* zg and the multiple secant , plus an additional component to account for the intersections of the images of the general lines of the pencil . 
+However , if there is no additional complex of singular lines , the order of the image regulus of a pencil is precisely A[fj] . 
+This contradicts the preceding observations , and so , under the assumption of this paper , we must reject the possibility that \*\* zg is a A[fj] curve on a quadric surface . 
+Continuing with the case in which \*\* zg is a A[fj] curve on a quadric Q , we first observe that the second regulus of Q consists precisely of the lines which join the two free intersections of \*\* zg and the planes through any one of the multiple secants . 
+For each of these lines meets Q in three points , namely two points on \*\* zg and one point on one of the multiple secants . 
+Now consider an arbitrary line , l , meeting Q in two points , A[fj] and A[fj] . 
+If \*\* ya is the multiple secant of \*\* zg which passes through A[fj] and \*\* yb is the simple secant of \*\* zg which passes through A[fj] , and if A[fj] are the points in which \*\* ya meets \*\* zg , and if A[fj] is the image of A[fj] on the generator \*\* yb , it follows that the image of the line A[fj] is A[fj] . 

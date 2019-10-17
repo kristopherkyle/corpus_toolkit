@@ -1,0 +1,89 @@
+In sentences , patterns of stress are determined by complex combinations of influences that can only be suggested here . 
+The tendency is toward putting dominant stress at the end . 
+There is a parallel to this tendency in the assignment of time in long-known hymn tunes . 
+Thus the first lines of one of Charles Wesley 's hymns are as follows . 
+" A charge to keep I have , A God to glorify " . 
+In the tune to which this hymn is most often sung , " Boylston " , the syllables have and fy , ending their lines , have twice the time any other syllables have . 
+Dominant stress is of course more than extended duration , and normally centers on syllables that would have primary stress or phrase stress if the words or longer units they are parts of were spoken alone : a dominant stress given to glorify would normally center on its first syllable rather than its last . 
+But the parallel is significant . 
+When the answer to what 's wrong now ? ? 
+Is Bill 's broken a chair , dominant stress will usually be on the complement a chair . 
+From the point of view of syntactic analysis the head word in the statement is the predicator has broken , and from the point of view of meaning it would seem that the trouble centers in the breaking ; ; but dominant stress will be assigned to broken only in rather exceptional versions of the sentence . 
+In I know one thing dominant stress will usually be on the complement one thing ; ; in one thing I know it will usually be on the predicator know . 
+In small-town people are very friendly dominant stress will generally be on the complement very friendly ; ; in the double sentence the smaller the town , the friendlier the people it will generally be on the subjects the town and the people . 
+In what 's a linguist ? ? 
+dominant stress will generally be on the subject a linguist ; ; in who 's a linguist ? it will generally be on the complement a linguist . 
+Dominant stress is on her luggage both in that 's her luggage , where her luggage is the complement , and in there 's her luggage , where it is the subject . 
+Adverbial second complements , however , are likely not to have dominant stress when they terminate sentences . 
+If the answer to what was that noise ? ? 
+Is George put the cat out , dominant stress will ordinarily be on the first complement , the cat , not the second complement out . 
+Final adjuncts may or may not have dominant stress . 
+If the answer to what was that noise ? ? 
+Is George reads the news emotionally , dominant stress may or may not be on the adjunct emotionally . 
+When prepositional complements are divided as in what are you looking for ? ? 
+They are likely to lose dominant stress . 
+Context is of extreme importance . 
+What is new in the context is likely to be made more prominent than what is not . 
+Thus in a context in which there has been discussion of snow but mention of local conditions is new , dominant stress will probably be on here in it rarely snows here , but in a context in which there has been discussion of local weather but no mention of snow , dominant stress will probably be on snows . 
+The personal pronouns and substitute one are normally unstressed because they refer to what is prominent in the immediate context . 
+In I 'll go with George dominant stress is probably on George ; ; but if George has just been mentioned prominently ( and the trip to be made has been under discussion ) , what is said is probably I 'll go with him , and dominant stress is probably on the preposition with . 
+When a gesture accompanies who 's he ? ? 
+the personal pronoun has dominant stress because " he " has not been mentioned previously . 
+If both George and a piece of information George does not have are prominent in the context , but the idea of telling George is new , then dominant stress will probably be on tell in why not tell George ? ? 
+But when what is new in a particular context is also fairly obvious , there is normally only light stress or no stress at all . 
+Thus the unstressed it of it rarely snows here gets its significance from its use with snows : nothing can snow snow but " it " . 
+In there are n't many young people in the neighborhood the modifier young takes dominant stress away from its head people : the fact that the young creatures of interest are people seems rather obvious . 
+If women replaced people , it would normally have dominant stress . 
+In I have things to do the word things makes little real contribution to meaning and has weaker stress than do . 
+If work is substituted for things ( with more exact contribution to meaning ) , it will have dominant stress . 
+In I know one thing dominant stress is likely to go to one rather than to semantically pale thing . 
+In I knew you when you were a child , and you were pretty then dominant stress on then implies that the young woman spoken to is still pretty . 
+Dominant stress on pretty would be almost insulting here . 
+In the written language then can be underlined or italicized to guide the reader here , but much of the time the written language simply depends on the reader 's alertness , and a careless reader will have to back up and reread . 
+Often , dominant stress simply indicates a centering of attention or emotion . 
+Thus in it 's incredible what that boy can eat dominant stress is likely to be on incredible , and eat will have strong stress also . 
+In she has it in for George dominant stress will ordinarily be on in , where the notion of stored-up antipathy seems to center . 
+In we 're painting at our garage strong stress on at indicates that the job being done is not real painting but simply an effort at painting . 
+Where there is comparison or contrast , dominant stresses normally operate to center attention . 
+Thus in his friends are stranger than his sisters ' strong stresses are normal for his and sisters ' , but in his friends are stranger than his sisters strong stresses are normal for friends and sisters . 
+In he 's hurting himself more than he 's hurting you both himself and you have stronger stress than they would ordinarily have if there were no contrast . 
+In is she Chinese or Japanese ? ? 
+The desire to contrast the first parts of words which are alike in their last components produces an exceptional disregard of the normal patterns of stress of Chinese and Japanese . 
+Sometimes strong stress serves to focus an important secondary relationship . 
+Thus in Mary wrote an account of the trip first strong stress on Mary marks Mary as the first in a series of people who wrote accounts of the trip , strong stress on wrote marks the writing as the first of a series of actions of Mary 's concerned with an account of her trip ( about which she may later have made speeches , for example ) , and strong stress on trip makes the trip the first of a series of subjects about which Mary wrote accounts . 
+In hunger stimulates man too the situation is very similar . 
+Strong stress on hunger treats hunger as an additional stimulus , strong stress on stimulates treats stimulation as an additional effect of hunger , strong stress on man treats man as an additional creature who responds to the stimulation of hunger . 
+Here again , in the written language it is possible to help the reader get his stresses right by using underlining or italics , but much of the time there is simply reliance on his understanding in the light of context . 
+When a word represents a larger construction of which it is the only expressed part , it normally has more stress than it would have in fully expressed construction . 
+Thus when yes , I have is the response to have you finished reading the paper ? ? 
+The stress on have , which here represents have finished reading the paper , is quite strong . 
+In Mack 's the leader at camp , but Jack is here the is of the second main declarative represents is the leader and therefore has stress . 
+Mack 's the leader at camp , but Jack 's here , with this is deprived of stress , makes here the complement in the clause . 
+In of all the suggestions that were made , his was the silliest the possessive his represents his suggestion and is stressed . 
+When go represents itself and a complement ( being equivalent , say , to go to Martinique ) in which boat did Jack go on ? ? 
+It has strong stress ; ; when it represents only itself and on which is its complement ( so that go on is semantically equivalent to board ) , on has stronger stress than go does . 
+Omission of a subordinator pronoun , however , does not result in an increase in stress on a prepositional adverb for which the subordinator pronoun would be object . 
+Thus to has light stress both in that was the conclusion that I came to and in that was the conclusion I came to . 
+But when to represents to consciousness in that was the moment that I came to , and similarly in that was the moment I came to , there is much stronger stress on to . 
+In I wanted to tell him , but I was afraid to the final to is lightly stressed because it represents to tell him . 
+In to tell him , of course , to is normally unstressed . 
+When I have instructions to leave is equivalent in meaning to I have instructions that I am to leave this place , dominant stress is ordinarily on leave . 
+When the same sequence is equivalent in meaning to I have instructions which I am to leave , dominant stress is ordinarily on instructions . 
+It is clear that patterns of stress sometimes show construction unambiguously in the spoken language where without the help of context it would be ambiguous in the written . 
+Other examples follow . 
+" I 'll come by Tuesday . 
+I ca n't be happy long without drinking water " . 
+In the first of these sentences if by is the complement of come and Tuesday is an adjunct of time equivalent to on Tuesday , there will be strong stress on by in the spoken language ; ; but if a complement for come is implied and by Tuesday is a prepositional unit used as an adjunct , by will be unstressed or lightly stressed at most . 
+In the second sentence if drinking water is a gerundial clause and without drinking water is roughly equivalent in meaning to unless I drink water , there will be stronger stress on water than on drinking ; ; but if drinking is a gerundial noun modifying water and without drinking water is equivalent to without water for drinking , there will be stronger stress on drinking than on water . 
+But the use of stress in comparison and contrast , for example , can undermine distinctions such as these . 
+And patterns of stress are not always unambiguous by any means . 
+In the Steiners have busy lives without visiting relatives only context can indicate whether visiting relatives is equivalent in meaning to paying visits to relatives or to relatives who are visiting them , and in I looked up the number and I looked up the chimney only the meanings of number and chimney make it clear that up is syntactically a second complement in the first sentence and a preposition followed by its object in the second . 
+Syllabification . 
+-- Syllables are linguistic units centering in peaks which are usually vocalic but , as has been noted , are consonantal under certain circumstances , and which may or may not be combined with preceding and following consonants or combinations of consonants . 
+Syllables are genuine units , but division of words and sentences into them presents great difficulties . 
+Sometimes even the number of syllables is not clear . 
+Doubt on this point is strongest before and AAb or . 
+From the point of view of word formation real might be expected to have two syllables . 
+Historically re is the formative that is employed also in republic , and al is the common suffix . 
+When ity is added , real clearly has two syllables . 
+But there is every reason to regard deal as a monosyllable , and because of the fact that commonly has the quality of AAb when it follows vowel sounds , deal seems to be a perfectly satisfactory rhyme with deal . 

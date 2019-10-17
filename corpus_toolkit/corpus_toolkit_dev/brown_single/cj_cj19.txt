@@ -1,0 +1,120 @@
+7-1 . 
+Examples of binomial experiments Some experiments are composed of repetitions of independent trials , each with two possible outcomes . 
+The binomial probability distribution may describe the variation that occurs from one set of trials of such a binomial experiment to another . 
+We devote a chapter to the binomial distribution not only because it is a mathematical model for an enormous variety of real life phenomena , but also because it has important properties that recur in many other probability models . 
+We begin with a few examples of binomial experiments . 
+Marksmanship example . 
+A trained marksman shooting five rounds at a target , all under practically the same conditions , may hit the bull's-eye from 0 to 5 times . 
+In repeated sets of five shots his numbers of bull's-eyes vary . 
+What can we say of the probabilities of the different possible numbers of bull's-eyes ? ? 
+Inheritance in mice . 
+In litters of eight mice from similar parents , the number of mice with straight instead of wavy hair is an integer from 0 to 8 . 
+What probabilities should be attached to these possible outcomes ? ? 
+Aces ( ones ) with three dice . 
+When three dice are tossed repeatedly , what is the probability that the number of aces is 0 ( or 1 , or 2 , or 3 ) ? ? 
+General binomial problem . 
+More generally , suppose that an experiment consists of a number of independent trials , that each trial results in either a " success " or a " non-success " ( " failure " ) , and that the probability of success remains constant from trial to trial . 
+In the examples above , the occurrence of a bull's-eye , a straight-haired mouse , or an ace could be called a " success " . 
+In general , any outcome we choose may be labeled " success " . 
+The major question in this chapter is : What is the probability of exactly X successes in N trials ? ? 
+In Chapters 3 and 4 we answered questions like those in the examples , usually by counting points in a sample space . 
+Fortunately , a general formula of wide applicability solves all problems of this kind . 
+Before deriving this formula , we explain what we mean by " problems of this kind " . 
+Experiments are often composed of several identical trials , and sometimes experiments themselves are repeated . 
+In the marksmanship example , a trial consists of " one round shot at a target " with outcome either one bull's-eye ( success ) or none ( failure ) . 
+Further , an experiment might consist of five rounds , and several sets of five rounds might be regarded as a super-experiment composed of several repetitions of the five-round experiment . 
+If three dice are tossed , a trial is one toss of one die and the experiment is composed of three trials . 
+Or , what amounts to the same thing , if one die is tossed three times , each toss is a trial , and the three tosses form the experiment . 
+Mathematically , we shall not distinguish the experiment of three dice tossed once from that of one die tossed three times . 
+These examples are illustrative of the use of the words " trial " and " experiment " as they are used in this chapter , but they are quite flexible words and it is well not to restrict them too narrowly . 
+Example 1 . 
+Student football managers . 
+Ten students act as managers for a high-school football team , and of these managers a proportion P are licensed drivers . 
+Each Friday one manager is chosen by lot to stay late and load the equipment on a truck . 
+On three Fridays the coach has needed a driver . 
+Considering only these Fridays , what is the probability that the coach had drivers all 3 times ? ? 
+Exactly 2 times ? ? 
+1 time ? ? 
+0 times ? ? 
+Discussion . 
+Note that there are 3 trials of interest . 
+Each trial consists of choosing a student manager at random . 
+The 2 possible outcomes on each trial are " driver " or " nondriver " . 
+Since the choice is by lot each week , the outcomes of different trials are independent . 
+The managers stay the same , so that A[fj] is the same for all weeks . 
+We now generalize these ideas for general binomial experiments . 
+For an experiment to qualify as a binomial experiment , it must have four properties : ( 1 ) there must be a fixed number of trials , ( 2 ) each trial must result in a " success " or a " failure " ( a binomial trial ) , ( 3 ) all trials must have identical probabilities of success , ( 4 ) the trials must be independent of each other . 
+Below we use our earlier examples to describe and illustrate these four properties . 
+We also give , for each property , an example where the property is absent . 
+The language and notation introduced are standard throughout the chapter . 
+1 . 
+There must be a fixed number n of repeated trials . 
+For the marksman , we study sets of five shots ( A[fj] ) ; ; for the mice , we restrict attention to litters of eight ( A[fj] ) ; ; and for the aces , we toss three dice ( A[fj] ) . 
+Experiment without a fixed number of trials . 
+Toss a die until an ace appears . 
+Here the number of trials is a random variable , not a fixed number . 
+2 . 
+Binomial trials . 
+Each of the N trials is either a success or a failure . 
+" Success " and " failure " are just convenient labels for the two categories of outcomes when we talk about binomial trials in general . 
+These words are more expressive than labels like " A " and " not-A " . 
+It is natural from the marksman 's viewpoint to call a bull's-eye a success , but in the mice example it is arbitrary which category corresponds to straight hair in a mouse . 
+The word " binomial " means " of two names " or " of two terms " , and both usages apply in our work : the first to the names of the two outcomes of a binomial trial , and the second to the terms P and A[fj] that represent the probabilities of " success " and " failure " . 
+Sometimes when there are many outcomes for a single trial , we group these outcomes into two classes , as in the example of the die , where we have arbitrarily constructed the classes " ace " and " not-ace " . 
+Experiment without the two-class property . 
+We classify mice as " straight-haired " or " wavy-haired " , but a hairless mouse appears . 
+We can escape from such a difficulty by ruling out the animal as not constituting a trial , but such a solution is not always satisfactory . 
+3 . 
+All trials have identical probabilities of success . 
+Each die has probability A[fj] of producing an ace ; ; the marksman has some probability p , perhaps 0.1 , of making a bull's-eye . 
+Note that we need not know the value of p , for the experiment to be binomial . 
+Experiment where p is not constant . 
+During a round of target practice the sun comes from behind a cloud and dazzles the marksman , lowering his chance of a bull's-eye . 
+4 . 
+The trials are independent . 
+Strictly speaking , this means that the probability for each possible outcome of the experiment can be computed by multiplying together the probabilities of the possible outcomes of the single binomial trials . 
+Thus in the three-dice example A[fj] , A[fj] , and the independence assumption imply that the probability that the three dice fall ace , not-ace , ace in that order is A[fj] . 
+Experimentally , we expect independence when the trials have nothing to do with one another . 
+Examples where independence fails . 
+A family of five plans to go together either to the beach or to the mountains , and a coin is tossed to decide . 
+We want to know the number of people going to the mountains . 
+When this experiment is viewed as composed of five binomial trials , one for each member of the family , the outcomes of the trials are obviously not independent . 
+Indeed , the experiment is better viewed as consisting of one binomial trial for the entire family . 
+The following is a less extreme example of dependence . 
+Consider couples visiting an art museum . 
+Each person votes for one of a pair of pictures to receive a popular prize . 
+Voting for one picture may be called " success " , for the other " failure " . 
+An experiment consists of the voting of one couple , or two trials . 
+In repetitions of the experiment from couple to couple , the votes of the two persons in a couple probably agree more often than independence would imply , because couples who visit the museum together are more likely to have similar tastes than are a random pair of people drawn from the entire population of visitors . 
+Table 7-1 illustrates the point . 
+The table shows that 0.6 of the boys and 0.6 of the girls vote for picture A . 
+Therefore , under independent voting , A[fj] or 0.36 of the couples would cast two votes for picture A , and A[fj] or 0.16 would cast two votes for picture B . 
+Thus in independent voting , A[fj] or 0.52 of the couples would agree . 
+But Table 7-1 shows that A[fj] or 0.70 agree , too many for independent voting . 
+Each performance of an n-trial binomial experiment results in some whole number from 0 through N as the value of the random variable X , where A[fj] . 
+We want to study the probability function of this random variable . 
+For example , we are interested in the number of bull's-eyes , not which shots were bull's-eyes . 
+A binomial experiment can produce random variables other than the number of successes . 
+For example , the marksman gets 5 shots , but we take his score to be the number of shots before his first bull's-eye , that is , 0 , 1 , 2 , 3 , 4 ( or 5 , if he gets no bull's-eye ) . 
+Thus we do not score the number of bull's-eyes , and the random variable is not the number of successes . 
+The constancy of P and the independence are the conditions most likely to give trouble in practice . 
+Obviously , very slight changes in P do not change the probabilities much , and a slight lack of independence may not make an appreciable difference . 
+( For instance , see Example 2 of Section 5-5 , on red cards in hands of 5 . 
+) On the other hand , even when the binomial model does not describe well the physical phenomenon being studied , the binomial model may still be used as a baseline for comparative purposes ; ; that is , we may discuss the phenomenon in terms of its departures from the binomial model . 
+To summarize : A binomial experiment consists of A[fj] independent binomial trials , all with the same probability A[fj] of yielding a success . 
+The outcome of the experiment is X successes . 
+The random variable X takes the values A[fj] with probabilities A[fj] or , more briefly A[fj] . 
+We shall find a formula for the probability of exactly X successes for given values of P and N . 
+When each number of successes X is paired with its probability of occurrence A[fj] , the set of pairs A[fj] , is a probability function called a binomial distribution . 
+The choice of P and N determines the binomial distribution uniquely , and different choices always produce different distributions ( except when A[fj] ; ; then the number of successes is always 0 ) . 
+The set of all binomial distributions is called the family of binomial distributions , but in general discussions this expression is often shortened to " the binomial distribution " , or even " the binomial " when the context is clear . 
+Binomial distributions were treated by James Bernoulli about 1700 , and for this reason binomial trials are sometimes called Bernoulli trials . 
+Random variables . 
+Each binomial trial of a binomial experiment produces either 0 or 1 success . 
+Therefore each binomial trial can be thought of as producing a value of a random variable associated with that trial and taking the values 0 and 1 , with probabilities Q and P respectively . 
+The several trials of a binomial experiment produce a new random variable X , the total number of successes , which is just the sum of the random variables associated with the single trials . 
+Example 2 . 
+The marksman gets two bull's-eyes , one on his third shot and one on his fifth . 
+The numbers of successes on the five individual shots are , then , 0 , 0 , 1 , 0 , 1 . 
+The number of successes on each shot is a value of a random variable that has values 0 or 1 , and there are 5 such random variables here . 
+Their sum is X , the total number of successes , which in this experiment has the value A[fj] . 

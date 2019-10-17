@@ -1,0 +1,83 @@
+It will be shown that the objectives of the cooperative people in an organization determine the type of network required , because the type of network functions according to the characteristics of the messages enumerated in Table 1 . 
+Great stress is placed on the role that the monitoring of information sending plays in maintaining the effectiveness of the network . 
+By monitoring , we mean some system of control over the types of information sent from the various centers . 
+As a word of caution , we should be aware that in actual practice no message is purely one of the four types , question , command , statement , or exclamation . 
+For example , suppose a man wearing a $ 200 watch , driving a 1959 Rolls Royce , stops to ask a man on the sidewalk , " What time is it " ? ? 
+This sentence would have most of the characteristics of a question , but it has some of the characteristics of a statement because the questioner has conveyed the fact that he has no faith in his own timepiece or the one attached to his car . 
+If the man on the sidewalk is surprised at this question , it has served as an exclamation . 
+Also , since the man questioned feels a strong compulsion to answer ( and thereby avoid the consequences of being thought queer ) the question has assumed some measurable properties of a command . 
+However , for convenience we will stick to the idea that information can be classified according to Table 1 . 
+On this basis , certain extreme kinds of networks will be discussed for illustrative purposes . 
+Networks illustrating some special types of organization the cocktail party . 
+Presumably a cocktail party is expected to fulfill the host 's desire to get together a number of people who are inadequately acquainted and thereby arrange for bringing the level of acquaintance up to adequacy for future cooperative endeavors . 
+The party is usually in a room small enough so that all guests are within sight and hearing of one another . 
+The information is furnished by each of the guests , is sent by oral broadcasting over the air waves , and is received by the ears . 
+Since the air is a continuum , the network of communication remains intact regardless of the positions or motions of the points ( the people ) in the net . 
+As shown in Figure 1 , there is a connection for communication between every pair of points . 
+This , and other qualifications , make the cocktail party the most complete and most chaotic communication system ever dreamed up . 
+All four types of message listed in Table 1 are permitted , although decorum and cocktail tradition require holding the commands to a minimum , while exclamations having complimentary intonations are more than customarily encouraged . 
+The completeness of the connections provide that , for N people , there are A[fj] lines of communication between the pairs , which can become a large number ( 1,225 ) for a party of fifty guests . 
+Looking at the diagram , we see that A[fj] connection lines come in to each member . 
+Thus the cocktail party would appear to be the ideal system , but there is one weakness . 
+In spite of the dreams of the host for oneness in the group , the A[fj] incoming messages for each guest overload his receiving system beyond comprehension if N exceeds about six . 
+The crowd consequently breaks up into temporary groups ranging in size from two to six , with a half-life for the cluster ranging from three to twenty minutes . 
+For the occasion on which everyone already knows everyone else and the host wishes them to meet one or a few honored newcomers , then the " open house " system is advantageous because the honored guests are fixed connective points and the drifting guests make and break connections at the door . 
+The rural community . 
+We consider a rural community as an assemblage of inhabited dwellings whose configuration is determined by the location and size of the arable land sites necessary for family subsistence . 
+We assume for this illustration that the size of the land plots is so great that the distance between dwellings is greater than the voice can carry and that most of the communication is between nearest neighbors only , as shown in Figure 2 . 
+Information beyond nearest neighbor is carried second - , third - , and fourth-hand as a distortable rumor . 
+In Figure 2 , the points in the network are designated by a letter accompanied by a number . 
+The numbers indicate the number of nearest neighbors . 
+It will be noted that point f has seven nearest neighbors , h and e have six , and p has only one , while the remaining points have intermediate numbers . 
+In any social system in which communications have an importance comparable with that of production and other human factors , a point like f in Figure 2 would ( other things being equal ) be the dwelling place for the community leader , while e and h would house the next most important citizens . 
+A point like p gets information directly from n , but all information beyond n is indirectly relayed through n . 
+The dweller at p is last to hear about a new cure , the slowest to announce to his neighbors his urgent distresses , the one who goes the farthest to trade , and the one with the greatest difficulty of all in putting over an idea or getting people to join him in a cooperative effort . 
+Since the hazards of poor communication are so great , p can be justified as a habitable site only on the basis of unusual productivity such as is made available by a waterfall for milling purposes , a mine , or a sugar maple camp . 
+Location theorists have given these matters much consideration . 
+Military organizations . 
+The networks for military communications are one of the best examples of networks which not only must be changed with the changes in objectives but also must be changed with the addition of new machines of war . 
+They also furnish proof that , in modern war , message sending must be monitored . 
+Without monitoring , a military hookup becomes a noisy party . 
+The need for monitoring became greater when radio was adopted for military signaling . 
+Alexander the Great , who used runners as message carriers , did not have to worry about having every officer in his command hear what he said and having hundreds of them comment at once . 
+As time has passed and science has progressed , the speed of military vehicles has increased , the range of missiles has been extended , the use of target-hunting noses on the projectiles has been adopted , and the range and breadth of message sending has increased . 
+Next to the old problem of the slowness of decision making , network structure seems to be paramount , and without monitoring no network has value . 
+On the parade ground the net may be similar to that shown in Figure 3 . 
+The monitoring is the highest and most restrictive of any organization in existence . 
+No questions , statements , or explanations are permitted -- only commands . 
+Commands go only from an officer to the man of nearest lower rank . 
+The same command is repeated as many times as there are levels in rank from general to corporal . 
+All orders originate with the officer of highest rank and terminate with action of the men in the ranks . 
+Even the officer in charge , be it a captain ( for small display ) or a general , is restrained by monitoring . 
+This is done for simplicity of commands and to bring the hidden redundancy up to where misunderstanding has almost zero possibility . 
+The commands are specified by the military regulations ; ; are few in number , briefly worded , all different in sound ; ; and are combinable into sequences which permit any marching maneuver that could be desired on a parade ground . 
+This monitoring is necessary because , on a parade ground , everyone can hear too much , and without monitoring a confused social event would develop . 
+With troops dispersed on fields of battle rather than on the parade ground , it may seem that a certain amount of monitoring is automatically enforced by the lines of communication . 
+Years ago this was true , but with the replacement of wires or runners by radio and radar ( and perhaps television ) , these restrictions have disappeared and now again too much is heard . 
+In contrast to cocktail parties , military organizations , even in the field , are more formal . 
+In the extreme and oversimplified example suggested in Figure 3 , the organization is more easily understood and more predictable in behavior . 
+A military organization has an objective chosen by the higher command . 
+This objective is adhered to throughout the duration of the action . 
+The connective system , or network , is tailored to meet the requirements of the objective , and it is therefore not surprising that a military body acting as a single coordinated unit has a different communication network than a factory , a college , or a rural village . 
+The assumptions upon which the example shown in Figure 3 is based are : ( A ) One man can direct about six subordinates if the subordinates are chosen carefully so that they do not need too much personal coaching , indoctrinating , etc. . ( B ) A message runs too great a risk of being distorted if it is to be relayed more than about six consecutive times . 
+( C ) Decisions of a general kind are made by the central command . 
+And ( D ) all action of a physical kind pertinent to the mission is relegated to the line of men on the lower rank . 
+These assumptions lead to an organization with one man at the top , six directly under him , six under each of these , and so on until there are six levels of personnel . 
+The number of people acting as one body by this scheme gives a surprisingly large army of 55,987 men . 
+This organizational network would be of no avail if there were no regulations pertaining to the types of message sent . 
+Of types of message listed in Table 1 , commands and statements are the only ones sent through the vertical network shown in Figure 3 . 
+A further regulation is that commands always go down , unaccompanied by statements , and statements always go up , unaccompanied by commands . 
+Questions and , particularly , exclamations are usually channeled along informal , horizontal lines not indicated in Figure 3 and seldom are carried beyond the nearest neighbor . 
+It will readily be seen that in this suggested network ( not materially different from some of the networks in vogue today ) greater emphasis on monitoring is implied than is usually put into practice . 
+Furthermore , the network in Figure 3 is only the basic net through which other networks pertaining to logistics and the like are interlaced . 
+Not discussed here are some military problems of modern times such as undersea warfare , where the surveillance , sending , transmitting , and receiving are all so inadequate that networks and decision making are not the bottlenecks . 
+Such problems are of extreme interest as well as importance and are so much like fighting in a rain forest or guerrilla warfare at night in tall grass that we might have to re-examine primitive conflicts for what they could teach . 
+A team for useful research . 
+This is an unsolved problem which probably has never been seriously investigated , although one frequently hears the comment that we have insufficient specialists of the kind who can compete with the Germans or Swiss , for example , in precision machinery and mathematics , or the Finns in geochemistry . 
+We hear equally fervent concern over the belief that we have not enough generalists who can see the over-all picture and combine our national skills and knowledge for useful purposes . 
+This problem of the optimum balance in the relative numbers of generalists and specialists can be investigated on a communicative network basis . 
+Since the difficulty of drawing the net is great , we will merely discuss it . 
+First , we realize that a pure specialist does not exist . 
+But , for practical purposes , we have people who can be considered as such . 
+For example , there are persons who are in physical science , in the field of mineralogy , trained in crystallography , who use only X-rays , applying only the powder technique of X-ray diffraction , to clay minerals only , and who have spent the last fifteen years concentrating on the montmorillonites ; ; or persons in the social sciences in the field of anthropology , studying the lung capacity of seven Andean Indians . 
+So we see that a specialist is a man who knows more and more about less and less as he develops , as contrasted to the generalist , who knows less and less about more and more . 

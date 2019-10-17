@@ -1,0 +1,77 @@
+The thermal exchange of chlorine between A[fj] and liquid A[fj] is readily measurable at temperatures in the range of 180-degrees and above . 
+The photochemical exchange occurs with a quantum yield of the order of unity in the liquid phase at 65-degrees using light absorbed only by the A[fj] . 
+In the gas phase , with A[fj] of A[fj] and A[fj] of A[fj] , quantum yields of the order of A[fj] have been observed at 85-degrees . 
+Despite extensive attempts to obtain highly pure reagents , serious difficulty was experienced in obtaining reproducible rates of reaction . 
+It appears possible to set a lower limit of about A[fj] for the activation energy of the abstraction of a chlorine atom from a carbon tetrachloride molecule by a chlorine atom to form A[fj] radical . 
+The rate of the gas phase exchange reaction appears to be proportional to the first power of the absorbed light intensity indicating that the radical intermediates are removed at the walls or by reaction with an impurity rather than by bimolecular radical combination reactions . 
+Introduction Because of the simplicity of the molecules , isotopic exchange reactions between elemental halogens and the corresponding carbon tetrahalides would appear to offer particularly fruitful possibilities for obtaining unambiguous basic kinetic data . 
+It would appear that it should be possible to determine unique mechanisms for the thermal and photochemical reactions in both the liquid and gas phases and to determine values for activation energies of some of the intermediate reactions of atoms and free radicals , as well as information on the heat of dissociation of the carbon-halogen bond . 
+The reaction of chlorine with carbon tetrachloride seemed particularly suited for such studies . 
+It should be possible to prepare very pure chlorine by oxidation of inorganic chlorides on a vacuum system followed by multiple distillation of the liquid . 
+It should be possible to free carbon tetrachloride of any interfering substances by the usual purification methods followed by prechlorination prior to addition of radioactive chlorine . 
+Furthermore , the exchange would not be expected to be sensitive to trace amounts of impurities because it would not be apt to be a chain reaction since the activation energy for abstraction of chlorine by a chlorine atom would be expected to be too high ; ; also it would be expected that A[fj] would compete very effectively with any impurities as a scavenger for A[fj] radicals . 
+Contrary to these expectations we have found it impossible to obtain the degree of reproducibility one would wish , even with extensive efforts to prepare especially pure reagents . 
+We are reporting these investigations here briefly because of their relevancy to problems of the study of apparently simple exchange reactions of chlorine and because the results furnish some information on the activation energy for abstraction of chlorine atoms from carbon tetrachloride . 
+Experimental reagents . 
+-- Matheson highest purity tank chlorine was passed through a tube of resublimed A[fj] into an evacuated Pyrex system where it was condensed with liquid air . 
+It was then distilled at least three times from a trap at -78-degrees to a liquid air trap with only a small middle fraction being retained in each distillation . 
+The purified product was stored at -78-degrees in a tube equipped with a break seal . 
+Of several methods employed for tagging chlorine with radiochlorine , the exchange of inactive chlorine with tagged aluminum chloride at room temperature was found to be the most satisfactory . 
+To prepare the latter , silver chloride was precipitated from a solution containing A[fj] obtained from the Oak Ridge National Laboratory . 
+The silver chloride was fused under vacuum in the presence of aluminum chips with the resultant product of A[fj] which was sublimed into a flask on the vacuum line . 
+Previously purified chlorine was subsequently admitted and the exchange was allowed to take place . 
+The radiochlorine was stored at -78-degrees in a tube equipped with a break seal . 
+Liter quantities of Mallinckrodt , low sulfur , reagent grade carbon tetrachloride were saturated with A[fj] and A[fj] and illuminated for about 50 hours with a 1000 watt tungsten lamp at a distance of a few inches . 
+The mixture was then extracted with alkali and with water following which the carbon tetrachloride was distilled on a Vigreux column , a 25 % center cut being retained which was then degassed under vacuum in the presence of A[fj] . 
+Purified inactive chlorine was then added from one of the tubes described above and the mixture frozen out and sealed off in a flask equipped with a break seal . 
+This chlorine-carbon tetrachloride solution was illuminated for a day following which the flask was resealed onto a vacuum system and the excess chlorine distilled off . 
+The required amount of carbon tetrachloride was distilled into a series of reaction cells on a manifold on a vacuum line . 
+The desired amounts of inactive chlorine and radioactive chlorine were likewise condensed in these cells on the vacuum line following which they were frozen down and the manifold as a whole was sealed off . 
+The contents of the manifold for liquid phase experiments were then mixed by shaking , redistributed to the reaction tubes , frozen down , and each tube was then sealed off . 
+The reactants for the gas phase experiments were first frozen out in a side-arm attached to the manifold and then allowed to distil slowly into the manifold of pre-cooled reaction cells before sealing off . 
+This method in general solved the problem of obtaining fairly equal concentrations of reactants in each of the six cells from a set . 
+Reaction conditions and analysis . 
+-- The samples for liquid phase thermal reaction studies were prepared in Pyrex capillary tubing 2.5 mm. i.d. and about 15 cm. long . 
+In a few experiments the tubes were made from standard 6 mm. i.d . 
+Pyrex tubing of 1 mm. wall thickness . 
+Both types of tube withstood the pressure of approximately 20 atmospheres exerted by the carbon tetrachloride at 220-degrees . 
+The photochemical reaction cells consisted of 10 mm. i.d . 
+Pyrex tubing , 5.5 cm. long , diffraction effects being minimized by the fact that the light passed through only liquid-glass interfaces and not gas-glass interfaces . 
+These cells were used rather than square Pyrex tubing because of the tendency of the latter to shatter when thawing frozen carbon tetrachloride . 
+The round cells were reproducibly positioned in the light beam which entered the thermostated mineral oil-bath through a window . 
+Two types of light source were used , a thousand watt projection lamp and an AH6 high pressure mercury arc . 
+The light was filtered by the soft glass window of the thermostat thus ensuring that only light absorbed by the chlorine and not by the carbon tetrachloride could enter the reaction cell . 
+Relative incident light intensities were measured with a thermopile potentiometer system . 
+Changes of intensity on the cell were achieved by use of a wire screen and by varying the distance of the light source from the cell . 
+Following reaction the cells were scratched with a file and opened under a 20 % aqueous sodium iodide solution . 
+Carrier A[fj] was added and the aqueous and organic phases were separated ( cells containing gaseous reactants were immersed in liquid air before opening under sodium iodide ) . 
+After titration of the liberated A[fj] with A[fj] , aliquots of the aqueous and of the organic phase were counted in a solution-type Geiger tube . 
+In the liquid phase runs the amount of carbon tetrachloride in each reaction tube was determined by weighing the tube before opening and weighing the fragments after emptying . 
+The fraction of exchange was determined as the ratio of the counts minute observed in the carbon tetrachloride to the counts minute calculated for the carbon tetrachloride fractions for equilibrium distribution of the activity between the chlorine and carbon tetrachloride , empirically determined correction being made for the difference in counting efficiency of A[fj] in A[fj] and A[fj] . 
+Results the thermal reaction . 
+-- In studying the liquid phase thermal reaction , some 70 tubes from 12 different manifold fillings were prepared and analyzed . 
+Experiments were done at 180 , 200 , 210 , and 220-degrees . 
+Following observation of the fact that the reaction rates of supposedly identical reaction mixtures prepared on the same filling manifold and exposed under identical conditions often differed by several hundred per cent , a systematic series of experiments was undertaken to see whether the difficulty could be ascribed to the method of preparing the chlorine , to the effects of oxygen or moisture or to the effect of surface to volume ratio in the reaction tubes . 
+In addition to the method described in the section above , chlorine and radiochlorine were prepared by the electrolysis of a A[fj] eutectic on the vacuum line , and by exchange of A[fj] with molten A[fj] . 
+Calcium hydride was substituted for A[fj] as a drying agent for carbon tetrachloride . 
+No correlation between these variables and the irreproducibility of the results was found . 
+The reaction rates observed at 200-degrees ranged from A[fj] of the chlorine exchanged per hour to 0.7 exchanged per hour . 
+In most cases the chlorine concentration was about A[fj] . 
+Sets of reaction tubes containing 0.2 of an atmosphere of added oxygen in one case and added moisture in another , both gave reaction rates in the range of 0.1 to 0.4 of the chlorine exchanged per hour . 
+No detectable reaction was found at room temperature for reaction mixtures allowed to stand up to 5 hours . 
+The liquid phase photochemical reaction . 
+The liquid phase photochemical exchange between chlorine and carbon tetrachloride was more reproducible than the thermal exchange , although still erratic . 
+The improvement was most noticeable in the greater consistency among reaction cells prepared as a group on the same manifold . 
+Rather large differences were still found between reaction cells from different manifold fillings . 
+Some 80 reaction tubes from 13 manifold fillings were illuminated in the temperature range from 40 to 85-degrees in a further endeavor to determine the cause of the irreproducibility and to obtain information on the activation energy and the effect of light intensity . 
+In all cases there was readily measurable exchange after as little as one hour of illumination . 
+By comparing reaction cells sealed from the same manifold temperature dependency corresponding to activation energies ranging from 11 to 18 A[fj] was observed while dependence on the first power of the light intensity seemed to be indicated in most cases . 
+It was possible to make estimates of the quantum yield by observing the extent of reduction of a uranyl oxalate actinometer solution illuminated for a known time in a typical reaction cell and making appropriate conversions based on the differences in the absorption spectra of uranyl oxalate and of chlorine , and considering the spectral distribution of the light source . 
+These estimates indicated that the quantum yield for the exchange of chlorine with liquid carbon tetrachloride at 65-degrees is of the order of magnitude of unity . 
+When typical reaction cells to which 0.3 of an atmosphere of oxygen had been added were illuminated , chlorine and phosgene were produced . 
+Exchange was also observed in these cells , which had chlorine present at A[fj] . 
+The photochemical exchange in the gas phase . 
+-- Although there was some variation in results which must be attributed either to trace impurities or to variation in wall effects , the photochemical exchange in the gas phase was sufficiently reproducible so that it seemed meaningful to compare the reaction rates in different series of reaction tubes for the purpose of obtaining information on the effect of chlorine concentration and of carbon tetrachloride concentration on the reaction rate . 
+Data on such comparisons together with data on the effect of light intensity are given in Table 1 . 
+, In series 1 , the relative light intensity was varied by varying the distance of the lamp from the reaction cell over the range from 14.7 to 29.2 cm. . The last column shows the rate of exchange that would have been observed at a relative intensity of 4 ( 14.7 cm. distance ) calculated on the assumptions that the incident light intensity is inversely proportional to the square of the distance of the lamp from the cell and that the rate is directly proportional to the incident light intensity . 
+Direct proportionality of the rate to the incident intensity has also been assumed in obtaining the value in the last column for the fourth sample of series 2 , where the light intensity was reduced by use of a screen . 
