@@ -60,12 +60,12 @@ it      10932
 The most efficient way to conduct multiple analyses with a tagged corpus is to write a tagged version of your corpus to file and then conduct subsequent analyses with the tagged files. If this is not possible for some reason, one can always run the tagger each time an analysis is conducted.
 
 ```python
-tagged_brown = ct.tag(ldcorpus("brown_single"))
+tagged_brown = ct.tag(ct.ldcorpus("brown_single"))
 ct.write_corpus("tagged_brown_single",tagged_brown) #the first argument is the folder where the tagged files will be written
 ```
 The function **tag()** is also a Python generator, so the preferred way to write a corpus is:
 ```python
-ct.write_corpus("tagged_brown_single",ct.tag(ldcorpus("brown_single")))
+ct.write_corpus("tagged_brown_single",ct.tag(ct.ldcorpus("brown_single")))
 ```
 
 Now, we can reload our tagged corpus using the **reload()** function and generate a part of speech sensitive frequency list.
