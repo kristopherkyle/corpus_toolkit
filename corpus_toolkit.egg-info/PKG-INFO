@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: corpus-toolkit
-Version: 0.28
+Version: 0.29
 Summary: A simple Python toolkit for corpus analyses
 Home-page: https://kristopherkyle.github.io/corpus_toolkit/
 Author: Kristopher Kyle
@@ -31,6 +31,7 @@ Description: # Corpus-toolkit
         brown_corp = ct.ldcorpus("brown_single") #load and read corpus
         tok_corp = ct.tokenize(brown_corp) #tokenize corpus - by default this lemmatizes as well
         brown_freq = ct.frequency(tok_corp) #creates a frequency dictionary
+        #note that range can be calculated instead of frequency using the argument calc = "range"
         ct.head(brown_freq, hits = 10) #print top 10 items
         
         ```
@@ -68,12 +69,12 @@ Description: # Corpus-toolkit
         The most efficient way to conduct multiple analyses with a tagged corpus is to write a tagged version of your corpus to file and then conduct subsequent analyses with the tagged files. If this is not possible for some reason, one can always run the tagger each time an analysis is conducted.
         
         ```python
-        tagged_brown = ct.tag(ldcorpus("brown_single"))
+        tagged_brown = ct.tag(ct.ldcorpus("brown_single"))
         ct.write_corpus("tagged_brown_single",tagged_brown) #the first argument is the folder where the tagged files will be written
         ```
         The function **tag()** is also a Python generator, so the preferred way to write a corpus is:
         ```python
-        ct.write_corpus("tagged_brown_single",ct.tag(ldcorpus("brown_single")))
+        ct.write_corpus("tagged_brown_single",ct.tag(ct.ldcorpus("brown_single")))
         ```
         
         Now, we can reload our tagged corpus using the **reload()** function and generate a part of speech sensitive frequency list.
@@ -117,7 +118,7 @@ Description: # Corpus-toolkit
         wrong   5.868744120106091
         ```
         
-        ### Keyness
+        ## Keyness
         Keyness is calculated using two frequency dictionaries (consisting of raw frequency values). Only effect sizes are reported (_p_ values are arguably not particularly useful for keyness analyses). Keyness calculation options include "log-ratio", "%diff", and "odds-ratio".
         
         ```python
@@ -127,6 +128,7 @@ Description: # Corpus-toolkit
         
         #then calculate Keyness
         corp_key = ct.keyness(corp1freq,corp2freq, effect = "log-ratio")
+        ct.head(corp_key, hits = 10) #to display top hits
         ```
         ## N-grams
         
@@ -157,7 +159,9 @@ Description: # Corpus-toolkit
         ```Python
         bg_dict = ct.dep_bigram(ct.ldcorpus("brown_single"),"dobj")
         ct.head(bg_dict["bi_freq"], hits = 10)
-        #other keys include "dep_freq", "head_freq", "range", and "samples"
+        #other keys include "dep_freq", "head_freq", and "range"
+        #also note that the key "samples" can be used to obtain a list of sample sentences
+        #but, this is not compatible with the ct.head() function (see ct.dep_conc() instead)
         ```
         ```
         #all dependency bigrams are formatted as dependent_head

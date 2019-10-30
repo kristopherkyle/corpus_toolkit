@@ -23,6 +23,7 @@ from corpus_toolkit import corpus_tools as ct
 brown_corp = ct.ldcorpus("brown_single") #load and read corpus
 tok_corp = ct.tokenize(brown_corp) #tokenize corpus - by default this lemmatizes as well
 brown_freq = ct.frequency(tok_corp) #creates a frequency dictionary
+#note that range can be calculated instead of frequency using the argument calc = "range"
 ct.head(brown_freq, hits = 10) #print top 10 items
 
 ```
@@ -109,7 +110,7 @@ let     5.938347287580174
 wrong   5.868744120106091
 ```
 
-### Keyness
+## Keyness
 Keyness is calculated using two frequency dictionaries (consisting of raw frequency values). Only effect sizes are reported (_p_ values are arguably not particularly useful for keyness analyses). Keyness calculation options include "log-ratio", "%diff", and "odds-ratio".
 
 ```python
@@ -119,6 +120,7 @@ corp2freq = ct.frequency(ct.tokenize(ct.ldcorpus("corp2")))
 
 #then calculate Keyness
 corp_key = ct.keyness(corp1freq,corp2freq, effect = "log-ratio")
+ct.head(corp_key, hits = 10) #to display top hits
 ```
 ## N-grams
 
@@ -149,7 +151,9 @@ The function **dep_bigram()** generates frequency dictionaries for the dependent
 ```Python
 bg_dict = ct.dep_bigram(ct.ldcorpus("brown_single"),"dobj")
 ct.head(bg_dict["bi_freq"], hits = 10)
-#other keys include "dep_freq", "head_freq", "range", and "samples"
+#other keys include "dep_freq", "head_freq", and "range"
+#also note that the key "samples" can be used to obtain a list of sample sentences
+#but, this is not compatible with the ct.head() function (see ct.dep_conc() instead)
 ```
 ```
 #all dependency bigrams are formatted as dependent_head

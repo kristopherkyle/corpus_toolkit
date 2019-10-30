@@ -15,7 +15,7 @@ import xml.etree.ElementTree as ET #for writing xml or html
 import random
 import os
 
-version = "0.28"
+version = "0.29"
 
 try:
 	import spacy #import spacy
@@ -378,9 +378,11 @@ def collocator(corpus,target, left = 4,right = 4, stat = "MI", cutoff = 5, ignor
 			elif stat == "freq":
 				stat_dict[x] = collocate_freq[x]
 			elif stat == "right": #right frequency
-				stat_dict[x] = r_freq[x] 
+				if x in r_freq:
+					stat_dict[x] = r_freq[x] 
 			elif stat == "left":
-				stat_dict[x] = l_freq[x]
+				if x in l_freq:
+					stat_dict[x] = l_freq[x]
 				
 	return(stat_dict) #return stat dict
 
@@ -549,7 +551,9 @@ def soa(freq_dict,stat = "MI", range_cutoff = 5, cutoff=5):
 			stat_dict[x] = mi_score #add value to dictionary
 		
 		elif stat == "T": #t-score
-			t_score = math.log2((observed - expected)/math.sqrt(expected))
+			t_score = math.log2(abs((observed - expected)/math.sqrt(expected))) #if observed is less than expected, Python gets upset
+			if (observed - expected)/math.sqrt(expected) < 0: 
+				t_score = 0-t_score
 			stat_dict[x] = t_score
 
 		elif stat == "faith_dep": #probability of getting the head given the governor (e.g., getting "apple" given "red")
