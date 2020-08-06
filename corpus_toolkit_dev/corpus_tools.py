@@ -30,7 +30,7 @@ data_filename = pkg_resources.resource_filename('corpus_toolkit', 'antbnc_lemmas
 
 dirsep = os.path.sep
 default_punct_list = [",",".","?","'",'"',"!",":",";","(",")","[","]","''","``","--"] #we can add more items to this if needed
-default_space_list = ["\n","\t","	","   ","  "]
+default_space_list = ["\n","\t","    ","   ","  "]
 
 def doc_check(f_list,dirname,ending):
 	if len(f_list) == 0:
@@ -191,7 +191,7 @@ def write_corpus(new_dirname,corpus, dirname = False, ending = "txt"):
 		outf.flush()
 		outf.close()
 
-ignore_list = [""," ", "  ", "   ", "	"] #list of items we want to ignore in our frequency calculations
+ignore_list = [""," ", "  ", "   ", "    "]  #list of items we want to ignore in our frequency calculations
 
 def frequency(corpus_list, ignore = ignore_list, calc = 'freq', normed = False): #options for calc are 'freq' or 'range'
 	freq_dict = {} #empty dictionary
