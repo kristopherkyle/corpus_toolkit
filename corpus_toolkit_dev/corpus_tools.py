@@ -430,12 +430,15 @@ def dep_bigram(corpus,dep,lemma = True, lower = True, pron = False, dep_upos = N
 								dependent = token.text.lower() #then use the raw form of the word
 								headt = token.head.text.lower()
 							else:
-								if lower:
+								if lower == True:
 									dependent = token.lemma_.lower()
 									headt = token.head.lemma_.lower()
 								else:  # If lower is false, don't lower
 									dependent = token.lemma_
 									headt = token.head.lemma_
+						else:  #if we want Spacy's pronoun lemma
+							dependent = token.lemma_
+							headt = token.head.lemma_
 					
 					if lemma == False: #if lemma is false, use the token form
 						if lower == True: #if lower is true, lower it
