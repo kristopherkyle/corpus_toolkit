@@ -30,7 +30,7 @@ data_filename = pkg_resources.resource_filename('corpus_toolkit', 'antbnc_lemmas
 
 dirsep = os.path.sep
 default_punct_list = [",",".","?","'",'"',"!",":",";","(",")","[","]","''","``","--"] #we can add more items to this if needed
-default_space_list = ["\n","\t","    ","   ","  "]
+default_space_list = ["\n","\t","	","   ","  "]
 
 def doc_check(f_list,dirname,ending):
 	if len(f_list) == 0:
@@ -191,7 +191,7 @@ def write_corpus(new_dirname,corpus, dirname = False, ending = "txt"):
 		outf.flush()
 		outf.close()
 
-ignore_list = [""," ", "  ", "   ", "    "] #list of items we want to ignore in our frequency calculations
+ignore_list = [""," ", "  ", "   ", "	"] #list of items we want to ignore in our frequency calculations
 
 def frequency(corpus_list, ignore = ignore_list, calc = 'freq', normed = False): #options for calc are 'freq' or 'range'
 	freq_dict = {} #empty dictionary
@@ -430,11 +430,12 @@ def dep_bigram(corpus,dep,lemma = True, lower = True, pron = False, dep_upos = N
 								dependent = token.text.lower() #then use the raw form of the word
 								headt = token.head.text.lower()
 							else:
-								dependent = token.lemma_
-								headt = token.head.lemma_
-						else:
-							dependent = token.lemma_
-							headt = token.head.lemma_
+								if lower:
+									dependent = token.lemma_.lower()
+									headt = token.head.lemma_.lower()
+								else:  # If lower is false, don't lower
+									dependent = token.lemma_
+									headt = token.head.lemma_
 					
 					if lemma == False: #if lemma is false, use the token form
 						if lower == True: #if lower is true, lower it
