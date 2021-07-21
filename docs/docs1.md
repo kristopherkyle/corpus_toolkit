@@ -1,6 +1,8 @@
 
-# corpus-toolkit documentation resource page
+# corpus-toolkit Documentation Page
 This page includes details on the arguments each function in the corpus-toolkit package takes.
+
+**Note that this page is in progress!** All (heavily commented) code is [also available here](https://github.com/kristopherkyle/corpus_toolkit/blob/master/corpus_toolkit/corpus_tools.py)
 
 ## Default lists
 
