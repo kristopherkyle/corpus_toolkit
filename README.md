@@ -14,7 +14,7 @@ python -m spacy download en_core_web_sm
 ## Quickstart guide
 There are three corpus pre-processing options. The first is to use the **tokenize()** function, which does not rely on a part of speech tagger. The second is to use the **tag()** function, which uses [Spacy](https://spacy.io/) to tokenize and tag the corpus. The third option is to pre-process the corpus in any way you like before using the other functions of the corpus-toolkit package.
 
-This tutorial presumes that you have downloaded and extracted the [brown_single.zip](https://github.com/kristopherkyle/corpus_toolkit/blob/master/corpus_toolkit/brown_single.zip?raw=true), which is a version of the [Brown corpus](http://clu.uni.no/icame/manuals/BROWN/INDEX.HTM). The folder "brown_single" should be in your working directory.
+This tutorial presumes that you have downloaded and extracted the [brown_single.zip](https://github.com/kristopherkyle/Corpus-Methods-Intro/blob/master/Course-Materials/brown_single.zip?raw=true), which is a version of the [Brown corpus](http://clu.uni.no/icame/manuals/BROWN/INDEX.HTM). The folder "brown_single" should be in your working directory.
 
 ### Load, tokenize, and generate a frequency list
 
