@@ -1,4 +1,7 @@
 
+# corpus-toolkit documentation resource page
+This page includes details on the arguments each function in the corpus-toolkit package takes.
+
 ## Default lists
 
 ```python
@@ -6,7 +9,7 @@ default_punct_list = [",",".","?","'",'"',"!",":",";","(",")","[","]","''","``",
 default_space_list = ["\n","\t","    ","   ","  "]
 ```
 
-## Load corpus
+## ldcorpus()
 
 This function will load all files that match a certain filename ending (e.g., ".txt") in a folder. By default it loads all files ending in ".txt" and prints the name of each file being loaded.
 
@@ -15,7 +18,20 @@ This function will load all files that match a certain filename ending (e.g., ".
 - **ending** (*string variable*) This is the ending for your target filenames. By default, this is ".txt".
 - **verbose** (*Boolean variable*) This determines whether filenames are printed to the console when loading. By default, this is set to "True"
 
-## tokenize corpus
+```python
+def ldcorpus(dirname,ending = ".txt",verbose = True):
+		filenames = glob.glob(dirname + "/*" + ending) #gather all text names
+		nfiles = len(filenames) #get total number of files in corpus
+		fcount = 0 #counter for corpus files
+		for x in filenames:
+			fcount +=1 #update file count
+			sm_fname = x.split(dirsep)[-1] # get filename
+			if verbose == True:
+				print("Processing", sm_fname, "(" + str(fcount), "of", nfiles,"files)")
+			text = open(x, errors = "ignore").read()
+			yield(text)
+```
+## tokenize()
 
 **tokenize()** Is a generator function that tokenizes a list of texts. It takes eight arguments (seven of which have default values):
 - **corpus** (*list of texts*) This is a list of corpus texts (strings)
@@ -25,4 +41,23 @@ This function will load all files that match a certain filename ending (e.g., ".
 - **lower** (*Boolean variable*) This is a Boolean value that determines whether all characters in each text are set to lower case. By default, this is true.
 - **lemma** (*dictionary*) This is the lemma dictionary used to lemmatize tokens in each text that consists of lower-case unlemmatized words as keys and lemmas as values. By default, this is a pre-loaded lemma list. If set to False, then texts are not lemmatized.
 - **ngram** (*Boolean variable or integer*) This sets the n-gram length for tokenization. By default, this is set to False.
-- **ngrm-connect** (*string variable*) This sets the character used to join words in an ngram. By default, this is set to ```python "__" ```
+- **ngrm-connect** (*string variable*) This sets the character used to join words in an ngram. By default, this is set to `"__"`
+
+```python
+def tokenize(corpus, remove_list = default_punct_list, space_list = default_space_list, split_token = " ", lower = True, lemma=lemma_dict,ngram = False,ngrm_connect = "__"):
+	for text in corpus: #iterate through each string in the corpus_list
+		for item in remove_list:
+			text = text.replace(item,"") #replace each item in list with "" (i.e., nothing)
+		for item in space_list:
+			text = text.replace(item," ")
+		if lower == True:
+			text = text.lower()
+		#then we will tokenize the document
+		tokenized = text.split(split_token) #split string into list using the split token (by default this is a space " ")
+		if lemma != False: #if lemma isn't False
+			tokenized = lemmatize(tokenized,lemma)
+		if ngram != False:
+			tokenized = ngrammer(tokenized,ngram,ngrm_connect)
+
+		yield(tokenized)
+```
