@@ -1,5 +1,7 @@
 # Corpus-toolkit
 The corpus-toolkit package grew out of courses in corpus linguistics and learner corpus research. The toolkit attempts to balance simplicity of use, broad application, and scalability. Common corpus analyses such as the calculation of word and n-gram frequency and range, keyness, and collocation are included. In addition, more advanced analyses such as the identification of dependency bigrams (e.g., verb-direct object combinations) and their frequency, range, and strength of association are also included.
+
+More details on each function in the package (including various option settings) can be found on the [corpus-toolkit resource page](docs/docs1.md).
 ## Install corpus-toolkit
 The package can be downloaded using pip
 ```bash
