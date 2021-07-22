@@ -58,6 +58,9 @@ he      19417
 have    11938
 it      10932
 ```
+
+Note that the **frequency()** function can also calculate range and normalized frequency figures. See the [resource page](docs/docs1.md) for details.
+
 ### Create a tagged version of your corpus
 
 The most efficient way to conduct multiple analyses with a tagged corpus is to write a tagged version of your corpus to file and then conduct subsequent analyses with the tagged files. If this is not possible for some reason, one can always run the tagger each time an analysis is conducted.
