@@ -130,5 +130,189 @@ def head(stat_dict,hits = 20,hsort = True,output = False,filename = None, sep = 
 
 	if output == True: #if output is true
 		return(sorted_list) #return the sorted list
+```
 
+## tag()
+
+insert description here
+
+```python
+def tag(corpus,tp = "upos", lemma = True, pron = False, lower = True, connect = "_",ignore = ["PUNCT","SPACE","SYM"],ngram = False,ngrm_connect = "__"):
+
+	#check to make sure a valid tag was chosen
+	if tp not in ["penn","upos","dep"]:
+		print("Please use a valid tag type: 'penn','upos', or 'dep'")
+	else:
+		for text in corpus:
+			doc = nlp(text) #use spacy to tokenize, lemmatize, pos tag, and parse the text
+			text_list = [] #empty list for output
+			for token in doc: #iterate through the tokens in the document
+				if token.pos_ in ignore: #if the universal POS tag is in our ignore list, then move to next word
+					continue
+
+				if lemma == True: #if we chose lemma (this is the default)
+					if pron == False: #if we don't want Spacy's pronoun lemmatization
+						if token.lemma_ == "-PRON-":
+							word = token.text.lower() #then use the raw form of the word
+						else:
+							word = token.lemma_ #otherwise the word form will be a lemma
+					else:
+						word = token.lemma_ #then the word form will be a lemma
+				else:
+					if lower == True: #if we we chose lemma = False but we want our words lowered (this is default)
+						word = token.text.lower() #then lower the word
+					else:
+						word = token.text #if we chose lemma = False and lower = False, just give us the word
+
+				if tp == None: #if tp = None, then just give the tokenized word (and nothing else)
+					text_list.append(word)
+
+				else:
+					if tp == "penn":
+						tagged = token.tag_ #modified penn tag
+					elif tp == "upos":
+						tagged = token.pos_ #universal pos tag
+					elif tp == "dep":
+						tagged = token.dep_ #dependency relationship
+
+				tagged_token = word + connect + tagged #add word, connector ("_" by default), and tag
+				text_list.append(tagged_token) #add to list
+
+			if ngram != False:
+				text_list = ngrammer(text_list,ngram,ngrm_connect)
+			yield(text_list) #yield text list
+```
+
+## write_corpus()
+
+insert description here
+
+```python
+def write_corpus(new_dirname,corpus, dirname = False, ending = "txt"):
+	name_list = []
+	if dirname != False:
+		for x in glob.glob(dirname + "/*" + ending):
+			simple_name = x.split(dirsep)[-1] #split the long directory name by the file separator and take the last item (the short filename)
+			name_list.append(simple_name)
+
+	try:
+		os.mkdir(new_dirname + "/") #make the new folder
+	except FileExistsError: #if folder already exists, then print message
+		print("Writing files to existing folder")
+
+	for i, document in enumerate(corpus): #use enumerate to iterate through the corpus list
+		if dirname == False:
+			new_filename = new_dirname + "/" + str(i+1) + "." + ending #create new filename
+		else:
+			new_filename = new_dirname + "/" + name_list[i] #create new filename
+		outf = open(new_filename,"w") #create outfile with new filename
+		corpus_string = " ".join(document) #turn corpus list into string
+		outf.write(corpus_string) #write corpus list
+		outf.flush()
+		outf.close()
+```
+## dep_bigram()
+
+insert description here
+
+```python
+def dep_bigram(corpus,dep,lemma = True, lower = True, pron = False, dep_upos = None, head_upos = None, dep_text = None, head_text = None):
+
+	bi_freq = {} #holder for dependency bigram frequency
+	dep_freq = {} #holder for depenent frequency
+	head_freq = {} #holder for head frequency
+	range_freq = {}
+	match_sentences = [] #holder for sentences that include matches
+
+	def dicter(item,d): #d is a dictinoary
+		if item not in d:
+			d[item] = 1
+		else:
+			d[item] +=1
+
+	textid = 0
+	for text in corpus: #iterate through corpus filenames
+		textid+=1
+		range_list = [] #for range information
+		#sent_text = "first"
+		doc = nlp(text) #tokenize, tag, and parse text using spaCy
+		for sentence in doc.sents: #iterate through sentences
+			#print(sent_text)
+			index_start = 0 #for identifying sentence-level indexes later
+			sent_text = [] #holder for sentence
+			dep_headi = [] #list for storing [dep,head] indexes
+			first_token = True #for identifying index of first token
+
+			for token in sentence: #iterate through tokens in document
+				if first_token == True:
+					index_start = token.i #if this is the first token, set the index start number
+					first_token = False #then set first token to False
+
+				sent_text.append(token.text) #for adding word to sentence
+
+				if token.dep_ == dep: #if the token's dependency tag matches the one designated
+					dep_tg = token.pos_ #get upos tag for the dependent (only used if dep_upos is specified)
+					head_tg = token.head.pos_ #get upos tag for the head (only used if dep_upos is specified)
+
+					if lemma == True: #if lemma is true, use lemma form of dependent and head
+						if pron == False: #if we don't want Spacy's pronoun lemmatization
+							if token.lemma_ == "-PRON-":
+								dependent = token.text.lower() #then use the raw form of the word
+								headt = token.head.text.lower()
+							else:
+								dependent = token.lemma_
+								headt = token.head.lemma_
+						else:
+							dependent = token.lemma_
+							headt = token.head.lemma_
+
+					if lemma == False: #if lemma is false, use the token form
+						if lower == True: #if lower is true, lower it
+							dependent = token.text.lower()
+							headt = token.head.text.lower()
+						else: #if lower is false, don't lower
+							dependent = token.text
+							headt = token.head.text
+
+					if dep_upos != None and dep_upos != dep_tg: #if dependent tag is specified and upos doesn't match, skip item
+						continue
+
+					if head_upos != None and head_upos!= head_tg: #if head tag is specified and upos doesn't match, skip item
+						continue
+
+					if dep_text != None and dep_text != dependent: #if dependent text is specified and text doesn't match, skip item
+						continue
+
+					if head_text != None and head_text != headt: #if head text is specified and text doesn't match, skip item
+						continue
+
+					dep_headi.append([token.i-index_start,token.head.i-index_start]) #add sentence-level index numbers for dependent and head
+
+					dep_bigram = dependent + "_" + headt #create dependency bigram
+
+					range_list.append(dep_bigram) #add to document-level range list
+					dicter(dep_bigram,bi_freq) #add values to frequency dictionary
+					dicter(dependent,dep_freq) #add values to frequency dictionary
+					dicter(headt,head_freq) #add values to frequency dictionary
+
+			### this section is for creating a list of sentences that include our hits ###
+			for x in dep_headi: #iterate through hits
+
+				temp_sent = sent_text.copy() #because there may be multiple hits in each sentence (but we only want to display one hit at at time), we make a temporary copy of the sentence that we will modify
+
+				depi = sent_text[x[0]] + "_" + dep+ "_dep" #e.g., word_dobj_dep
+				headi = sent_text[x[1]] + "_" + dep+ "_head" #e.g., word_dobj_head
+
+				temp_sent[x[0]] = depi #change dependent word to depi in temporary sentence
+				temp_sent[x[1]] = headi ##change head word to headi in temporary sentence
+
+				temp_sent.append(str(textid)) ## add file inded to sent to indicate where example originated
+				match_sentences.append(temp_sent) #add temporary sentence to match_sentences for output
+
+		for x in list(set(range_list)): #create a type list of the dep_bigrams in the text
+			dicter(x,range_freq) #add document counts to the range_freq dictionary
+
+
+	bigram_dict = {"bi_freq":bi_freq,"dep_freq":dep_freq,"head_freq": head_freq, "range":range_freq, "samples":match_sentences} #create a dictioary of dictionaries
+	return(bigram_dict) # return dictionary of dictionaries
 ```
