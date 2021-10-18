@@ -4,6 +4,7 @@
 Created on Mon Oct  7 10:49:52 2019
 
 @author: kkyle2
+version: 0.30
 """
 
 import glob
@@ -373,7 +374,7 @@ def collocator(corpus,target, left = 4,right = 4, stat = "MI", cutoff = 5, ignor
 				mi_score = math.log2(observed/expected) #log base 2 of observed co-occurence/expected co-occurence
 				stat_dict[x] = mi_score
 			elif stat == "T": #t-score
-				t_score = math.log2((observed - expected)/math.sqrt(expected))
+				t_score = (observed-expected)/(math.sqrt(observed))
 				stat_dict[x] = t_score
 			elif stat == "freq":
 				stat_dict[x] = collocate_freq[x]
@@ -551,8 +552,8 @@ def soa(freq_dict,stat = "MI", range_cutoff = 5, cutoff=5):
 			stat_dict[x] = mi_score #add value to dictionary
 		
 		elif stat == "T": #t-score
-			t_score = math.log2(abs((observed - expected)/math.sqrt(expected))) #if observed is less than expected, Python gets upset
-			if (observed - expected)/math.sqrt(expected) < 0: 
+			t_score = (observed-expected)/(math.sqrt(observed)) #if observed is less than expected, Python gets upset
+			if (observed-expected)/(math.sqrt(observed)) < 0: 
 				t_score = 0-t_score
 			stat_dict[x] = t_score
 
