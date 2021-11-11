@@ -62,10 +62,10 @@ it      10932
 Note that the **frequency()** function can also calculate range and normalized frequency figures. See the [resource page](docs/docs1.md) for details.
 
 ### Generate concordance lines
-Concordance lines can be generated using the **concord()** function. By default, a random sample of 25 hits will be generated, with 10 tokens of left and right context. 
+Concordance lines can be generated using the **concord()** function. By default, a random sample of 25 hits will be generated, with 10 tokens of left and right context.
 
 ```python
-conc_results1 = concord(tokenize(ldcorpus("brown_single"),lemma = False),["run","ran","running","runs"],nhits = 10)
+conc_results1 = ct.concord(ct.tokenize(ct.ldcorpus("brown_single"),lemma = False),["run","ran","running","runs"],nhits = 10)
 for x in conc_results1:
 	print(x)
 ```
@@ -86,7 +86,7 @@ for x in conc_results1:
 Collocates can also be added as secondary search terms:
 
 ```python
-conc_results2 = concord(tokenize(ldcorpus("brown_single"),lemma = False),["run","ran","running","runs"],collocates = ["quick","quickly"], nhits = 10)
+conc_results2 = ct.concord(ct.tokenize(ct.ldcorpus("brown_single"),lemma = False),["run","ran","running","runs"],collocates = ["quick","quickly"], nhits = 10)
 for x in conc_results2:
 	print(x)
 ```
@@ -100,7 +100,7 @@ for x in conc_results2:
 
 Search terms (and collocate search terms) can also be interpreted as regular expressions:
 ```python
-conc_results3 = concord(tokenize(ldcorpus("brown_single"),lemma = False),["run.*","ran"],collocates = ["quick.*"], nhits = 10, regex = True)
+conc_results3 = ct.concord(ct.tokenize(ct.ldcorpus("brown_single"),lemma = False),["run.*","ran"],collocates = ["quick.*"], nhits = 10, regex = True)
 for x in conc_results3:
 	print(x)
 ```
@@ -118,7 +118,7 @@ Concordance lines can also be written to a file for easier analysis (e.g., using
 
 ```python
 #write concordance lines to a file called "run_25.txt"
-conc_results4 = concord(tokenize(ldcorpus("brown_single"),lemma = False),["run","ran","running","runs"],nhits = 10, outname = "run_25.txt")
+conc_results4 = ct.concord(ct.tokenize(ct.ldcorpus("brown_single"),lemma = False),["run","ran","running","runs"],nhits = 10, outname = "run_25.txt")
 ```
 
 
