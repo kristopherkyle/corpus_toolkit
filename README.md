@@ -118,7 +118,7 @@ Concordance lines can also be written to a file for easier analysis (e.g., using
 
 ```python
 #write concordance lines to a file called "run_25.txt"
-conc_results4 = ct.concord(ct.tokenize(ct.ldcorpus("brown_single"),lemma = False),["run","ran","running","runs"],nhits = 10, outname = "run_25.txt")
+conc_results4 = ct.concord(ct.tokenize(ct.ldcorpus("brown_single"),lemma = False),["run","ran","running","runs"], outname = "run_25.txt")
 ```
 
 
