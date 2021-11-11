@@ -4,7 +4,7 @@
 Created on Mon Oct  7 10:49:52 2019
 
 @author: kkyle2
-version: 0.31
+version: 0.32
 """
 
 import glob
@@ -17,7 +17,7 @@ import random
 import os
 import re
 
-version = "0.31" #dev
+version = "0.32" #dev
 
 try:
 	import spacy #import spacy
@@ -25,8 +25,8 @@ except ModuleNotFoundError:
 	print("It appears that you do not have spacy installed on your computer. Without installing Spacy, the tag(), and tag_corpus() functions won't work properly.")
 try:	
 	nlp = spacy.load("en_core_web_sm") #load the English model. This can be changed - just make sure that you download the appropriate model first
-except ImportError:
-	print("It appears that you haven't downloaded the default language model for Spacy 'en_core_web_sm'. Please make sure you have a model downloaded. If you wish to use a model other than the default one, then load it before proceeding: 'nlp = spacy.load('model_name')'")
+except (ImportError, NameError):
+	print("It appears that you haven't downloaded the default language model for Spacy 'en_core_web_sm'. If you intend to tag/parse your corpus, please make sure you have a model downloaded. If you wish to use a model other than the default one, then load it before proceeding: 'nlp = spacy.load('model_name')'")
 
 data_filename = pkg_resources.resource_filename('corpus_toolkit', 'antbnc_lemmas_ver_003.txt')
 
