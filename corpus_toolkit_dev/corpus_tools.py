@@ -4,6 +4,7 @@
 Created on Mon Oct  7 10:49:52 2019
 
 @author: kkyle2
+version: 0.31
 """
 
 import glob
@@ -14,8 +15,9 @@ import itertools
 import xml.etree.ElementTree as ET #for writing xml or html
 import random
 import os
+import re
 
-version = "0.29"
+version = "0.31" #dev
 
 try:
 	import spacy #import spacy
@@ -83,6 +85,8 @@ def ngrammer(tokenized,number,connect = "__"):
 def ldcorpus(dirname,ending = ".txt",verbose = True):
 		filenames = glob.glob(dirname + "/*" + ending) #gather all text names
 		nfiles = len(filenames) #get total number of files in corpus
+		if nfiles == 0:
+			print("No files found. There may be a problem with your working directory or your file search term.")
 		fcount = 0 #counter for corpus files
 		for x in filenames:
 			fcount +=1 #update file count
@@ -122,6 +126,81 @@ def tokenize(corpus, remove_list = default_punct_list, space_list = default_spac
 			tokenized = ngrammer(tokenized,ngram,ngrm_connect)
 		
 		yield(tokenized)
+
+def write_concord(outname, conc_list,sep = "\t"):
+	outf = open(outname,"w")
+	#outf.write("left_context\tnode_word\tright_context") #write header (optional)
+	for x in conc_list:
+		left = sep.join(x[0]) #join the left context list into a string using spaces
+		target = x[1] #this is the node/target word
+		right = sep.join(x[2]) #join the left context list into a string using spaces
+		outf.write("\n" + left + sep + ">>>" + sep + target + sep + "<<<" + sep + right)
+	outf.flush()
+	outf.close()
+
+def concord_text(tok_list,target,nleft,nright,collocates = [],regex = False):
+	hits = [] #empty list for search hits
+
+	for idx, x in enumerate(tok_list): #iterate through token list using the enumerate function. idx = list index, x = list item
+		match = False
+		if regex == False:
+			if x in target: #if the item matches one of the target items
+				match = True
+		if regex == True:
+			for item in target:
+				if re.compile(item).match(x) != None:
+					match = True
+		
+		if match == True:
+			if idx < nleft: #deal with left context if search term comes early in a text
+				left = tok_list[:idx] #get x number of words before the current one (based on nleft)
+			else:
+				left = tok_list[idx-nleft:idx] #get x number of words before the current one (based on nleft)
+
+			t = x #set t as the item
+			right = tok_list[idx+1:idx+nright+1] #get x number of words after the current one (based on nright)
+			if len(collocates) == 0: #if no collocates are defined
+				hits.append([left,t,right]) #append a list consisting of a list of left words, the target word, and a list of right words
+			
+			else:
+				colmatch = False #switch to 
+				
+				if regex == False:
+					for y in left + right:
+						if y in collocates:
+							colmatch = True
+				
+				if regex == True:
+					for y in left + right:
+						for item in collocates:
+							if re.compile(item).match(y) != None:
+								colmatch = True
+				if colmatch == True:
+					hits.append([left,t,right]) #append a list consisting of a list of left words, the target word, and a list of right words
+
+	return(hits)
+
+def concord(tokenized_corp,target,nhits=25,nleft=10,nright=10,collocates = [], outname = "",sep = "\t", regex = False):
+	hits = []
+
+	for text in tokenized_corp:
+		for hit in concord_text(text,target,nleft,nright,collocates,regex):
+			hits.append(hit)
+			
+	# now we generate the random sample
+	if len(hits) <= nhits: #if the number of search hits are less than or equal to the requested sample:
+		print("Search returned " + str(len(hits)) + " hits.\n Returning all " + str(len(hits)) + " hits")
+		if len(outname) > 0:
+			write_concord(outname,hits,sep)
+		return(hits) #return entire hit list
+	else:
+		print("Search returned " + str(len(hits)) + " hits.\n Returning a random sample of " + str(nhits) + " hits")
+		if len(outname) > 0:
+			write_concord(outname,hits,sep)
+		return(random.sample(hits,nhits)) #return the random sample
+
+#results = concord(tokenize(ldcorpus("brown_single"),lemma = False),["run","ran","running","runs"], collocates = ["fast", "quick","quickly"], outname = "run_test.txt")
+#results = concord(tokenize(ldcorpus("brown_single"),lemma = False),["run.*","ran"], collocates = ["fast.*", "quick.*"], outname = "run_test_regex.txt",regex = True)
 
 def tag(corpus,tp = "upos", lemma = True, pron = False, lower = True, connect = "_",ignore = ["PUNCT","SPACE","SYM"],ngram = False,ngrm_connect = "__"):
 	
@@ -373,7 +452,7 @@ def collocator(corpus,target, left = 4,right = 4, stat = "MI", cutoff = 5, ignor
 				mi_score = math.log2(observed/expected) #log base 2 of observed co-occurence/expected co-occurence
 				stat_dict[x] = mi_score
 			elif stat == "T": #t-score
-				t_score = math.log2((observed - expected)/math.sqrt(expected))
+				t_score = (observed-expected)/(math.sqrt(observed))
 				stat_dict[x] = t_score
 			elif stat == "freq":
 				stat_dict[x] = collocate_freq[x]
@@ -551,8 +630,8 @@ def soa(freq_dict,stat = "MI", range_cutoff = 5, cutoff=5):
 			stat_dict[x] = mi_score #add value to dictionary
 		
 		elif stat == "T": #t-score
-			t_score = math.log2(abs((observed - expected)/math.sqrt(expected))) #if observed is less than expected, Python gets upset
-			if (observed - expected)/math.sqrt(expected) < 0: 
+			t_score = (observed-expected)/(math.sqrt(observed)) #if observed is less than expected, Python gets upset
+			if (observed-expected)/(math.sqrt(observed)) < 0: 
 				t_score = 0-t_score
 			stat_dict[x] = t_score
 

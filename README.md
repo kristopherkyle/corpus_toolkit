@@ -61,6 +61,67 @@ it      10932
 
 Note that the **frequency()** function can also calculate range and normalized frequency figures. See the [resource page](docs/docs1.md) for details.
 
+### Generate concordance lines
+Concordance lines can be generated using the **concord()** function. By default, a random sample of 25 hits will be generated, with 10 tokens of left and right context. 
+
+```python
+conc_results1 = concord(tokenize(ldcorpus("brown_single"),lemma = False),["run","ran","running","runs"],nhits = 10)
+for x in conc_results1:
+	print(x)
+```
+
+```
+[['buckle', 'drag', 'the', 'wagons', 'to', 'the', 'spring', 'lew', 'durkin', 'yelled'], 'run', ['em', 'right', 'into', 'the', 'spring', 'hustle', 'one', 'of', 'the', 'wagons']]
+[['his', 'sweater', 'soaking', 'into', 'a', 'dark', 'streak', 'of', 'dirt', 'that'], 'ran', ['diagonally', 'across', 'the', 'white', 'wool', 'on', 'his', 'shoulder', 'as', 'though']]
+[['took', 'a', 'hasty', 'shot', 'then', 'fled', 'without', 'knowing', 'the', 'result'], 'ran', ['until', 'breath', 'was', 'a', 'pain', 'in', 'his', 'chest', 'and', 'his']]
+[['back', 'to', 'new', 'york', 'as', 'maude', 'suggested', 'she', 'would', 'nt'], 'run', ['like', 'a', 'scared', 'cat', 'but', 'well', 'she', 'd', 'be', 'very']]
+[['with', 'that', 'soap', 'i', 'was', 'loaded', 'with', 'suds', 'when', 'i'], 'ran', ['away', 'and', 'i', 'have', 'nt', 'had', 'a', 'chance', 'to', 'wash']]
+[['conditions', 'of', 'international', 'law', 'are', 'met', 'countries', 'that', 'try', 'to'], 'run', ['the', 'blockade', 'do', 'so', 'at', 'their', 'own', 'risk', 'blockade', 'runners']]
+[['produce', 'something', 'which', 'has', 'not', 'previously', 'existed', 'thus', 'creativity', 'may'], 'run', ['all', 'the', 'way', 'from', 'making', 'a', 'cake', 'building', 'a', 'chicken']]
+[['from', 'the', 'school', 'he', 'did', 'nt', 'look', 'back', 'and', 'he'], 'ran', ['until', 'he', 'was', 'out', 'of', 'sight', 'of', 'the', 'schoolhouse', 'and']]
+[['in', 'my', 'body', 'i', 'could', 'light', 'all', 'the', 'lights', 'and'], 'run', ['all', 'the', 'factories', 'in', 'the', 'entire', 'united', 'states', 'for', 'some']]
+[['in', 'any', 'time', 'they', 'please', 'sergeant', 'no', 'sir', 'running', 'in'], 'running', ['out', 'ca', 'nt', 'have', 'it', 'makes', 'for', 'confusion', 'and', 'congestion']]
+```
+
+Collocates can also be added as secondary search terms:
+
+```python
+conc_results2 = concord(tokenize(ldcorpus("brown_single"),lemma = False),["run","ran","running","runs"],collocates = ["quick","quickly"], nhits = 10)
+for x in conc_results2:
+	print(x)
+```
+
+```
+[['range', 'and', 'in', 'marlin', 's', 'underground', 'test', 'gallery', 'we', 'quickly'], 'ran', ['into', 'the', 'same', 'trouble', 'that', 'plagued', 'bill', 'ruger', 'in', 'his']]
+[['s', 'nest', 'to', 'the', 'rocky', 'ribs', 'of', 'the', 'canyonside', 'russ'], 'ran', ['up', 'the', 'steps', 'quickly', 'to', 'the', 'plank', 'porch', 'the', 'front']]
+[['hands', 'and', 'feet', 'keeping', 'the', 'hands', 'in', 'the', 'starting', 'position'], 'run', ['in', 'place', 'to', 'a', 'quick', 'rhythm', 'after', 'this', 'has', 'become']]
+[['engine', 'up', 'to', 'operating', 'temperature', 'quickly', 'and', 'to', 'keep', 'it'], 'running', ['at', 'its', 'most', 'efficient', 'temperature', 'through', 'the', 'proper', 'circulation', 'of']]
+```
+
+Search terms (and collocate search terms) can also be interpreted as regular expressions:
+```python
+conc_results3 = concord(tokenize(ldcorpus("brown_single"),lemma = False),["run.*","ran"],collocates = ["quick.*"], nhits = 10, regex = True)
+for x in conc_results3:
+	print(x)
+```
+
+```
+[['impact', 'we', 'fired', 'this', 'little', '20-inch-barrel', 'job', 'on', 'my', 'home'], 'range', ['and', 'in', 'marlin', 's', 'underground', 'test', 'gallery', 'we', 'quickly', 'ran']]
+[['range', 'and', 'in', 'marlin', 's', 'underground', 'test', 'gallery', 'we', 'quickly'], 'ran', ['into', 'the', 'same', 'trouble', 'that', 'plagued', 'bill', 'ruger', 'in', 'his']]
+[['minutes', 'the', 'gallery', 'leaders', 'had', 'given', 'the', 'students', 'a', 'quick'], 'rundown', ['on', 'art', 'from', 'the', 'renaissance', 'to', 'the', 'late', '19th', 'century']]
+[['s', 'nest', 'to', 'the', 'rocky', 'ribs', 'of', 'the', 'canyonside', 'russ'], 'ran', ['up', 'the', 'steps', 'quickly', 'to', 'the', 'plank', 'porch', 'the', 'front']]
+[['hands', 'and', 'feet', 'keeping', 'the', 'hands', 'in', 'the', 'starting', 'position'], 'run', ['in', 'place', 'to', 'a', 'quick', 'rhythm', 'after', 'this', 'has', 'become']]
+[['engine', 'up', 'to', 'operating', 'temperature', 'quickly', 'and', 'to', 'keep', 'it'], 'running', ['at', 'its', 'most', 'efficient', 'temperature', 'through', 'the', 'proper', 'circulation', 'of']]
+```
+
+Concordance lines can also be written to a file for easier analysis (e.g., using spreadsheet software). By default, items are separated by tab characters ("\t").
+
+```python
+#write concordance lines to a file called "run_25.txt"
+conc_results4 = concord(tokenize(ldcorpus("brown_single"),lemma = False),["run","ran","running","runs"],nhits = 10, outname = "run_25.txt")
+```
+
+
 ### Create a tagged version of your corpus
 
 The most efficient way to conduct multiple analyses with a tagged corpus is to write a tagged version of your corpus to file and then conduct subsequent analyses with the tagged files. If this is not possible for some reason, one can always run the tagger each time an analysis is conducted.
