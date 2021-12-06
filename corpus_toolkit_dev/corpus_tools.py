@@ -270,7 +270,7 @@ def write_corpus(new_dirname,corpus, dirname = False, ending = "txt"):
 		outf.flush()
 		outf.close()
 
-ignore_list = [""," ", "  ", "   ", "    "] #list of items we want to ignore in our frequency calculations
+ignore_list = [""," ", "  ", "   ", "    "]  #list of items we want to ignore in our frequency calculations
 
 def frequency(corpus_list, ignore = ignore_list, calc = 'freq', normed = False): #options for calc are 'freq' or 'range'
 	freq_dict = {} #empty dictionary
@@ -509,9 +509,13 @@ def dep_bigram(corpus,dep,lemma = True, lower = True, pron = False, dep_upos = N
 								dependent = token.text.lower() #then use the raw form of the word
 								headt = token.head.text.lower()
 							else:
-								dependent = token.lemma_
-								headt = token.head.lemma_
-						else:
+								if lower == True:
+									dependent = token.lemma_.lower()
+									headt = token.head.lemma_.lower()
+								else:  # If lower is false, don't lower
+									dependent = token.lemma_
+									headt = token.head.lemma_
+						else:  #if we want Spacy's pronoun lemma
 							dependent = token.lemma_
 							headt = token.head.lemma_
 					
